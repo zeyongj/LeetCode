@@ -20,7 +20,7 @@ Given a binary array `nums`, return the maximum number of consecutive 1's in the
   Output: 2
  
 ## Constraints
-- 1 <= nums.length <= $10^5$
+- 1 <= nums.length <= $$10^5$$
 - nums[i] is either 0 or 1.
 
 ## Reference
