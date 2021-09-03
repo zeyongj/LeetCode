@@ -39,7 +39,7 @@ The constranits of this question are as follows:
 
 
 For more information about this question, click on the following link: 
-    \href{https://leetcode.com/problems/max-consecutive-ones/}{Max Consecutive Ones}
+    \href{https://leetcode.com/problems/max-consecutive-ones/}{Max Consecutive Ones} or go to the next url: \url{https://leetcode.com/problems/max-consecutive-ones/}.
 
 The pseudo-code is in the following page.
 
@@ -51,13 +51,13 @@ The pseudo-code is in the following page.
 \begin{algorithm}[hbt!]
 \caption{Max Consecutive Ones}\label{alg:two}
 \LinesNumbered
-\KwIn{int nums[]}
+\KwIn{int\& nums}
 \KwOut{int ans}
 $count \gets 0$\;
 $result \gets 0$\;
 $ans \gets 0$\;
 $size \gets length(nums)$\;
-\eIf{$size = 0$}{
+\eIf{$size == 0$}{
     return ans\Comment*[r]{ans = 0}
   }
   {
