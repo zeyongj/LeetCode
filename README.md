@@ -7,7 +7,7 @@
 - For each solution, the details of submissions provided by LeetCode would be provided.
 
 ## Questions
-- No.485: Max Consecutive Ones
+- No. 485: Max Consecutive Ones
 
 ## License
 
