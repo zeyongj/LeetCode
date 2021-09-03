@@ -1,5 +1,5 @@
 # Details
-solution.cpp
+[solution.cpp](https://github.com/zeyongj/LeetCode/blob/main/485.%20Max%20Consecutive%20Ones/solution.cpp)
 
 ## Runtime
 - 38 ms
