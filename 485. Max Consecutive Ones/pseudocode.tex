@@ -1,10 +1,28 @@
 \documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{authblk}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1}
 
 \title{LeetCode 485: Max Consecutive Ones}
-\author{Zeyong Jin, Simon Fraser University}
+\author{Zeyong Jin\thanks{zeyongj@gmail.com}}
+\affil{School of Computing Sciences, Simon Fraser University}
 \date{\today}
 
 \usepackage{algorithm2e}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+\urlstyle{same}
+\usepackage{enumitem}
 \begin{document}
 
 \maketitle
@@ -13,14 +31,17 @@ Here I presented a pseudo-code to solve the 485th question of LeetCode: Max Cons
 
 The description of this question is that given a binary array \texttt{nums}, return the maximum number of consecutive 1's in the array.
 
-The constranits are:
-\begin{enumerate}
+The constranits of this question are as follows:
+\begin{enumerate}[label=(\alph*),leftmargin=2\parindent]
    \item 1 $\leq$ \texttt{nums}.length $\leq$ $10^{5}$.
    \item \texttt{nums}[i] is either 0 or 1.
 \end{enumerate}
 
 
-The pseudo-code is as follows:
+For more information about this question, click on the following link: 
+    \href{https://leetcode.com/problems/max-consecutive-ones/}{Max Consecutive Ones}
+
+The pseudo-code is in the following page.
 
 \RestyleAlgo{ruled}
 %% This is needed if you want to add comments in
