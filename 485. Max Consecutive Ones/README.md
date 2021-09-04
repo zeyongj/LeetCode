@@ -23,6 +23,11 @@ Given a binary array `nums`, return the maximum number of consecutive 1's in the
 - 1 <= nums.length <= 10^5.
 - nums[i] is either 0 or 1.
 
+## Complexity
+- Time: O(n)
+- Space: O(1)
+
+
 ## Reference
 https://leetcode.com/problems/max-consecutive-ones/.
  
