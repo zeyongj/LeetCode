@@ -1,0 +1,82 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{authblk}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1}
+
+\title{LeetCode 283: Move Zeroes}
+\author{Zeyong Jin\thanks{zeyongj@gmail.com}}
+\affil{School of Computing Sciences, Simon Fraser University}
+\date{\today}
+
+\usepackage{algorithm2e}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+\urlstyle{same}
+\usepackage{enumitem}
+\begin{document}
+
+\maketitle
+
+Here I presented a pseudo-code to solve the 283rd question of LeetCode: Move Zeroes.
+
+The description of this question is that given an integer array  \texttt{nums}, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+One \textbf{note} of this question is that you must do this in-place without making a copy of the array.
+
+
+The constranits of this question are as follows:
+\begin{enumerate}[label=(\alph*),leftmargin=2\parindent]
+   \item 1 $\leq$ \texttt{nums}.length $\leq$ $10^{4}$.
+   \item $-2^{31}$ $\leq$ \texttt{nums}[i] $\leq$ $2^{31} - 1$.
+\end{enumerate}
+
+One \textbf{follow up} question is that whether you could minimize the total number of operations done.
+
+For more information about this question, click on the following link: 
+    \href{https://leetcode.com/problems/move-zeroes/}{Move Zeroes} or go to the next url: \url{https://leetcode.com/problems/move-zeroes/}.
+
+The pseudo-code is in the following page.
+
+The time complexity of this algorithm is $O(n)$.
+
+The space complexity of this algorithm is $O(1)$.
+
+
+\RestyleAlgo{ruled}
+%% This is needed if you want to add comments in
+%% your algorithm with \Comment
+\SetKwComment{Comment}{/* }{ */}
+
+\begin{algorithm}[hbt!]
+\caption{Move Zeroes}\label{alg:two}
+\LinesNumbered
+\KwIn{int\& nums}
+\KwOut{none}
+$cursor \gets 0$\;
+$size \gets length(nums)$\;
+$i \gets 0$\;
+\While{$i < size$}{
+  \eIf{$nums[i]$ != 0}{
+    $nums[cursor]$ = $nums[i]$\;
+    $cursor$++ \Comment*[r]{Cursor move to the next index waiting to be exchanged.}
+  }{$continue$ ;
+  }
+}
+$i \gets cursor$\ \Comment*[r]{Cursor now at the index next to the final position of non-zero value, i.e. cursor now points at the index of the first zero value.}
+\While{$i < size$}{
+  $nums[i]$ = 0 \Comment*[r]{Starting from the cursor, all values would be 0s.}
+}
+
+\end{algorithm}
+
+\end{document}
