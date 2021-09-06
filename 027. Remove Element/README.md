@@ -59,4 +59,9 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 ## Reference
 https://leetcode.com/problems/remove-element/.
- 
+
+## Author
+
+Zeyong Jin
+
+September 5th, 2021
