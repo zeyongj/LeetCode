@@ -7,6 +7,7 @@
 - For each solution, the details of submissions provided by LeetCode would be provided. (Hope so.)
 
 ## Questions
+- No. 27: Remove Element
 - No. 283: Move Zeroes
 - No. 485: Max Consecutive Ones
 
