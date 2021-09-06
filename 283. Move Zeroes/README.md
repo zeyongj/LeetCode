@@ -33,4 +33,9 @@ Could you minimize the total number of operations done?
 
 ## Reference
 https://leetcode.com/problems/move-zeroes/.
- 
+
+## Author
+
+Zeyong Jin
+
+September 3rd, 2021
