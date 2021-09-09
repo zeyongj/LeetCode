@@ -8,6 +8,7 @@
 
 ## Questions
 - No. 027: Remove Element
+- No. 203: Remove Linked List Elements
 - No. 283: Move Zeroes
 - No. 485: Max Consecutive Ones
 
