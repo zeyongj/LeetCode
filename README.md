@@ -6,12 +6,9 @@
 - For each LeetCode question, at least one python and one cpp solutions would be provided. (Hope so.)
 - For each solution, the details of submissions provided by LeetCode would be provided. (Hope so.)
 
-## Questions
-- No. 027: Remove Element
-- No. 203: Remove Linked List Elements
-- No. 206: Reverse Linked List
-- No. 283: Move Zeroes
-- No. 485: Max Consecutive Ones
+## Ackonwledge
+- The submissions to LeetCode are synchronized to this GitHub repository via the Chrome Extension of [LeetHub](https://github.com/zeyongj/LeetHub).
+- I would also like extend my appreciation to the original author of LeetHub, who is [Qasim Wani](https://github.com/QasimWani).
 
 ## License
 
