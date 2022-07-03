@@ -6,7 +6,7 @@
 - For each LeetCode question, at least one python and one cpp solutions would be provided. (Hope so.)
 - For each solution, the details of submissions provided by LeetCode would be provided. (Hope so.)
 
-## Ackonwledge
+## Acknowledgment
 - The submissions to LeetCode are synchronized to this GitHub repository via the Chrome Extension of [LeetHub](https://github.com/zeyongj/LeetHub).
 - I would also like extend my appreciation to the original author of LeetHub, who is [Qasim Wani](https://github.com/QasimWani).
 
