@@ -16,8 +16,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 
 `SPDX-License-Identifier: Apache-2.0-or-later`
 
-## Author
+## Revision
 
-Zeyong Jin
+- Last Modifed Author: Zeyong Jin
 
-September 8th, 2021
+- Last Modified Date: July 3rd, 2022
