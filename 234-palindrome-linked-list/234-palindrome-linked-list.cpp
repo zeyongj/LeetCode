@@ -1,32 +1,27 @@
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * struct ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-       List<Integer> vals = new ArrayList<>();
-
-        ListNode currentNode = head;
-        while (currentNode != null) {
-            vals.add(currentNode.val);
-            currentNode = currentNode.next;
-        }
-
-        int front = 0;
-        int back = vals.size() - 1;
-        while (front < back) {
-            if (!vals.get(front).equals(vals.get(back))) {
-                return false;
-            }
-            front++;
-            back--;
-        }
-        return true; 
+public:
+    ListNode* temp;
+    
+    bool check(ListNode* head) {
+        if (NULL == head) 
+            return true;
+        bool res = check(head->next) && (temp->val == head->val);
+        temp = temp->next;
+        return res;
     }
-}
+    
+    bool isPalindrome(ListNode* head) {
+        temp = head;
+        return check(head);
+    }
+};
