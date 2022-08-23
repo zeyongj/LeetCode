@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/palindrome-linked-list/solution/">234. Palindrome Linked List</a></h2><h3>Easy</h3><hr><div><p>Given the <code>head</code> of a singly linked list, return <code>true</code> if it is a palindrome.</p>
+<h2><a href="https://leetcode.com/problems/palindrome-linked-list/">234. Palindrome Linked List</a></h2><h3>Easy</h3><hr><div><p>Given the <code>head</code> of a singly linked list, return <code>true</code> if it is a palindrome.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
