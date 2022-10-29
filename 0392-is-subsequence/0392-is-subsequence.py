@@ -1,5 +1,10 @@
-class Solution:
-    def isSubsequence(self, s: str, t: str) -> bool:
+class Solution(object):
+    def isSubsequence(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
         LEFT_BOUND = len(s)
         RIGHT_BOUND = len(t)
 
