@@ -1,9 +1,5 @@
-class Solution(object):
-    def maximum69Number (self, num):
-        """
-        :type num: int
-        :rtype: int
-        """
+class Solution:
+    def maximum69Number (self, num: int) -> int:
         num_char_list = list(str(num))
 
         for i, cur_char in enumerate(num_char_list):
