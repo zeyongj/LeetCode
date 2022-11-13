@@ -7,7 +7,8 @@ public:
         int idx = 0;
         for (int start = 0; start < n; start++) {
           if (s[start] != ' ') {
-            if (idx != 0) s[idx++] = ' ';
+            if (idx != 0) 
+                s[idx++] = ' ';
 
             int end = start;
             while (end < n && s[end] != ' ') {
