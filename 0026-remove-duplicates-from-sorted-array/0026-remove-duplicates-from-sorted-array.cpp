@@ -3,12 +3,13 @@
 class Solution {
 public:
     int removeDuplicates(std::vector<int>& nums) {
-        if (nums.size() == 0) {
+        int size = nums.size();
+        if (size == 0) {
             return 0;
         }
 
         int uniqueIndex = 0;
-        for (int i = 1; i < nums.size(); i++) {
+        for (int i = 1; i < size; i++) {
             if (nums[i] != nums[uniqueIndex]) {
                 uniqueIndex++;
                 nums[uniqueIndex] = nums[i];
