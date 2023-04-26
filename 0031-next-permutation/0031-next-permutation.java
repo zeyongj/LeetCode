@@ -7,7 +7,6 @@ class Solution {
             i--;
         }
         
-        // If such i is found, then find the index j such that nums[j] > nums[i] and j >= i
         if (i >= 0) {
             int j = nums.length - 1;
             while (j >= 0 && nums[j] <= nums[i]) {
@@ -16,7 +15,6 @@ class Solution {
             swap(nums, i, j);
         }
         
-        // Reverse the elements from index i+1 to the end of the array
         reverse(nums, i+1);
     }
     
