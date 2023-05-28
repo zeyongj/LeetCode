@@ -1,29 +1,33 @@
-import (
-    "sort"
-)
+use std::collections::HashSet;
 
-func permuteUnique(nums []int) [][]int {
-    sort.Ints(nums)
-    result := [][]int{}
-    backtrack(&result, []int{}, nums, make([]bool, len(nums)))
-    return result
-}
+impl Solution {
+    pub fn permute_unique(nums: Vec<i32>) -> Vec<Vec<i32>> {
+        let mut res: Vec<Vec<i32>> = vec![];
+        let mut p: Vec<i32> = vec![];
 
-func backtrack(result *[][]int, temp []int, nums []int, used []bool) {
-    if len(temp) == len(nums) {
-        tempCopy := make([]int, len(temp))
-        copy(tempCopy, temp)
-        *result = append(*result, tempCopy)
-        return
+        Self::_permute_unique(nums, &mut res, &mut p);
+        res
     }
-    for i := 0; i < len(nums); i++ {
-        if used[i] || (i > 0 && nums[i] == nums[i-1] && !used[i-1]) {
-            continue
+
+    fn _permute_unique(nums: Vec<i32>, res: &mut Vec<Vec<i32>>, p: &mut Vec<i32>) {
+        if nums.is_empty() {
+            res.push(p.to_vec());
+            return;
         }
-        used[i] = true
-        temp = append(temp, nums[i])
-        backtrack(result, temp, nums, used)
-        used[i] = false
-        temp = temp[:len(temp)-1]
+
+        let mut history: HashSet<i32> = HashSet::new();
+
+        for (i, &value) in nums.iter().enumerate() {
+            if history.get(&value).is_some() {
+                continue;
+            }
+
+            history.insert(value);
+            p.push(value);
+            let mut tmp = nums.clone();
+            tmp.remove(i);
+            Self::_permute_unique(tmp, res, p);
+            p.pop();
+        }
     }
 }
