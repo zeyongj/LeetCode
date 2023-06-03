@@ -1,48 +1,59 @@
-/**
- * @param {number} n
- * @return {string[][]}
- */
-var solveNQueens = function(n) {
-    const board = new Array(n).fill().map(() => new Array(n).fill('.'));
-    const res = [];
+func solveNQueens(n int) [][]string {
+	chess := make([][]byte, n)
+	for i := range chess {
+		chess[i] = make([]byte, n)
+		for j := range chess[i] {
+			chess[i][j] = '.'
+		}
+	}
+	var res [][]string
+	solve(&res, &chess, 0)
 
-    const isValid = (row, col) => {
-        for(let i = 0; i < row; i++){
-            if(board[i][col] === 'Q') {
-                return false;
-            }
-        }
+	return res
+}
 
-        for(let i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--){
-            if(board[i][j] === 'Q') {
-                return false;
-            }
-        }
+func solve(res *[][]string, chess *[][]byte, row int) {
+	if row == len(*chess) {
+		*res = append(*res, construct(chess))
+		return
+	}
+	
+	for col := 0; col < len(*chess); col++ {
+		if isValid(chess, row, col) {
+			(*chess)[row][col] = 'Q'
+			solve(res, chess, row+1)
+			(*chess)[row][col] = '.'
+		}
+	}
+}
 
-        for(let i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++){
-            if(board[i][j] === 'Q') {
-                return false;
-            }
-        }
+func isValid(chess *[][]byte, row, col int) bool {
+	for i := 0; i < row; i++ {
+		if (*chess)[i][col] == 'Q' {
+			return false
+		}
+	}
 
-        return true;
-    };
+	for i, j := row-1, col+1; i >= 0 && j < len(*chess); i, j = i-1, j+1 {
+		if (*chess)[i][j] == 'Q' {
+			return false
+		}
+	}
+	
+	for i,j := row-1, col-1; i>=0  && j >=0; i,j = i-1, j-1 {
+		if (*chess)[i][j] == 'Q' {
+			return false
+		}
+	}
+	
+	return true
+}
 
-    const backtrack = (row) => {
-        if(row === n) {
-            res.push(board.map(cur => cur.join('')));
-            return;
-        }
-
-        for(let col = 0; col < n; col++) {
-            if(isValid(row, col)) {
-                board[row][col] = 'Q';
-                backtrack(row + 1);
-                board[row][col] = '.';
-            }
-        }
-    };
-
-    backtrack(0);
-    return res;
-};
+func construct (chess *[][]byte) []string {
+	var path []string
+	for i:= 0; i < len(*chess); i++ {
+		path = append(path, string((*chess)[i]))
+	}
+	
+	return path
+}
