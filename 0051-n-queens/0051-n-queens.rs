@@ -1,59 +1,71 @@
-func solveNQueens(n int) [][]string {
-	chess := make([][]byte, n)
-	for i := range chess {
-		chess[i] = make([]byte, n)
-		for j := range chess[i] {
-			chess[i][j] = '.'
-		}
-	}
-	var res [][]string
-	solve(&res, &chess, 0)
+impl Solution {
+    const QUEEN: char = 'Q';
+    const EMPTY: char = '.';
+    pub fn solve_n_queens(n: i32) -> Vec<Vec<String>> {
+        let n: usize = n as usize;
+        let mut is_same_col: Vec<bool> = vec![false; n];
+        let mut is_same_main_diagonal: Vec<bool> = vec![false; 2 * n - 1];
+        let mut is_same_anti_diagonal: Vec<bool> = vec![false; 2 * n - 1];
+        let mut board: Vec<Vec<char>> = vec![vec!['.'; n]; n];
+        let mut ans: Vec<Vec<String>> = Vec::new();
 
-	return res
-}
+        Self::backtrack(
+            0,
+            &mut is_same_col,
+            &mut is_same_main_diagonal,
+            &mut is_same_anti_diagonal,
+            &mut board,
+            n,
+            &mut ans,
+        );
+        ans
+    }
+    fn backtrack(
+        row: usize,
+        is_same_col: &mut Vec<bool>,
+        is_same_main_diagonal: &mut Vec<bool>,
+        is_same_anti_diagonal: &mut Vec<bool>,
+        board: &mut Vec<Vec<char>>,
+        n: usize,
+        res: &mut Vec<Vec<String>>,
+    ) {
+        if row == n {
+            res.push(
+                board
+                    .iter()
+                    .map(|cur_row| cur_row.iter().collect())
+                    .collect(),
+            );
+            return;
+        }
 
-func solve(res *[][]string, chess *[][]byte, row int) {
-	if row == len(*chess) {
-		*res = append(*res, construct(chess))
-		return
-	}
-	
-	for col := 0; col < len(*chess); col++ {
-		if isValid(chess, row, col) {
-			(*chess)[row][col] = 'Q'
-			solve(res, chess, row+1)
-			(*chess)[row][col] = '.'
-		}
-	}
-}
+        for col in 0..n {
+            if is_same_col[col]
+                || is_same_main_diagonal[row + n - col - 1]
+                || is_same_anti_diagonal[row + col]
+            {
+                continue;
+            }
 
-func isValid(chess *[][]byte, row, col int) bool {
-	for i := 0; i < row; i++ {
-		if (*chess)[i][col] == 'Q' {
-			return false
-		}
-	}
+            is_same_col[col] = true;
+            is_same_main_diagonal[row + n - col - 1] = true;
+            is_same_anti_diagonal[row + col] = true;
+            board[row][col] = Self::QUEEN;
 
-	for i, j := row-1, col+1; i >= 0 && j < len(*chess); i, j = i-1, j+1 {
-		if (*chess)[i][j] == 'Q' {
-			return false
-		}
-	}
-	
-	for i,j := row-1, col-1; i>=0  && j >=0; i,j = i-1, j-1 {
-		if (*chess)[i][j] == 'Q' {
-			return false
-		}
-	}
-	
-	return true
-}
+            Self::backtrack(
+                row + 1,
+                is_same_col,
+                is_same_main_diagonal,
+                is_same_anti_diagonal,
+                board,
+                n,
+                res,
+            );
 
-func construct (chess *[][]byte) []string {
-	var path []string
-	for i:= 0; i < len(*chess); i++ {
-		path = append(path, string((*chess)[i]))
-	}
-	
-	return path
+            is_same_col[col] = false;
+            is_same_main_diagonal[row + n - col - 1] = false;
+            is_same_anti_diagonal[row + col] = false;
+            board[row][col] = Self::EMPTY;
+        }
+    }
 }
