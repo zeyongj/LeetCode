@@ -1,24 +1,32 @@
-from typing import List
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+char** summaryRanges(int* nums, int numsSize, int* returnSize) {
+	*returnSize=0;
+	if(0==numsSize){
+		return 0;
+	}
+	char **ret=malloc(sizeof(char*)*numsSize);
+	char buff[265];
+	int p1=0;
+	int p2=1;
+	while(p1<numsSize){
+		while(p2<numsSize && nums[p2-1]==nums[p2]-1) ++p2;
 
-class Solution:
-    def summaryRanges(self, nums: List[int]) -> List[str]:
-        if not nums:
-            return []
-        
-        res = []
-        start = nums[0]
-        
-        for i in range(1, len(nums)):
-            if nums[i] != nums[i-1] + 1:
-                if start == nums[i-1]:
-                    res.append(str(start))
-                else:
-                    res.append(f"{start}->{nums[i-1]}")
-                start = nums[i]
-        
-        if start == nums[-1]:
-            res.append(str(start))
-        else:
-            res.append(f"{start}->{nums[-1]}")
-            
-        return res
+		if(p1 < p2-1){
+			int isp=sprintf(buff,"%d->%d",nums[p1],nums[p2-1]);
+			char *m=malloc(sizeof(char)*(isp+1));
+			ret[*returnSize]=strcpy(m,buff);
+			++(*returnSize);
+		}else{
+			int isp=sprintf(buff,"%d",nums[p1]);
+			printf("n:%d,isp:%d\n",nums[p1],isp);
+			char *m=malloc(sizeof(char)*(isp+1));
+			ret[*returnSize]=strcpy(m,buff);
+			++(*returnSize);
+		}
+		p1=p2;
+		++p2;
+	}
+	return ret;
+}
