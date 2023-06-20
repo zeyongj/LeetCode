@@ -1,16 +1,10 @@
-class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
-        length = 0
-        pos = len(s) - 1
-        
-        while pos >= 0 and s[pos] == " ":
-            pos -= 1
-        
-        while pos >= 0 and s[pos] != " ":
-            pos -= 1
-            length += 1
-        
-        return length
-        
-        
-        
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        words = s.split()
+        if not words: 
+            return 0
+        return len(words[-1])
