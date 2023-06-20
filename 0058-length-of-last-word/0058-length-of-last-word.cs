@@ -1,18 +1,19 @@
-int lengthOfLastWord(char * s){
-    int length = strlen(s);
-    int count = 0;
-    int pos = length - 1;
+public class Solution {
+    public int LengthOfLastWord(string s) {
+        int length = 0;
+        int pos = s.Length - 1;
 
-    // Skip trailing spaces if any
-    while (pos >= 0 && s[pos] == ' ') {
-        --pos;
+        // Skip trailing spaces if any
+        while (pos >= 0 && s[pos] == ' ') {
+            --pos;
+        }
+
+        // Count characters in the last word
+        while (pos >= 0 && s[pos] != ' ') {
+            --pos;
+            ++length;
+        }
+
+        return length;           
     }
-
-    // Count characters in the last word
-    while (pos >= 0 && s[pos] != ' ') {
-        --pos;
-        ++count;
-    }
-
-    return count;
 }
