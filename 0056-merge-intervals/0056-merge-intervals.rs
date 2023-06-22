@@ -1,27 +1,23 @@
-func merge(intervals [][]int) [][]int {
-    sort.Slice(intervals, func(i, j int) bool {
-        return intervals[i][0] < intervals[j][0]
-    })
-    
-    var res [][]int
-    i := 0
-    for i < len(intervals) {
-        left, right := intervals[i][0], intervals[i][1]
-        j := i+1
-        for j < len(intervals) && intervals[j][0] <= right {
-            right = max(right, intervals[j][1])
-            j++
-        }
-        res = append(res, []int{left, right})
-        i = j
-    }
-    
-    return res
-}
+impl Solution {
+    pub fn merge(mut intervals: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
+	intervals.sort_unstable_by(|x, y| x[0].cmp(&y[0]));
 
-func max(x, y int) int {
-    if x > y {
-        return x
-    }
-    return y
+	let mut res = Vec::new();
+
+	let (mut start, mut end) = (intervals[0][0], intervals[0][1]);
+	for interval in intervals.into_iter().skip(1) {
+		let (curr_start, curr_end) = (interval[0], interval[1]);
+		if curr_start > end {
+			res.push(vec![start, end]);
+			start = curr_start;
+			end = curr_end;
+		} else if curr_end > end {
+			end = curr_end;
+		}
+	}
+
+	res.push(vec![start, end]);
+
+	res
+}
 }
