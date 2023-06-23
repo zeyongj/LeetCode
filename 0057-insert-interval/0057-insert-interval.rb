@@ -1,46 +1,38 @@
-/**
- * @param {number[][]} intervals
- * @param {number[]} newInterval
- * @return {number[][]}
- */
-var insert = function(intervals, newInterval) {    
-    let overlapping = []; 
-    let noOverlapping =[];
-    
-    let lowestToMerge = Number.MAX_SAFE_INTEGER;
-    let highestToMerge = Number.MIN_SAFE_INTEGER;
-    
-    //Create two arrays of overlapping or nah
-    for(let i = 0; i < intervals.length; i++){
-        if(doRangesIntersect(intervals[i],newInterval)){
-            overlapping.push(intervals[i])
-            lowestToMerge = Math.min(lowestToMerge, newInterval[0], intervals[i][0])
-            highestToMerge = Math.max(highestToMerge, newInterval[1], intervals[i][1])
-        } else {
-            noOverlapping.push(intervals[i])
-        }
-    }
-    
-    if(!overlapping.length){
-        return [...noOverlapping,newInterval].sort(function(a,b){
-            return a[0] - b[0]
-        });
-    } else {
-        return [...noOverlapping,[lowestToMerge,highestToMerge]].sort(function(a,b){
-            return a[0] - b[0]
-        });
-    }
-};
+# @param {Integer[][]} intervals
+# @param {Integer[]} new_interval
+# @return {Integer[][]}
+def insert(intervals, new_interval)
+  new_left, new_right = new_interval
 
-function doRangesIntersect(a,b){
-    //make lowest come first
-    let [lower, higher] = [a,b].sort(function(a,b){
-            return a[0] - b[0]
-        });
-    //lower overlaps but not completely
-    if(lower[0] <= higher[0] && lower[1] >= higher[0]){
-        return true
-    }
+  # First, binary search for intervals we know for sure is beyond the new one
+  right_index = intervals.bsearch_index do |cur_left, cur_right|
+    cur_left > new_right
+  end
+  # Assume not found means that there are no intervals beyond new_interval.
+  # This also helps cover the base case of intervals = []
+  right_index = intervals.length if right_index.nil?
+  
+  # Will append this to the result later
+  right_intervals = intervals[right_index..]
+  
+  # Now check for merges along left
+  insert_index = right_index
+  (right_index - 1).downto(0) do |index|
+    cur_left, cur_right = intervals[index]
+    if cur_right < new_left
+      # Not in range, so we're done
+      break
+    end
     
-    return false;
-}
+    # Update the new interval
+    insert_index = index
+    new_right = [cur_right, new_right].max
+    new_left = [cur_left, new_left].min
+  end
+  
+  # Now compile the result by inserting the new interval
+  # between left and right intervals that weren't merged.
+  result = intervals[0...insert_index]
+  result.push([new_left, new_right])
+  result + right_intervals
+end
