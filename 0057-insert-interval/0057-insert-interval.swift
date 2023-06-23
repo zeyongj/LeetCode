@@ -1,22 +1,31 @@
-impl Solution {
-    pub fn insert(intervals: Vec<Vec<i32>>, new_interval: Vec<i32>) -> Vec<Vec<i32>> {
-        let mut answer: Vec<Vec<i32>> = Vec::with_capacity(intervals.len() + 1);
-        let mut i = 0;
-        while i < intervals.len() && intervals[i][1] < new_interval[0] {
-            answer.push(intervals[i].clone());
-            i += 1;
+// Time complexity: O(n)
+// Space complexity: O(n)
+class Solution {
+    func insert(_ intervals: [[Int]], _ newInterval: [Int]) -> [[Int]] {
+        var result = [[Int]]()
+        var newInterval = newInterval
+
+        // Conditions:
+        // - if the new interval end value is before the current interval start value 
+        // - if the start value of the new interval is greater than the end value of the interval we are in
+        // - if both are untrue then we have an overlap
+        for i in 0..<intervals.count {
+            if newInterval[1] < intervals[i][0] {
+                result.append(newInterval)  
+                //return here because we know all of the intervals that come after are not overlapping
+                return result + intervals[i...(intervals.count - 1)]
+            } else if newInterval[0] > intervals[i][1] {
+                result.append(intervals[i])
+            } else {
+                let val1 = min(intervals[i][0], newInterval[0])
+                let val2 = max(intervals[i][1], newInterval[1])
+                newInterval = [val1, val2]
+            }
         }
-        let mut new_interval = new_interval;
-        while i < intervals.len() && intervals[i][0] <= new_interval[1] {
-            new_interval[0] = std::cmp::min(new_interval[0], intervals[i][0]);
-            new_interval[1] = std::cmp::max(new_interval[1], intervals[i][1]);
-            i += 1;
-        }
-        answer.push(new_interval);
-        while i < intervals.len() {
-            answer.push(intervals[i].clone());
-            i += 1;
-        }
-        answer
+        
+        // if we get here, that means that we didn't execute the first if statement and the append newInterval was never called - let's add it here
+        result.append(newInterval)
+        
+        return result  
     }
 }
