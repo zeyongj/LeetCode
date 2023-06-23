@@ -1,15 +1,22 @@
-object Solution {
-  def insert(intervals: Array[Array[Int]], newInterval: Array[Int]): Array[Array[Int]] = {
-    val (acc, last) = intervals.foldLeft((Array.empty[Array[Int]], newInterval)) {
-      case ((rest, newInterval), head) =>
-        if (newInterval.last < head.head) {
-          (rest :+ newInterval, head)
-        } else if (newInterval.head > head.last) {
-          (rest :+ head, newInterval)
-        } else {
-          (rest, Array(Math.min(head.head, newInterval.head), Math.max(head.last, newInterval.last)))
+class Solution {
+    fun insert(intervals: Array<IntArray>, newInterval: IntArray): Array<IntArray> {
+        var new = newInterval
+        val list = mutableListOf<IntArray>()
+        intervals.forEach {
+            when {
+                it[1] < new[0] -> list.add(it)
+                new[1] < it[0] -> {
+                    list.add(new)
+                    new = it
+                }
+                else -> {
+                    new[0] = minOf(new[0], it[0])
+                    new[1] = maxOf(new[1], it[1])
+                }
+            }
         }
+        list.add(new)
+
+        return list.toTypedArray()
     }
-    acc :+ last
-  }
 }
