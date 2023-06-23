@@ -1,36 +1,22 @@
-func insert(intervals [][]int, newInterval []int) [][]int {
-    if len(intervals) == 0 {
-        return append([][]int{}, newInterval)
+impl Solution {
+    pub fn insert(intervals: Vec<Vec<i32>>, new_interval: Vec<i32>) -> Vec<Vec<i32>> {
+        let mut answer: Vec<Vec<i32>> = Vec::with_capacity(intervals.len() + 1);
+        let mut i = 0;
+        while i < intervals.len() && intervals[i][1] < new_interval[0] {
+            answer.push(intervals[i].clone());
+            i += 1;
+        }
+        let mut new_interval = new_interval;
+        while i < intervals.len() && intervals[i][0] <= new_interval[1] {
+            new_interval[0] = std::cmp::min(new_interval[0], intervals[i][0]);
+            new_interval[1] = std::cmp::max(new_interval[1], intervals[i][1]);
+            i += 1;
+        }
+        answer.push(new_interval);
+        while i < intervals.len() {
+            answer.push(intervals[i].clone());
+            i += 1;
+        }
+        answer
     }
-    
-    if intervals[0][1] < newInterval[0] {
-        return append(append([][]int{},intervals[0]),
-                      insert(intervals[1:], newInterval)...)
-    }
-    
-    if intervals[0][1] >= newInterval[0] && intervals[0][1] <= newInterval[1] {
-        return append([][]int{},
-                      insert(intervals[1:],
-                             []int{min(intervals[0][0], newInterval[0]),
-                                   newInterval[1]})...)
-    }
-    
-    if intervals[0][1] >= newInterval[1] && intervals[0][0] <= newInterval[1] {
-        intervals[0][0] = min(intervals[0][0], newInterval[0])
-        return intervals
-    }
-    
-    if intervals[0][0] > newInterval[1] {
-        return append(append([][]int{}, newInterval), intervals...)
-    }
-    
-    return nil
-    
-}
-
-func min(a int, b int) int {
-    if a < b {
-        return a
-    }
-    return b
 }
