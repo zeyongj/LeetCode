@@ -1,37 +1,29 @@
-/**
- * Return an array of arrays of size *returnSize.
- * The sizes of the arrays are returned as *returnColumnSizes array.
- * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
- */
-#include <stdlib.h>
+public class Solution
+{
+    public int[][] GenerateMatrix(int n)
+    {
+        var matrix = new int[n][];
+        for (var i = 0; i < n; i++)
+            matrix[i] = new int[n];
 
-int** generateMatrix(int n, int* returnSize, int** returnColumnSizes) {
-    int **matrix = (int **)malloc(n * sizeof(int *));
-    for (int i = 0; i < n; i++) {
-        matrix[i] = (int *)malloc(n * sizeof(int));
+        var steps = new[] { 1, n, -1, -n };
+        var step = 0;
+        var curr = n;
+        var twice = 0;
+        var pos = 0;
+        var num = 1;
+
+        while (curr > 0)
+        {
+            for (var i = 0; i < curr; i++)
+            {
+                matrix[pos / n][pos % n] = num++;
+                pos += steps[(i == curr - 1 ? ++step : step) % 4];
+            }
+
+            curr -= ++twice % 2;
+        }
+
+        return matrix;
     }
-    
-    *returnSize = n;
-    *returnColumnSizes = (int *)malloc(n * sizeof(int));
-    for (int i = 0; i < n; i++) {
-        (*returnColumnSizes)[i] = n;
-    }
-
-    int top = 0, bottom = n - 1, left = 0, right = n - 1, num = 1;
-
-    while (1) {
-        for (int i = left; i <= right; i++) matrix[top][i] = num++;
-        if (++top > bottom) break;
-
-        for (int i = top; i <= bottom; i++) matrix[i][right] = num++;
-        if (--right < left) break;
-
-        for (int i = right; i >= left; i--) matrix[bottom][i] = num++;
-        if (--bottom < top) break;
-
-        for (int i = bottom; i >= top; i--) matrix[i][left] = num++;
-        if (++left > right) break;
-    }
-
-    return matrix;
 }
