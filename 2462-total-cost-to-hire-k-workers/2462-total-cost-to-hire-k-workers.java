@@ -1,32 +1,30 @@
 class Solution {
-public:
-    long long totalCost(vector<int>& costs, int k, int candidates) {
+    public long totalCost(int[] costs, int k, int candidates) {
         int i = 0;
-        int j = costs.size() - 1;
-        priority_queue<int, vector<int>, greater<int>> pq1;
-        priority_queue<int, vector<int>, greater<int>> pq2;
+        int j = costs.length - 1;
+        PriorityQueue<Integer> pq1 = new PriorityQueue<>();
+        PriorityQueue<Integer> pq2 = new PriorityQueue<>();
 
-        long long ans = 0;
-        while(k--){
-            while(pq1.size() < candidates && i <= j){
-                pq1.push(costs[i++]);
+        long ans = 0;
+        while (k-- > 0) {
+            while (pq1.size() < candidates && i <= j) {
+                pq1.offer(costs[i++]);
             }
-            while(pq2.size() < candidates && i <= j){
-                pq2.push(costs[j--]);
+            while (pq2.size() < candidates && i <= j) {
+                pq2.offer(costs[j--]);
             }
 
-            int t1 = pq1.size() > 0 ? pq1.top() : INT_MAX;
-            int t2 = pq2.size() > 0 ? pq2.top() : INT_MAX;
+            int t1 = pq1.size() > 0 ? pq1.peek() : Integer.MAX_VALUE;
+            int t2 = pq2.size() > 0 ? pq2.peek() : Integer.MAX_VALUE;
 
-            if(t1 <= t2){
+            if (t1 <= t2) {
                 ans += t1;
-                pq1.pop();
-            }
-            else{
+                pq1.poll();
+            } else {
                 ans += t2;
-                pq2.pop();
+                pq2.poll();
             }
         }
         return ans;
     }
-};
+}
