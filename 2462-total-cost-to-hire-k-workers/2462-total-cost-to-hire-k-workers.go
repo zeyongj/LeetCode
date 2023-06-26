@@ -1,38 +1,67 @@
-# @param {Integer[]} costs
-# @param {Integer} k
-# @param {Integer} candidates
-# @return {Integer}
-def total_cost(costs, k, candidates)
-  right_costs = costs.pop(candidates).sort
-  left_costs = costs.shift(candidates).sort
+import "container/heap"
 
-  k.times.sum do
-    if right_costs.empty?
-      use_left_costs(left_costs, costs)
-    elsif left_costs.empty?
-      use_right_costs(right_costs, costs)
-    elsif left_costs.first <= right_costs.first
-      use_left_costs(left_costs, costs)
-    else
-      use_right_costs(right_costs, costs)
-    end  
-  end
-end             
+type IntHeap []int
 
-def use_left_costs(left_costs, costs)
-  cost = left_costs.shift
-  unless costs.empty?
-    index = left_costs.bsearch_index {|num| num > costs.first} || left_costs.size
-    left_costs.insert(index, costs.shift)
-  end
-  cost
-end
+func (h IntHeap) Len() int           { return len(h) }
+func (h IntHeap) Less(i, j int) bool { return h[i] < h[j] }
+func (h IntHeap) Swap(i, j int)      { h[i], h[j] = h[j], h[i] }
 
-def use_right_costs(right_costs, costs)
-  cost = right_costs.shift
-  unless costs.empty?
-    index = right_costs.bsearch_index {|num| num > costs.last} || right_costs.size
-    right_costs.insert(index, costs.pop)
-  end
-  cost
-end
+func (h *IntHeap) Push(x any) {
+
+	*h = append(*h, x.(int))
+}
+
+func (h *IntHeap) Pop() any {
+	old := *h
+	n := len(old)
+	x := old[n-1]
+	*h = old[0 : n-1]
+	return x
+}
+
+func (h IntHeap) Top() int {
+	return h[0]
+}
+
+func totalCost(costs []int, k int, candidates int) int64 {
+	i, j := 0, len(costs)-1
+	ans := int64(0)
+	upPq := &IntHeap{}
+	downPq := &IntHeap{}
+	heap.Init(upPq)
+	heap.Init(downPq)
+	for i < j && candidates > 0 {
+		heap.Push(downPq, costs[i])
+		heap.Push(upPq, costs[j])
+		i++
+		j--
+		candidates--
+	}
+	if i == j && candidates > 0 {
+		heap.Push(downPq, costs[i])
+		i++
+	}
+	for k > 0 {
+		if upPq.Len() == 0 {
+			ans += int64(heap.Pop(downPq).(int))
+		} else if downPq.Len() == 0 {
+			ans += int64(heap.Pop(upPq).(int))
+		} else {
+			if upPq.Top() < downPq.Top() {
+				ans += int64(heap.Pop(upPq).(int))
+				if j >= i {
+					heap.Push(upPq, costs[j])
+					j--
+				}
+			} else {
+				ans += int64(heap.Pop(downPq).(int))
+				if i <= j {
+					heap.Push(downPq, costs[i])
+					i++
+				}
+			}
+		}
+		k--
+	}
+	return ans
+}
