@@ -1,25 +1,45 @@
 class Solution {
-    fun totalCost(costs: IntArray, k: Int, candidates: Int): Long {
-        val pqL = PriorityQueue<Int>()
-        val pqR = PriorityQueue<Int>()
-        var lo = 0
-        var hi = costs.lastIndex
-        var sum = 0L
-        var count = 0
-        if (2 * candidates >= costs.size) while (lo <= hi) pqL.add(costs[lo++])
-        while (pqL.size < candidates && lo <= hi) pqL.add(costs[lo++])
-        while (pqR.size < candidates && lo < hi) pqR.add(costs[hi--])
-        while (lo <= hi && count++ < k) {
-            if (pqR.peek() < pqL.peek()) {
-                sum += pqR.poll()
-                pqR.add(costs[hi--])
+
+    /**
+     * @param Integer[] $costs
+     * @param Integer $k
+     * @param Integer $candidates
+     * @return Integer
+     */
+    function totalCost($costs, $k, $candidates) {
+        $headWorkers = new SplMinHeap();
+        $tailWorkers = new SplMinHeap();
+
+        for ($i = 0; $i < $candidates; $i++) {
+            $headWorkers->insert($costs[$i]);
+        }
+        for ($i = max($candidates, count($costs) - $candidates); $i < count($costs); $i++) {
+            $tailWorkers->insert($costs[$i]);
+        }
+
+        $answer = 0;
+        $nextHead = $candidates;
+        $nextTail = count($costs) - 1 - $candidates;
+
+        for ($i = 0; $i < $k; $i++) {
+            if ($tailWorkers->isEmpty() 
+                || (!$headWorkers->isEmpty() && $headWorkers->top() <= $tailWorkers->top())
+            ) {
+                $answer += $headWorkers->extract();
+
+                if ($nextHead <= $nextTail) {
+                    $headWorkers->insert($costs[$nextHead]);
+                    $nextHead++;
+                }
             } else {
-                sum += pqL.poll()
-                pqL.add(costs[lo++])
+                $answer += $tailWorkers->extract();
+                if ($nextHead <= $nextTail) {
+                    $tailWorkers->insert($costs[$nextTail]);
+                    $nextTail--;
+                }
             }
         }
-        while (pqR.isNotEmpty()) pqL.add(pqR.poll())
-        while (count++ < k && pqL.isNotEmpty()) sum += pqL.poll()
-        return sum
+
+        return $answer;
     }
 }
