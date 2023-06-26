@@ -1,29 +1,25 @@
-use std::collections::BinaryHeap;
-use std::cmp::Reverse;
-
-impl Solution {
-    pub fn total_cost(costs: Vec<i32>, k: i32, candidates: i32) -> i64 {
-        let mut iter = costs.iter();
-        let mut heap = BinaryHeap::new();
-        for _ in 0..candidates {
-            if let Some(&x) = iter.next() {
-                heap.push((Reverse(x), true));
-            }
-            if let Some(&x) = iter.next_back() {
-                heap.push((Reverse(x), false));
-            }
-        }
-
-        let mut ans = 0i64;
-        for _ in 0..k {
-            if let Some((Reverse(x), is_front)) = heap.pop() {
-                ans += x as i64;
-                let opt = if is_front { iter.next() } else { iter.next_back() };
-                if let Some(&y) = opt {
-                    heap.push((Reverse(y), is_front));
-                }
+class Solution {
+    fun totalCost(costs: IntArray, k: Int, candidates: Int): Long {
+        val pqL = PriorityQueue<Int>()
+        val pqR = PriorityQueue<Int>()
+        var lo = 0
+        var hi = costs.lastIndex
+        var sum = 0L
+        var count = 0
+        if (2 * candidates >= costs.size) while (lo <= hi) pqL.add(costs[lo++])
+        while (pqL.size < candidates && lo <= hi) pqL.add(costs[lo++])
+        while (pqR.size < candidates && lo < hi) pqR.add(costs[hi--])
+        while (lo <= hi && count++ < k) {
+            if (pqR.peek() < pqL.peek()) {
+                sum += pqR.poll()
+                pqR.add(costs[hi--])
+            } else {
+                sum += pqL.poll()
+                pqL.add(costs[lo++])
             }
         }
-        ans
+        while (pqR.isNotEmpty()) pqL.add(pqR.poll())
+        while (count++ < k && pqL.isNotEmpty()) sum += pqL.poll()
+        return sum
     }
 }
