@@ -1,21 +1,24 @@
-# @param {Integer} m
-# @param {Integer} n
-# @return {Integer}
-def unique_paths(m, n)
-	matrix = Array.new(n) {Array.new(m)} 
-
-	(0...m).each do |col|
-		matrix[0][col] = 1
-	end
-
-	(0...n).each do |row|
-		matrix[row][0] = 1
-	end
-
-	(1...n).each do |row|
-		(1...m).each do |col|
-			matrix[row][col] = matrix[row][col-1] + matrix[row-1][col]
-		end
-	end
-	matrix[-1][-1]
-end
+func uniquePaths(m int, n int) int {
+    
+    result := make([][]int, m)
+    for i:=0; i<m; i++{
+        result[i] = make([]int,n)
+    }
+    
+    for i:=0; i<m;i++{
+        result[i][0] = 1
+    }
+    
+    for j:=1; j<n; j++{
+        result[0][j] = 1
+    }
+    
+    
+    for i:=1;i<m; i++{
+        for j:=1; j<n; j++{
+            result[i][j] = result[i-1][j] + result[i][j-1]
+        }
+    }
+    return result[m-1][n-1]
+    
+}
