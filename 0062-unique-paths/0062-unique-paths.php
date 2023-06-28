@@ -1,22 +1,21 @@
-impl Solution {
-    pub fn unique_paths(m: i32, n: i32) -> i32 {
-        if m == 0 || n == 0 {
-            return 0;
-        }
+class Solution {
 
-        let m: usize = m as usize;
-        let n: usize = n as usize;
-        
-        let mut path: Vec<Vec<i32>> = vec![vec![0; n]; m];        
-        for i in 0..m {
-            for j in 0..n {
-                if i == 0 || j == 0 {
-                    path[i][j] = 1;
+    /**
+     * @param Integer $m
+     * @param Integer $n
+     * @return Integer
+     */
+    function uniquePaths($m, $n) {
+        $grid = [];
+        for ($i = 0; $i < $m; $i++) {
+            for ($j = 0; $j < $n; $j++) {
+                if ($i == 0 || $j == 0) {
+                    $grid[$j][$i] = 1;
                 } else {
-                    path[i][j] = path[i - 1][j] + path[i][j - 1];
+                    $grid[$j][$i] = $grid[$j][$i - 1] + $grid[$j - 1][$i];
                 }
             }
         }
-        path[m - 1][n - 1]
+        return $grid[$n - 1][$m - 1];
     }
 }
