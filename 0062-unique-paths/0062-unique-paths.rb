@@ -1,15 +1,21 @@
-/**
- * @param {number} m
- * @param {number} n
- * @return {number}
- */
-var uniquePaths = function(m, n) {
-    const res = [];
-    for (let i = 0; i < n; i++) res.push([...new Array(m).fill(1)]); // initialize list
-    for (let i = 1; i < n; i++) {
-        for (let j = 1; j < m; j++) {
-            res[i][j] = res[i-1][j] + res[i][j-1];
-        }
-    }
-    return res[n-1][m-1];
-};
+# @param {Integer} m
+# @param {Integer} n
+# @return {Integer}
+def unique_paths(m, n)
+	matrix = Array.new(n) {Array.new(m)} 
+
+	(0...m).each do |col|
+		matrix[0][col] = 1
+	end
+
+	(0...n).each do |row|
+		matrix[row][0] = 1
+	end
+
+	(1...n).each do |row|
+		(1...m).each do |col|
+			matrix[row][col] = matrix[row][col-1] + matrix[row-1][col]
+		end
+	end
+	matrix[-1][-1]
+end
