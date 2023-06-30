@@ -1,20 +1,29 @@
-# @param {Integer[][]} obstacle_grid
-# @return {Integer}
-def unique_paths_with_obstacles(obstacle_grid)
-  m = obstacle_grid.size
-  n = obstacle_grid.first.size
-  row = [0] * n
-  for i in (0...n)
-    if obstacle_grid.first[i] == 1
-      break
-    else
-      row[i] = 1
-    end
-  end
-  for i in (1...m)
-    for j in (0...n)
-      row[j] = obstacle_grid[i][j] == 0 ? (j > 0 ? row[j - 1] : 0) + row[j] : 0
-    end
-  end
-  row.last
-end
+func uniquePathsWithObstacles(obstacleGrid [][]int) int {
+    if obstacleGrid[0][0] == 1 {
+        return 0
+    }
+    x := 1
+    for i := range obstacleGrid {
+        if obstacleGrid[i][0] == 1 {
+            x = 0
+        }
+        obstacleGrid[i][0] = x
+    }
+    x = 1
+    for i := 1; i < len(obstacleGrid[0]); i++ {
+        if obstacleGrid[0][i] == 1 {
+            x = 0
+        }
+        obstacleGrid[0][i] = x
+    }
+    for i := 1; i < len(obstacleGrid); i++ {
+        for j := 1; j < len(obstacleGrid[0]); j++ {
+            if obstacleGrid[i][j] == 1 {
+                obstacleGrid[i][j] = 0
+                continue
+            }
+            obstacleGrid[i][j] = obstacleGrid[i-1][j] + obstacleGrid[i][j-1]
+        }
+    }
+    return obstacleGrid[len(obstacleGrid)-1][len(obstacleGrid[0])-1]
+}
