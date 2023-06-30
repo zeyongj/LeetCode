@@ -1,18 +1,23 @@
 class Solution {
-    fun uniquePathsWithObstacles(obstacleGrid: Array<IntArray>): Int {
-        val m = obstacleGrid.size
-        val n = obstacleGrid[0].size
-        val matrix = Array(m) { IntArray(n) }
-        for (i in m - 1 downTo 0)
-            for (j in n - 1 downTo 0) {
-                matrix[i][j] = when {
-                    obstacleGrid[i][j] == 1 -> 0
-                    i == m - 1 && j == n - 1 -> 1
-                    i == m - 1 -> matrix[i][j + 1]
-                    j == n - 1 -> matrix[i + 1][j]
-                    else -> matrix[i + 1][j] + matrix[i][j + 1]
+
+    /**
+     * @param Integer[][] $obstacleGrid
+     * @return Integer
+     */
+    function uniquePathsWithObstacles($obstacleGrid) {
+        $row = count($obstacleGrid);
+        $column = count($obstacleGrid[0]);
+        for ($i = 0; $i < $row; $i++) {
+            for ($j = 0; $j < $column; $j++) {
+                if ($obstacleGrid[$i][$j] == 1) {
+                    $obstacleGrid[$i][$j] = 0;
+                } else if ($i == 0 && $j == 0) {
+                    $obstacleGrid[$i][$j] = 1;
+                } else {
+                    $obstacleGrid[$i][$j] = $obstacleGrid[$i - 1][$j] + $obstacleGrid[$i][$j - 1];
                 }
             }
-        return matrix[0][0]
+        }
+        return $obstacleGrid[$row - 1][$column - 1];
     }
 }
