@@ -1,26 +1,30 @@
-class Solution:
-    def uniquePathsWithObstacles(self, obstacleGrid):
-        m = len(obstacleGrid)
-        n = len(obstacleGrid[0])
-        dp = [[0]*n for _ in range(m)]
-        
-        if obstacleGrid[0][0] == 0:
-            dp[0][0] = 1
-
-        # Handle first row
-        for j in range(1, n):
-            if obstacleGrid[0][j] == 0:
-                dp[0][j] = dp[0][j - 1]
-
-        # Handle first column
-        for i in range(1, m):
-            if obstacleGrid[i][0] == 0:
-                dp[i][0] = dp[i - 1][0]
-
-        # For the rest of the grid
-        for i in range(1, m):
-            for j in range(1, n):
-                if obstacleGrid[i][j] == 0:
-                    dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
-
-        return dp[m - 1][n - 1]
+int uniquePathsWithObstacles(int** obstacleGrid, int obstacleGridSize, int* obstacleGridColSize){
+    int* list = malloc(sizeof(int)*(*obstacleGridColSize));
+    for (int i = 0 ; i < *obstacleGridColSize ; i++){
+        if (obstacleGrid[0][i] == 1){
+            list[i] = 0;
+            i++;
+            while (i < *obstacleGridColSize){
+                list[i] = 0;
+                i++;
+            } 
+        } else {
+            list[i] = 1;
+        }
+    }
+    for (int i = 1 ; i < obstacleGridSize ; i++){
+        if (obstacleGrid[i][0] == 1){
+            list[0] = 0;
+        }
+        for (int j = 1 ; j < *obstacleGridColSize ; j++){
+            if (obstacleGrid[i][j] == 1){
+                list[j] = 0;
+            } else {
+                list[j] += list[j-1];
+            }
+        }
+    }
+    int ans = list[*obstacleGridColSize-1];
+    free(list);
+    return ans < 2000000000 ? ans : 2000000000;
+}
