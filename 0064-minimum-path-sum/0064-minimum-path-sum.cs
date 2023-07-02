@@ -1,39 +1,28 @@
 public class Solution {
     public int MinPathSum(int[][] grid) {
-        if (grid == null || grid.Length == 0)
-            return Int32.MaxValue;
-        
-        int[,] dp = new int[grid.Length, grid[0].Length];
-        
-        for (int i = 0; i < grid.Length; i++)
-            for (int j = 0; j < grid[0].Length; j++)
-                dp[i, j] = Int32.MaxValue;
-        
-        return DFS(grid, 0, 0, 0, dp);
-    }
-    
-    private int DFS(int[][] grid, int x, int y, int cur, int[,] dp)
-    {
-        cur += grid[x][y];
-        
-         if (cur >= dp[x, y])
-             return Int32.MaxValue;
-        
-        dp[x, y] = cur;
-        
-        if (x == grid.Length - 1 && y == grid[0].Length - 1)
-            return cur;
-        
-        if (x + 1 == grid.Length)
-            return DFS(grid, x, y + 1, cur, dp);
-        else if (y + 1 == grid[0].Length)
-            return DFS(grid, x + 1, y, cur, dp);
-        else
-        {
-            int r = DFS(grid, x, y + 1, cur, dp),
-                d = DFS(grid, x + 1, y, cur, dp);
-                        
-            return r <= d ? r : d;
+        int m = grid.Length;
+        int n = grid[0].Length;
+
+        int[][] dp = new int[m][];
+        for (int i = 0; i < m; i++)
+            dp[i] = new int[n];
+
+        dp[0][0] = grid[0][0];
+
+        for (int j = 1; j < n; ++j) {
+            dp[0][j] = dp[0][j-1] + grid[0][j];
         }
+
+        for (int i = 1; i < m; ++i) {
+            dp[i][0] = dp[i-1][0] + grid[i][0];
+        }
+
+        for (int i = 1; i < m; ++i) {
+            for (int j = 1; j < n; ++j) {
+                dp[i][j] = System.Math.Min(dp[i-1][j], dp[i][j-1]) + grid[i][j];
+            }
+        }
+
+        return dp[m-1][n-1];
     }
 }
