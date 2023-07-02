@@ -1,25 +1,39 @@
-/*int min(int a,int b)
-{
-    return a>b?b:a;
-}*/
-
-int minPathSum(int** grid, int gridSize, int* gridColSize){
-    int i,j;
-    for(i=1;i<*gridColSize;i++)
-    {
-        grid[0][i]+=grid[0][i-1];
+public class Solution {
+    public int MinPathSum(int[][] grid) {
+        if (grid == null || grid.Length == 0)
+            return Int32.MaxValue;
+        
+        int[,] dp = new int[grid.Length, grid[0].Length];
+        
+        for (int i = 0; i < grid.Length; i++)
+            for (int j = 0; j < grid[0].Length; j++)
+                dp[i, j] = Int32.MaxValue;
+        
+        return DFS(grid, 0, 0, 0, dp);
     }
-    for(i=1;i<gridSize;i++)
+    
+    private int DFS(int[][] grid, int x, int y, int cur, int[,] dp)
     {
-        grid[i][0]+=grid[i-1][0];
-    }
-    for(i=1;i<gridSize;i++)
-    {
-        for(j=1;j<*gridColSize;j++)
+        cur += grid[x][y];
+        
+         if (cur >= dp[x, y])
+             return Int32.MaxValue;
+        
+        dp[x, y] = cur;
+        
+        if (x == grid.Length - 1 && y == grid[0].Length - 1)
+            return cur;
+        
+        if (x + 1 == grid.Length)
+            return DFS(grid, x, y + 1, cur, dp);
+        else if (y + 1 == grid[0].Length)
+            return DFS(grid, x + 1, y, cur, dp);
+        else
         {
-            //grid[i][j]+=min(grid[i-1][j],grid[i][j-1]);
-            grid[i][j]+=grid[i-1][j]>grid[i][j-1]?grid[i][j-1]:grid[i-1][j];
+            int r = DFS(grid, x, y + 1, cur, dp),
+                d = DFS(grid, x + 1, y, cur, dp);
+                        
+            return r <= d ? r : d;
         }
     }
-    return grid[gridSize-1][*gridColSize-1];
 }
