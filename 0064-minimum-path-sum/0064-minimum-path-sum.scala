@@ -1,18 +1,20 @@
-func minPathSum(grid [][]int) int {
-    for i := len(grid[0])-2; i >= 0; i-- {
-        grid[len(grid)-1][i] = grid[len(grid)-1][i] + grid[len(grid)-1][i+1]
-    }
-    for i := len(grid)-2; i >= 0; i-- {
-        grid[i][len(grid[0])-1] = grid[i][len(grid[0])-1] + grid[i+1][len(grid[0])-1]
-    }
-    for i := len(grid)-2; i >= 0; i-- {
-        for j := len(grid[0])-2; j >= 0; j-- {
-            min := grid[i+1][j]
-            if grid[i][j+1] < min {
-                min = grid[i][j+1] 
+object Solution {
+  def minPathSum(grid: Array[Array[Int]]): Int = {
+    (grid.length, grid.headOption.map(_.length).getOrElse(0)) match {
+      case (m, n) if m > 0 && n > 0 =>
+        val dp = Array.fill(m, n)(grid(m - 1)(n - 1))
+        for {
+          k <- 1 to m + n
+          i <- math.max(0, (m - 1) - k) to math.min(m - 1, m + n - k - 2)
+        } {
+          val j = m + n - i - k - 2
+          dp(i)(j) = grid(i)(j) + Seq((i + 1, j), (i, j + 1))
+            .collect {
+              case (x, y) if dp.isDefinedAt(x) && dp(x).isDefinedAt(y) => dp(x)(y)
             }
-            grid[i][j] = grid[i][j] + min
+            .min
         }
+        dp(0)(0)
     }
-    return grid[0][0]
+  }
 }
