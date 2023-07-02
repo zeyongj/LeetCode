@@ -1,15 +1,27 @@
-class Solution {
-  fun minPathSum(grid: Array<IntArray>): Int {
-    val dp = IntArray(grid[0].size)
-    dp[0] = grid[0][0]
-    for (i in 1 until dp.size)
-      dp[i] = dp[i - 1] + grid[0][i]
-    
-    for (r in 1 until grid.size) {
-      dp[0] += grid[r][0]
-      for (j in 1 until dp.size)
-        dp[j] = minOf(dp[j], dp[j - 1]) + grid[r][j]
-    }    
-    return dp[dp.size - 1]
-  }
+impl Solution {
+    pub fn min_path_sum(grid: Vec<Vec<i32>>) -> i32 {
+        if grid.is_empty() {
+            return 0;
+        }
+        let mut grid = grid;
+        let m = grid.len();
+        let n = grid[0].len();
+        
+        for i in 0..m {
+            for j in 0..n {
+                if i == 0 && j == 0 {
+                    continue;
+                }
+                
+                if i == 0 {
+                    grid[i][j] += grid[i][j-1];
+                } else if j == 0 {
+                    grid[i][j] += grid[i-1][j];
+                } else {
+                    grid[i][j] += grid[i][j-1].min(grid[i-1][j]);
+                }
+            }
+        }
+        grid[m-1][n-1]
+    }
 }
