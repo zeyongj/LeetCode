@@ -1,25 +1,18 @@
-class Solution {
-    func minPathSum(_ grid: [[Int]]) -> Int {
-        let m = grid.count
-        let n = grid[0].count
-        var cost = Array(repeating:Array(repeating:0,count:n),count:m)
-        cost[0][0] = grid[0][0]
-		
-        //populating the first col 
-        for i in 1..<m {
-            cost[i][0] = cost[i-1][0] + grid[i][0]
-        }
-        
-        //populating first row
-        for i in 1..<n {
-            cost[0][i] = cost[0][i-1] + grid[0][i]
-        }
-        
-        for i in 1..<m {
-            for j in 1..<n {
-                cost[i][j] = grid[i][j] + min(cost[i-1][j], cost[i][j-1])
-            }
-         }
-        return cost[m-1][n-1]
+func minPathSum(grid [][]int) int {
+    for i := len(grid[0])-2; i >= 0; i-- {
+        grid[len(grid)-1][i] = grid[len(grid)-1][i] + grid[len(grid)-1][i+1]
     }
+    for i := len(grid)-2; i >= 0; i-- {
+        grid[i][len(grid[0])-1] = grid[i][len(grid[0])-1] + grid[i+1][len(grid[0])-1]
+    }
+    for i := len(grid)-2; i >= 0; i-- {
+        for j := len(grid[0])-2; j >= 0; j-- {
+            min := grid[i+1][j]
+            if grid[i][j+1] < min {
+                min = grid[i][j+1] 
+            }
+            grid[i][j] = grid[i][j] + min
+        }
+    }
+    return grid[0][0]
 }
