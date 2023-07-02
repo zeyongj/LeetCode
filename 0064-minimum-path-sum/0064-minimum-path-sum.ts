@@ -1,27 +1,24 @@
-impl Solution {
-    pub fn min_path_sum(grid: Vec<Vec<i32>>) -> i32 {
-        if grid.is_empty() {
-            return 0;
-        }
-        let mut grid = grid;
-        let m = grid.len();
-        let n = grid[0].len();
-        
-        for i in 0..m {
-            for j in 0..n {
-                if i == 0 && j == 0 {
-                    continue;
-                }
-                
-                if i == 0 {
-                    grid[i][j] += grid[i][j-1];
-                } else if j == 0 {
-                    grid[i][j] += grid[i-1][j];
-                } else {
-                    grid[i][j] += grid[i][j-1].min(grid[i-1][j]);
-                }
-            }
-        }
-        grid[m-1][n-1]
+function minPathSum(G: number[][]): number {
+    const M = G.length;
+    const N = G[0].length;
+    
+    // Deep copy the G as the initial sum
+    const dp = Array.from({length:M}, (_,m)=> Array.from({length:N}, (_,n) =>  G[m][n]));
+    
+    // Initial two border / boundary
+    for(let i=M-2; i>=0; i--) {
+        dp[i][N-1] = G[i][N-1] + dp[i+1][N-1];
     }
-}
+    for(let j = N-2; j>=0; j--) {
+        dp[M-1][j] = G[M-1][j] + dp[M-1][j+1];
+    }
+    
+    // DP
+    for(let i=M-2; i>=0; i--) {
+        for(let j = N-2; j>=0; j--) {
+            dp[i][j] = G[i][j] + Math.min(dp[i+1][j], dp[i][j+1])
+        }
+    }
+    return dp[0][0];
+    
+};
