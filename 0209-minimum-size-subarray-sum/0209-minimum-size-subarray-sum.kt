@@ -1,15 +1,13 @@
-object Solution {
-    
-    def process(sums: Array[Int], left: Int, index: Int, min: Int, target: Int): Int = {
-        if (index >= sums.length) min
-        else if (sums(index) - sums(left) < target) {
-             process(sums, left, index + 1, min, target)
-        } else process(sums, left + 1, index, min.min(index - left), target)
-    }
-    
-    def minSubArrayLen(target: Int, nums: Array[Int]): Int = {
-        val sums = nums.scanLeft(0)(_ + _)
-        val result = process(sums, left = 0, index = 0, Int.MaxValue, target)
-        if (result == Int.MaxValue) 0 else result
+class Solution {
+    fun minSubArrayLen(target: Int, nums: IntArray): Int {
+        var lo = 0
+        var sum = 0
+        return nums.asSequence().mapIndexed { hi, n ->
+          sum += n
+          while (sum - nums[lo] >= target) sum -= nums[lo++]
+          (hi - lo + 1).takeIf { sum >= target }
+        }
+        .filterNotNull()
+        .min() ?: 0
     }
 }
