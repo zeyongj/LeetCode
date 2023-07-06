@@ -1,14 +1,20 @@
-class Solution {
-    func minSubArrayLen(_ t: Int, _ n: [Int]) -> Int {
-        var size = Int.max, start = 0, sum = 0
-        for (a,b) in n.enumerated() {
-            sum += b
-            while sum >= t, start <= a {
-                size = min(size, a - start + 1)
-                sum -= n[start]
-                start += 1
-            }
-        }
-        return size == .max ? 0 : size
-    }
+func minSubArrayLen(target int, nums []int) int {
+    	left, currSum := 0, 0
+
+	minLen := float64(len(nums) + 1)
+
+	for right := 0; right < len(nums); right++ {
+		currSum += nums[right]
+		for currSum >= target {
+			minLen = math.Min(minLen, float64(right-left+1))
+			currSum -= nums[left]
+			left++
+		}
+
+	}
+	if minLen == float64(len(nums)+1) {
+		return 0
+	}
+
+	return int(minLen)
 }
