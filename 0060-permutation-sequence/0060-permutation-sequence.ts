@@ -1,18 +1,15 @@
-class Solution {
-    fun getPermutation(n: Int, k: Int): String {
-        val s = MutableList<String>(n){it->(it+1).toString()}
-        return permute(s, n, k-1)
+function getPermutation(n: number, k: number): string {
+    let factorial = [1];
+    for(let i = 1; i <= n ; i++) {
+        factorial[i] = factorial[i-1]*i
     }
-    fun permute(s: MutableList<String>, n: Int, k: Int): String{
-        if(n==1){
-            return s[0]
-        }
-        else{
-            var l = getFactorial(n-1)
-            return s.removeAt(k/l) + permute(s, n-1, k%l)
-        }
+    let nums = Array.from({length: n},(v,i) => i+1);
+    let res = ''
+    for(let i = n; i > 0; i--) {
+        let index = Math.ceil(k/factorial[i-1]);
+        res += nums[index-1];
+        nums.splice(index-1,1);
+        k -= (factorial[i-1]*(index-1));
     }
-    fun getFactorial(n: Int): Int{
-        return if(n==1) 1 else n*getFactorial(n-1)
-    }
-}
+    return res;
+};
