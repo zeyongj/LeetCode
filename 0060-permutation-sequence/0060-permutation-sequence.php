@@ -1,15 +1,54 @@
-impl Solution {
-    pub fn get_permutation(n: i32, k: i32) -> String {
-        let mut v: Vec<char> = (0..n as u8).map(|i| (b'1' + i) as char).collect();
-        let mut k: i32 = k - 1;
-        let mut m: i32 = (1..n).product();
-        let mut answer: String = String::with_capacity(n as usize);
-        for i in 0..n - 1 {
-            answer.push(v.remove((k / m) as usize));
-            k %= m;
-            m /= n - i - 1;
+class Solution {
+    /**
+     * @param Integer $n
+     * @param Integer $k
+     * @return String
+     */
+    function getPermutation($n, $k) {
+        if ($n == 0) return '';
+        
+        $numbers = range(1, $n);
+        $isVisited = array_fill(0, $n, false);
+        $result = [];
+        $numberGenerated = 0;
+        
+        $this->generateSequence($result, [], $isVisited, $numbers, $numberGenerated, $k);
+        
+        return implode('', $result);
+    }
+
+    function generateSequence(&$array, $currentSequence, &$isVisited, $numbers, &$numberGenerated, $k) {
+        if ($k <= $numberGenerated) {
+            return;
         }
-        answer.push(v[0]);
-        answer
+        
+        if (count($currentSequence) == count($numbers)) {
+            $array = $currentSequence;
+            $numberGenerated++;
+            return;
+        }
+        
+        $remaining = count($numbers) - count($currentSequence);
+        $factorial = $this->factorial($remaining - 1);
+        
+        for ($i = 0; $i < count($numbers); $i++) {
+            if (!$isVisited[$i]) {
+                if ($k > $numberGenerated + $factorial) {
+                    $numberGenerated += $factorial;
+                    continue;
+                }
+                
+                $isVisited[$i] = true;
+                $currentSequence[] = $numbers[$i];
+                $this->generateSequence($array, $currentSequence, $isVisited, $numbers, $numberGenerated, $k);
+                $isVisited[$i] = false;
+                array_pop($currentSequence);
+            }
+        }
+    }
+    
+    function factorial($n) {
+        if ($n <= 1) return 1;
+        return $n * $this->factorial($n - 1);
     }
 }
