@@ -1,17 +1,12 @@
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
-function twoSum(nums, target) {
-  let vals = {};
-
-  for (let i = 0; i < nums.length; i++) {
-    if (target - nums[i] in vals) {
-      return [vals[target-nums[i]], i];
-    } else {
-      vals[nums[i]] = i;
-    }
-  }
-  return [];
-};
+# @param {Integer[]} nums
+# @param {Integer} target
+# @return {Integer[]}
+def two_sum(nums, target)
+  dict = {}
+  nums.each_with_index do |n, i|
+    if dict[target - n]
+      return dict[target - n], i
+    end
+    dict[n] = i
+  end
+end
