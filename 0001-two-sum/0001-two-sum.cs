@@ -1,40 +1,19 @@
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-
-struct intPair {
-    int x;
-    int order;
-};
-
-int compare(const void *a, const void *b) {
-    struct intPair *p = (struct intPair *) a;
-    struct intPair *q = (struct intPair *) b;
-    return p->x - q->x;
-}
-
-int* twoSum(int* nums, int numsSize, int target, int* returnSize){
-    int i, j, *output;
-    output = malloc(2 * sizeof(int));
-    *returnSize = 2;
-    struct intPair *arr = malloc(numsSize * sizeof(struct intPair));
-    for (i = 0; i < numsSize; ++i) {
-        arr[i].x = nums[i];
-        arr[i].order = i;
-    }
-    qsort(arr, numsSize, sizeof(struct intPair), compare);
-    i = 0;
-    j = numsSize - 1;
-    while (arr[i].x + arr[j].x != target) {
-        while (arr[i].x + arr[j].x < target) {
-            ++i;
+public class Solution {
+    public int[] TwoSum(int[] nums, int target) {
+        
+        if(nums == null || nums.Length < 2)
+            return new int[2];
+        
+        Dictionary<int,int> dic = new Dictionary<int,int>();
+        
+        for(int i = 0; i < nums.Length; i++)
+        {
+            if(dic.ContainsKey(target - nums[i]))
+                return new int[]{i, dic[target - nums[i]]};
+            else if(!dic.ContainsKey(nums[i]))
+                dic.Add(nums[i], i);
         }
-        while (arr[i].x + arr[j].x > target) {
-            --j;
-        }
+        
+        return new int[2];
     }
-    output[0] = arr[i].order;
-    output[1] = arr[j].order;
-    free(arr);
-    return output;
 }
