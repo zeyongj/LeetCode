@@ -1,14 +1,11 @@
-impl Solution {
-    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
-        use std::collections::HashMap;
-        
-        let mut m: HashMap<i32, i32> = HashMap::new();
-        for (i, v) in nums.iter().enumerate() {
-            match m.get(&(target - *v)) {
-                Some(&i2) => return vec![i as i32, i2],
-                None => m.insert(*v, i as i32),
-            };
+class Solution {
+    fun twoSum(nums: IntArray, target: Int): IntArray {
+        val map = hashMapOf<Int, Int>()
+        nums.forEachIndexed { index, i ->
+            val goal = target - i
+            if (map[goal] != null) return intArrayOf(map[goal]!!, index)
+            map[i] = index
         }
-        vec![]
+        return intArrayOf(-1, -1)
     }
 }
