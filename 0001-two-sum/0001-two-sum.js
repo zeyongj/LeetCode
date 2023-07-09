@@ -1,19 +1,17 @@
-public class Solution {
-    public int[] TwoSum(int[] nums, int target) {
-        
-        if(nums == null || nums.Length < 2)
-            return new int[2];
-        
-        Dictionary<int,int> dic = new Dictionary<int,int>();
-        
-        for(int i = 0; i < nums.Length; i++)
-        {
-            if(dic.ContainsKey(target - nums[i]))
-                return new int[]{i, dic[target - nums[i]]};
-            else if(!dic.ContainsKey(nums[i]))
-                dic.Add(nums[i], i);
-        }
-        
-        return new int[2];
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+function twoSum(nums, target) {
+  let vals = {};
+
+  for (let i = 0; i < nums.length; i++) {
+    if (target - nums[i] in vals) {
+      return [vals[target-nums[i]], i];
+    } else {
+      vals[nums[i]] = i;
     }
-}
+  }
+  return [];
+};
