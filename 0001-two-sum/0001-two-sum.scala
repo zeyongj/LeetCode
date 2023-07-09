@@ -1,11 +1,11 @@
-func twoSum(nums []int, target int) []int {
-    m := make(map[int]int, len(nums))
-    
-    for i, num := range nums {
-        if idx, ok := m[target - num]; ok {
-            return []int{idx, i}            
-        } 
-        m[num] = i
+object Solution {
+    def twoSum(nums: Array[Int], target: Int): Array[Int] = {
+        val dict = scala.collection.mutable.Map[Int, Int]()
+        for {
+            pair @ (x, i) <- nums.zipWithIndex
+            if dict.contains(target - x) || {dict += pair; false}
+            j <- dict.get(target-x)
+        } return Array(j,i)
+        throw new IllegalArgumentException("No two sum solution");
     }
-    return []int{0, 0}
 }
