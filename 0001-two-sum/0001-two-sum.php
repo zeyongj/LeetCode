@@ -1,11 +1,25 @@
 class Solution {
-    fun twoSum(nums: IntArray, target: Int): IntArray {
-        val map = hashMapOf<Int, Int>()
-        nums.forEachIndexed { index, i ->
-            val goal = target - i
-            if (map[goal] != null) return intArrayOf(map[goal]!!, index)
-            map[i] = index
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $target
+     * @return Integer[]
+     */
+    function twoSum($nums, $target) {
+        $res = [];
+        $setSum = [];
+        
+        for($i = 0; $i < sizeof($nums); $i++)
+        {
+            $diff = $target - $nums[$i];
+            if(array_search($diff, $setSum) !== false)
+            {
+                $key = array_search($diff, $setSum);
+                $res[] = $i;
+                $res[] = $key;
+            }
+            $setSum[] = $nums[$i];
         }
-        return intArrayOf(-1, -1)
+        return $res;
     }
 }
