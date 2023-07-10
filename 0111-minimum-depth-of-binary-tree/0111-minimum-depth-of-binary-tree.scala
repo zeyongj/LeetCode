@@ -1,29 +1,20 @@
 /**
  * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
+ * class TreeNode(_value: Int = 0, _left: TreeNode = null, _right: TreeNode = null) {
+ *   var value: Int = _value
+ *   var left: TreeNode = _left
+ *   var right: TreeNode = _right
  * }
  */
-func minDepth(root *TreeNode) int {
-    if root == nil {
-        return 0
+object Solution {
+    def minDepth(root: TreeNode): Int = {
+        if(root == null) return 0
+        helper(List(root))
     }
-    if root.Left == nil && root.Right == nil {
-        return 1
+    
+    def helper(list: List[TreeNode]): Int = {
+        if(list.isEmpty) return 0
+        if(list.exists(o => o.left == null && o.right == null)) 1
+        else helper(list.flatMap(o => List(o.left, o.right).filterNot(_ == null))) + 1
     }
-    if root.Left == nil {
-        return 1 + minDepth(root.Right)
-    }
-    if root.Right == nil {
-        return 1 + minDepth(root.Left)
-    }
-    return 1 + min(minDepth(root.Left), minDepth(root.Right))
-}
-func min(a int, b int) int {
-    if a < b {
-        return a
-    }
-    return b
 }
