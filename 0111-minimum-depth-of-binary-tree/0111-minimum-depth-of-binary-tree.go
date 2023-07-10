@@ -1,48 +1,29 @@
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
- *     public var val: Int
- *     public var left: TreeNode?
- *     public var right: TreeNode?
- *     public init() { self.val = 0; self.left = nil; self.right = nil; }
- *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
- *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
- *         self.val = val
- *         self.left = left
- *         self.right = right
- *     }
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
  * }
  */
-class Solution {
- func minDepth(_ root: TreeNode?) -> Int {
-    guard let root = root else { return 0 }
-    var depth = 0
-    var queue = [root]
-    
-    while !queue.isEmpty {
-        var level = [TreeNode]()
-        depth += 1
-        
-        for node in queue {
-            if node.left == nil && node.right == nil {
-                return depth
-            }
-         
-            if let leftChild = node.left {
-                level.append(leftChild)
-
-            }
-            
-            if let rightChild = node.right {
-                level.append(rightChild)
-            }
-            
-        }
-        queue = level
+func minDepth(root *TreeNode) int {
+    if root == nil {
+        return 0
     }
-    
-    return depth
-    
+    if root.Left == nil && root.Right == nil {
+        return 1
     }
-
+    if root.Left == nil {
+        return 1 + minDepth(root.Right)
+    }
+    if root.Right == nil {
+        return 1 + minDepth(root.Left)
+    }
+    return 1 + min(minDepth(root.Left), minDepth(root.Right))
+}
+func min(a int, b int) int {
+    if a < b {
+        return a
+    }
+    return b
 }
