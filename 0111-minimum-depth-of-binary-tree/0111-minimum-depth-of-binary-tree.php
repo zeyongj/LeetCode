@@ -1,59 +1,33 @@
-// Definition for a binary tree node.
-// #[derive(Debug, PartialEq, Eq)]
-// pub struct TreeNode {
-//   pub val: i32,
-//   pub left: Option<Rc<RefCell<TreeNode>>>,
-//   pub right: Option<Rc<RefCell<TreeNode>>>,
-// }
-// 
-// impl TreeNode {
-//   #[inline]
-//   pub fn new(val: i32) -> Self {
-//     TreeNode {
-//       val,
-//       left: None,
-//       right: None
-//     }
-//   }
-// }
-use std::rc::Rc;
-use std::cell::RefCell;
-use std::collections::VecDeque;
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     public $val = null;
+ *     public $left = null;
+ *     public $right = null;
+ *     function __construct($value) { $this->val = $value; }
+ * }
+ */
+class Solution {
 
-type Node = Rc<RefCell<TreeNode>>;
+    /**
+     * @param TreeNode $root
+     * @return Integer
+     */
+    function minDepth($root) {
+        // return 0 depth if node is null
+       if ($root === null) return 0;
+        // calculate the left node depth
+        $li_leftDepth = $this->minDepth($root->left);
+        // calculate the right node depth
+        $li_rightDepth = $this->minDepth($root->right);
+        // now compare
+        // return 1+left node depth (left node total depth)
+        // if left node depth less then right node depth and left has at least 1 depth
+        // or right node depth is less than 1
+        // otherwise it returns the right node depth+1
 
-//  Breath For Search 
-
-impl Solution {
-    pub fn min_depth(root: Option<Node>) -> i32 {
-
-        if root.is_none() { 
-            return 0 
-        }
-        let mut q = VecDeque::new();
-        //  append root node to q
-        //  (level, node)
-        q.push_back((1, root.clone()));
-
-        while !q.is_empty() { 
-            if let Some((level, Some(node))) =  q.pop_front() { 
-                let node = node.borrow();
-                //  Check whether a left or right node exist 
-                if node.left.is_none() && node.right.is_none() { 
-                    return level
-                } 
-					//**Can be optimised using if let syntax here
-                //  Add left node 
-                if node.left.is_some() { 
-                    q.push_back((level + 1, node.left.clone()));
-                } 
-                //  Add right node 
-                if node.right.is_some() {
-                    q.push_back((level + 1, node.right.clone()))
-
-                }
-            }
-        }
-      0
+        return ($li_leftDepth<$li_rightDepth && $li_leftDepth>0 || $li_rightDepth<1 ? 1+$li_leftDepth : 1+$li_rightDepth);
     }
+    
+
 }
