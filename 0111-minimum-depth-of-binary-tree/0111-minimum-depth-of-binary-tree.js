@@ -1,25 +1,34 @@
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
- *     public int val;
- *     public TreeNode left;
- *     public TreeNode right;
- *     public TreeNode(int val=0, TreeNode left=null, TreeNode right=null) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
  * }
  */
-public class Solution {
-    public int MinDepth(TreeNode root) {
-        if (root == null)
-            return 0;
-        else if (root.left == null)
-            return MinDepth(root.right) + 1;
-        else if (root.right == null)
-            return MinDepth(root.left) + 1;
-        else
-            return Math.Min(MinDepth(root.left), MinDepth(root.right)) + 1;
+/**
+ * @param {TreeNode} root
+ * @return {number}
+ */
+var minDepth = function(root) {
+    
+    if (root == null) return 0;
+    
+    let min = Number.MAX_SAFE_INTEGER;
+    
+    findMin(root, 1);
+    
+    return min;
+    
+    function findMin(node, depth) {
+        // base
+        if (node == null) return 0;
+        
+        if (node.left == null && node.right == null) {
+            min = Math.min(min, depth);
+        }
+        
+        findMin(node.left, depth + 1);
+        findMin(node.right, depth + 1);
     }
-}
+};
