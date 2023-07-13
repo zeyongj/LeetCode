@@ -1,38 +1,39 @@
-public class Solution {
-    public bool CanFinish(int numCourses, int[][] prerequisites) {
-        if (prerequisites == null || prerequisites.Length == 0)
-            return true;
-        
-        List<int>[] g = new List<int>[numCourses];
-        int[] indegree = new int[numCourses];
-        Queue<int> q = new Queue<int>();
-        int nodeCount = 0;
-        
-        foreach (var item in prerequisites)
-        {
-            if (g[item[0]] == null)
-                g[item[0]] = new List<int>();
-            
-            g[item[0]].Add(item[1]);
-            indegree[item[1]] += 1;
-        }
-        
-        for (int i = 0; i < numCourses; i++)
-            if (indegree[i] == 0)
-                q.Enqueue(i);
-        
-        while (q.Count > 0)
-        {
-            int cur = q.Dequeue();
-            
-            if (g[cur] != null)            
-                foreach (var item in g[cur])
-                    if (--indegree[item] == 0)
-                        q.Enqueue(item);
-            
-            nodeCount++;
-        }
-        
-        return nodeCount == numCourses;
+/**
+ * @param {number} numCourses
+ * @param {number[][]} prerequisites
+ * @return {boolean}
+ */
+var canFinish = function(numCourses, prerequisites) {
+  const order = [];
+  const queue = [];
+  const graph = new Map();
+  const indegree = Array(numCourses).fill(0);
+
+  for (const [e, v] of prerequisites) {
+    // build graph map
+    if (graph.has(v)) {
+      graph.get(v).push(e);
+    } else {
+      graph.set(v, [e]);
     }
-}
+    // build indegree array
+    indegree[e]++;
+  }
+
+  for (let i = 0; i < indegree.length; i++) {
+    if (indegree[i] === 0) queue.push(i);
+  }
+
+  while (queue.length) {
+    const v = queue.shift();
+    if (graph.has(v)) {
+      for (const e of graph.get(v)) {
+        indegree[e]--;
+        if (indegree[e] === 0) queue.push(e);
+      }
+    }
+    order.push(v);
+  }
+
+  return numCourses === order.length;
+};
