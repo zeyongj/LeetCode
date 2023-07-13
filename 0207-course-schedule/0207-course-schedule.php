@@ -1,33 +1,59 @@
-impl Solution {
-     pub fn can_finish(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
-      let mut graph = vec![vec![]; num_courses as usize];
-      let visited = &mut vec![0; num_courses as usize];
-      for pre in prerequisites {
-       let (x, y) = (pre[0], pre[1]);
-       graph[x as usize].push(y);
-      }
-      for i in 0..num_courses {
-       if !Solution::depth_first_search(graph.to_vec(), visited, i as usize) {
-        return false;
-       }
-      }
+class Solution {
 
-      true
-     }
+    /**
+     * @param Integer $numCourses
+     * @param Integer[][] $prerequisites
+     * @return Boolean
+     */
+    function canFinish($numCourses, $prerequisites) {
+        $adj = [];
 
-     pub fn depth_first_search(graph: Vec<Vec<i32>>, visited: &mut Vec<i32>, i: usize) -> bool {
-      if visited[i] == -1 {
-       return false;
-      } else if visited[i] == 1 {
-       return true;
-      }
-      visited[i] = -1;
-      for j in graph[i].to_vec() {
-       if !Solution::depth_first_search(graph.to_vec(), visited, j as usize) {
+        for ($i = 0; $i < $numCourses; $i++) {
+            $adj[$i] = [];
+        }
+        
+        foreach ($prerequisites as $p) {
+            $adj[$p[0]][] = $p[1];
+        }
+
+        $nodeToVisitedState = [];
+        
+        for ($i = 0; $i < $numCourses; $i++) {
+            if ($this->detectCycleDFSRecursive($i, $adj, $nodeToVisitedState)) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+
+
+    function detectCycleDFSRecursive($currentNode, $adj, &$nodeToVisitedState) {
+        // Base cases
+        $currentVisitedState = isset($nodeToVisitedState[$currentNode]) ? $nodeToVisitedState[$currentNode] : 0;
+        // We're seeing a node again as part of one of its children recursive calls --> we have a cycle.
+        if ($currentVisitedState == 1) {
+            return true;
+        }
+        // We've already recursively explored all children of this node --> we can already determine that there is no cycle.
+        elseif ($currentVisitedState == 2) {
+            return false;
+        }
+    
+        // Mark the node as currently being recursively explored (but not complete again) so that we can identify if one of its children recursive calls touches it again (and thus that we have a cycle)
+        $nodeToVisitedState[$currentNode] = 1;
+    
+        foreach ($adj[$currentNode] as $neighbour) {
+            $neighbourHasCycle = $this->detectCycleDFSRecursive($neighbour, $adj, $nodeToVisitedState);
+            if ($neighbourHasCycle) {
+                return true;
+            }
+        }
+    
+        // We're done recursively exploring its children - mark it as completely visited so we don't attempt to explore it again.
+        $nodeToVisitedState[$currentNode] = 2;
+        // We've explored the whole graph and haven't found a cycle!
         return false;
-       }
-      }
-      visited[i] = 1;
-      true
-     }
+    }
 }
