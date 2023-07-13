@@ -1,39 +1,35 @@
-class Solution {
-    func canFinish(_ numCourses: Int, _ prerequisites: [[Int]]) -> Bool {
-                                                
-              var array = Array(repeating:[Int](),count:numCourses)
-              var indegrees = Array(repeating:0,count:numCourses)
-                                                
-            for course in prerequisites {
-            var tempo:[Int] = array[course[1]]
-            tempo.append(course[0])
-            array[course[1]] = tempo
-            indegrees[course[0]] += 1
-            }
-            
-            var que = [Int]()
-            for index in 0..<numCourses {
-                if indegrees[index] == 0 {
-                que.insert(index, at: 0)
-                  }
-                }
-                var count = numCourses
-                while que.count > 0 {
-                let current = que.removeLast()
-                count -= 1
-                let adj = array[current]
-                for course in adj {
-                indegrees[course] -= 1
-                if indegrees[course] == 0 {
-                que.insert(course, at: 0)
-                   }
-                }
-            }
-                                                
-            if count == 0 {
-            return true
-            } else {
+func canFinish(numCourses int, prerequisites [][]int) bool {
+    graph := make([][]int, numCourses)
+    indeg := make([]int, numCourses)
+    courseLeft := numCourses
+    
+    for i := range prerequisites {
+        from, to := prerequisites[i][1], prerequisites[i][0]
+        graph[from] = append(graph[from], to)
+        indeg[to]++
+    }
+        
+    for courseLeft > 0 {
+        idx := findZero(indeg)
+        if idx == -1 {
             return false
-            }
         }
+        
+        courseLeft--
+        for _, val := range graph[idx] {
+            indeg[val]--
+        }
+    }
+    
+    return true
+}
+
+func findZero(nums []int) int {
+    for i, val := range nums {
+        if val == 0 {
+            nums[i] = -1
+            return i
+        }
+    }
+    return -1
 }
