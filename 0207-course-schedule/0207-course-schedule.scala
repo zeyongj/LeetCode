@@ -1,35 +1,40 @@
-func canFinish(numCourses int, prerequisites [][]int) bool {
-    graph := make([][]int, numCourses)
-    indeg := make([]int, numCourses)
-    courseLeft := numCourses
-    
-    for i := range prerequisites {
-        from, to := prerequisites[i][1], prerequisites[i][0]
-        graph[from] = append(graph[from], to)
-        indeg[to]++
-    }
-        
-    for courseLeft > 0 {
-        idx := findZero(indeg)
-        if idx == -1 {
-            return false
-        }
-        
-        courseLeft--
-        for _, val := range graph[idx] {
-            indeg[val]--
-        }
-    }
-    
-    return true
-}
+object Solution {
+    def canFinish(numCourses: Int, prerequisites: Array[Array[Int]]): Boolean = {
+        val inDegree = Array.fill(numCourses)(0)
+        var graph = Map((0 until numCourses).map((_,Array[Int]())):_*)
+        val visited = Array.fill(numCourses)(false)
+        var queue = scala.collection.immutable.Queue[Int]()
 
-func findZero(nums []int) int {
-    for i, val := range nums {
-        if val == 0 {
-            nums[i] = -1
-            return i
+        //init inDegree and graph
+        for(i <- prerequisites.indices){
+          val dad = prerequisites(i)(1)
+          val son = prerequisites(i)(0)
+          inDegree(son) += 1
+          graph = graph + (dad -> graph(dad).:+(son))
         }
-    }
-    return -1
+
+        //enqueue the vertexes which inDegree equals 0
+        for(i <- inDegree.indices){
+          if(inDegree(i) == 0)
+            queue = queue.enqueue(i)
+        }
+
+        while(queue.nonEmpty){
+          val curVertex = queue.dequeue._1
+          visited(curVertex) = true
+          queue = queue.dequeue._2
+
+          //possible vertexes of current path
+          val nextVertexes = graph(curVertex)
+          nextVertexes.foreach(v => {
+            //remove the edges that related to currentVertex
+            inDegree(v) -= 1
+            //path go through
+            if(inDegree(v) == 0)
+              queue = queue.enqueue(v)
+          })
+        }
+
+        visited.forall(_ == true)
+      }
 }
