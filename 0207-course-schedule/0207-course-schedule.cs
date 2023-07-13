@@ -1,50 +1,38 @@
-/* The most prerequisites a course has in the test data.  Used simply to cut down memory usage.  */
-#define PREREQ_MAX (13)
-
-bool loops( int idx, int cmap[][PREREQ_MAX], int cpr[], int *visited ) {
-    /* The current course requires a course that requires the 
-     * current course (looped requirements).
-     */
-    if ( visited[idx] > 0 )
-        return true;
-    
-    /* Check the current course's prerequisites for loops.  */
-    if ( visited[idx] == 0 ) {
-        visited[idx] = 1;
-        for ( int i=0; i<cpr[idx]; i++ ) {
-            if ( loops( cmap[idx][i], cmap, cpr, visited ) ) {
-                return true;
-            }
-        }
-        /* Mark course as processed in a previous loop.  Alternatively,
-         * can probably also just clear the visisted[] array.
-         */
-        visited[idx] = -1;
-    }
-    
-    return false;
-}
-
-bool canFinish(int numCourses, int** prerequisites, int prerequisitesSize, int* prerequisitesColSize){
-    int cmap[2001][PREREQ_MAX]; /* Holds the prerequisites of each course.  */
-    int cpr[2001]     = { 0 };  /* Number of course pre-requisites.  */
-    int visited[2001] = { 0 };
-
-    /* Map out all prerequisites of all courses.  */
-    for ( int i=0; i<prerequisitesSize; i++ ) {
-        int course = prerequisites[i][0];
-        int prereq = prerequisites[i][1];
+public class Solution {
+    public bool CanFinish(int numCourses, int[][] prerequisites) {
+        if (prerequisites == null || prerequisites.Length == 0)
+            return true;
         
-        cmap[course][cpr[course]++] = prereq;
-    }
-    
-    /* Check for loops.  */
-    for ( int i=0; i<numCourses; i++ ) {
-	    /* If the courses loop, then we can't finish the courses.  */
-        if ( loops( i, cmap, cpr, &visited ) ) {
-            return false;
+        List<int>[] g = new List<int>[numCourses];
+        int[] indegree = new int[numCourses];
+        Queue<int> q = new Queue<int>();
+        int nodeCount = 0;
+        
+        foreach (var item in prerequisites)
+        {
+            if (g[item[0]] == null)
+                g[item[0]] = new List<int>();
+            
+            g[item[0]].Add(item[1]);
+            indegree[item[1]] += 1;
         }
+        
+        for (int i = 0; i < numCourses; i++)
+            if (indegree[i] == 0)
+                q.Enqueue(i);
+        
+        while (q.Count > 0)
+        {
+            int cur = q.Dequeue();
+            
+            if (g[cur] != null)            
+                foreach (var item in g[cur])
+                    if (--indegree[item] == 0)
+                        q.Enqueue(item);
+            
+            nodeCount++;
+        }
+        
+        return nodeCount == numCourses;
     }
-    
-    return true;
 }
