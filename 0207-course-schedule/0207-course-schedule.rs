@@ -1,40 +1,33 @@
-object Solution {
-    def canFinish(numCourses: Int, prerequisites: Array[Array[Int]]): Boolean = {
-        val inDegree = Array.fill(numCourses)(0)
-        var graph = Map((0 until numCourses).map((_,Array[Int]())):_*)
-        val visited = Array.fill(numCourses)(false)
-        var queue = scala.collection.immutable.Queue[Int]()
-
-        //init inDegree and graph
-        for(i <- prerequisites.indices){
-          val dad = prerequisites(i)(1)
-          val son = prerequisites(i)(0)
-          inDegree(son) += 1
-          graph = graph + (dad -> graph(dad).:+(son))
-        }
-
-        //enqueue the vertexes which inDegree equals 0
-        for(i <- inDegree.indices){
-          if(inDegree(i) == 0)
-            queue = queue.enqueue(i)
-        }
-
-        while(queue.nonEmpty){
-          val curVertex = queue.dequeue._1
-          visited(curVertex) = true
-          queue = queue.dequeue._2
-
-          //possible vertexes of current path
-          val nextVertexes = graph(curVertex)
-          nextVertexes.foreach(v => {
-            //remove the edges that related to currentVertex
-            inDegree(v) -= 1
-            //path go through
-            if(inDegree(v) == 0)
-              queue = queue.enqueue(v)
-          })
-        }
-
-        visited.forall(_ == true)
+impl Solution {
+     pub fn can_finish(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
+      let mut graph = vec![vec![]; num_courses as usize];
+      let visited = &mut vec![0; num_courses as usize];
+      for pre in prerequisites {
+       let (x, y) = (pre[0], pre[1]);
+       graph[x as usize].push(y);
       }
+      for i in 0..num_courses {
+       if !Solution::depth_first_search(graph.to_vec(), visited, i as usize) {
+        return false;
+       }
+      }
+
+      true
+     }
+
+     pub fn depth_first_search(graph: Vec<Vec<i32>>, visited: &mut Vec<i32>, i: usize) -> bool {
+      if visited[i] == -1 {
+       return false;
+      } else if visited[i] == 1 {
+       return true;
+      }
+      visited[i] = -1;
+      for j in graph[i].to_vec() {
+       if !Solution::depth_first_search(graph.to_vec(), visited, j as usize) {
+        return false;
+       }
+      }
+      visited[i] = 1;
+      true
+     }
 }
