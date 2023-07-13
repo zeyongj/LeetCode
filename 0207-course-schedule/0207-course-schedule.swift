@@ -1,39 +1,39 @@
-/**
- * @param {number} numCourses
- * @param {number[][]} prerequisites
- * @return {boolean}
- */
-var canFinish = function(numCourses, prerequisites) {
-  const order = [];
-  const queue = [];
-  const graph = new Map();
-  const indegree = Array(numCourses).fill(0);
-
-  for (const [e, v] of prerequisites) {
-    // build graph map
-    if (graph.has(v)) {
-      graph.get(v).push(e);
-    } else {
-      graph.set(v, [e]);
-    }
-    // build indegree array
-    indegree[e]++;
-  }
-
-  for (let i = 0; i < indegree.length; i++) {
-    if (indegree[i] === 0) queue.push(i);
-  }
-
-  while (queue.length) {
-    const v = queue.shift();
-    if (graph.has(v)) {
-      for (const e of graph.get(v)) {
-        indegree[e]--;
-        if (indegree[e] === 0) queue.push(e);
-      }
-    }
-    order.push(v);
-  }
-
-  return numCourses === order.length;
-};
+class Solution {
+    func canFinish(_ numCourses: Int, _ prerequisites: [[Int]]) -> Bool {
+                                                
+              var array = Array(repeating:[Int](),count:numCourses)
+              var indegrees = Array(repeating:0,count:numCourses)
+                                                
+            for course in prerequisites {
+            var tempo:[Int] = array[course[1]]
+            tempo.append(course[0])
+            array[course[1]] = tempo
+            indegrees[course[0]] += 1
+            }
+            
+            var que = [Int]()
+            for index in 0..<numCourses {
+                if indegrees[index] == 0 {
+                que.insert(index, at: 0)
+                  }
+                }
+                var count = numCourses
+                while que.count > 0 {
+                let current = que.removeLast()
+                count -= 1
+                let adj = array[current]
+                for course in adj {
+                indegrees[course] -= 1
+                if indegrees[course] == 0 {
+                que.insert(course, at: 0)
+                   }
+                }
+            }
+                                                
+            if count == 0 {
+            return true
+            } else {
+            return false
+            }
+        }
+}
