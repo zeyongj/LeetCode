@@ -1,38 +1,59 @@
-class Solution {
-    public boolean isNumber(String s) {
-        int state = 0;
-        int finals = 0b101101000;
-        int[][] transfer = new int[][]{
-            { 0, 1, 6, 2, -1},
-            {-1,-1, 6, 2, -1},
-            {-1,-1, 3,-1,-1},
-            { 8,-1, 3,-1, 4},
-            {-1, 7, 5,-1,-1},
-            { 8,-1, 5,-1,-1},
-            { 8,-1, 6, 3, 4},
-            {-1,-1, 5,-1,-1},
-            { 8,-1,-1,-1,-1}
-        };
-        for (int i = 0; i < s.length(); ++i) {
-            int id = make(s.charAt(i));
-            if (id < 0) return false;
-            state = transfer[state][id];
-            if (state < 0) return false;
-        }
-        return (finals & (1 << state)) > 0;
-    }
+/* Is the character a digit? */
+bool dig(char c)
+{
+    return (c >= '0' && c <= '9');
+}
 
-    private int make(char c) {
-        switch(c) {
-            case ' ' : return 0;
-            case '+':
-            case '-': return 1;
-            case '.': return 3;
-            case 'e':
-            case 'E': return 4;
-            default:
-                if (c >= 48 && c <= 57) return 2;
+/*
+ * Numbers 0-9
+ * Exponent - "e"
+ * Positive/negative sign - "+"/"-"
+ * Decimal point - "."
+ */
+bool isNumber(char *s) {    /* the string */
+    /* Get rid of these cases */
+    if (strlen(s) == 0) return 0;
+    if (!s) return 0;
+    
+    /* start parsing from beginning */
+    char *sp = s;
+    char deci = 0;
+    
+    /* What can we start with? */
+    while (*sp) if (*sp == ' ') sp++; else break;   /* spaces - eat up */
+    if (!*sp) return 0;                             /* all spaces => return false */
+    if (*sp == '+' || *sp == '-') *sp++;    /* +/- => allowed */
+    if (!*sp) return 0;                     /* nothing afterwards => return false */
+    if (*sp == '.') { deci = 1; sp++; }     /* '.' allowed for decimal */
+    if (!*sp) return 0;                     /* nothing afterwards => return false */
+    if (!dig(*sp++)) return 0;              /* not a digit? => return false */
+    
+    while (*sp) {
+        switch(*sp) {
+        case ' ':
+            sp++;
+            while (*sp) if (*sp == ' ') sp++; else break;
+            return (*sp == 0);              /* if we reached the end => trailing spaces */
+                
+        case '.':                           /* can't have two '.' => return false */
+            if (deci) return 0;
+            else deci = 1;
+            break;
+                
+        case 'e':                           /* parse the e or E case */
+        case 'E':
+            if (!*(sp + 1)) return 0; else sp++;
+            if (*sp == '+'|| *sp == '-') { if (!*(sp + 1)) return 0; else sp++; }
+            if (!dig(*sp)) return 0;
+            while (*sp) if (dig(*sp)) sp++; else break;
+            while (*sp) if (*sp == ' ') sp++; else break;
+            return (*sp == 0);
+                
+        default: 
+            if (!dig(*sp)) return 0;
+            break;
         }
-        return -1;
+        sp++;
     }
+    return 1;
 }
