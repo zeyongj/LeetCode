@@ -1,7 +1,5 @@
-/**
- * @param {string} s
- * @return {boolean}
- */
-var isNumber = function(s) {
-    return (! isNaN(s) ) && ( s.trim() !== "" ) && (! s.includes("Infinity") )
-};
+# @param {String} s
+# @return {Boolean}
+def is_number(s)
+  /^[+-]?(\d+\.?\d*|\.\d+)([eE][+-]?\d+)?$/.match?(s)
+end
