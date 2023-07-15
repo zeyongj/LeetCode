@@ -1,32 +1,38 @@
-import java.math.BigDecimal;
-import java.math.BigInteger;
+class Solution {
+    public boolean isNumber(String s) {
+        int state = 0;
+        int finals = 0b101101000;
+        int[][] transfer = new int[][]{
+            { 0, 1, 6, 2, -1},
+            {-1,-1, 6, 2, -1},
+            {-1,-1, 3,-1,-1},
+            { 8,-1, 3,-1, 4},
+            {-1, 7, 5,-1,-1},
+            { 8,-1, 5,-1,-1},
+            { 8,-1, 6, 3, 4},
+            {-1,-1, 5,-1,-1},
+            { 8,-1,-1,-1,-1}
+        };
+        for (int i = 0; i < s.length(); ++i) {
+            int id = make(s.charAt(i));
+            if (id < 0) return false;
+            state = transfer[state][id];
+            if (state < 0) return false;
+        }
+        return (finals & (1 << state)) > 0;
+    }
 
-public class Solution {
-        public boolean isNumber(String s) {
-    	s = s.trim();
-    	if(s.length() == 0) {
-    		return false;
-    	}
-    	boolean result = true;
-        try{
-        	new BigDecimal(s);
-        } catch(Exception e) {
-        	result = false;
+    private int make(char c) {
+        switch(c) {
+            case ' ' : return 0;
+            case '+':
+            case '-': return 1;
+            case '.': return 3;
+            case 'e':
+            case 'E': return 4;
+            default:
+                if (c >= 48 && c <= 57) return 2;
         }
-        if(s.contains("e")) {
-        	int firstIndex = s.indexOf("e");
-        	int lastIndex = s.lastIndexOf("e");
-        	if(lastIndex != firstIndex) {
-        		return false;
-        	}
-        	try{
-        		new BigDecimal(s.substring(0, firstIndex));
-        		new BigInteger(s.substring(firstIndex + 1));
-        		result = true;
-        	} catch(Exception e) {
-            	result = false;
-            }
-        }
-        return result;
+        return -1;
     }
 }
