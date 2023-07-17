@@ -1,58 +1,83 @@
 /**
  * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
+ * public class ListNode {
+ *     public int val;
+ *     public ListNode next;
+ *     public ListNode(int val=0, ListNode next=null) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
+ * }
  */
-static int addTwoNumInt(struct ListNode* l1, struct ListNode* l2, int l2missing) {
-	int carry, val;
-	
-	if (!l1)
-		return 0;
-
-	if (l2missing == 0) {
-		carry = addTwoNumInt(l1->next, l2->next, 0);
-		val = l1->val + l2->val + carry;
-	} else {
-		carry = addTwoNumInt(l1->next, l2, l2missing - 1);
-		val = l1->val + carry;
-	}
-	l1->val = val % 10;
-	return val / 10;
-	
-}
-
-static int length(struct ListNode* l) {
-    int len;
-    for (len = 0; l; l = l->next) 
-        len++;
-    return len;
-}
-
-static void swap(struct ListNode** p1, struct ListNode** p2) {
-    struct ListNode* tmp;
-    tmp = *p1;
-    *p1 = *p2;
-    *p2 = tmp;
-}
-
-#define abs(a) ((a) > 0 ? (a) : -(a))
-
-struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
-	int len1, len2, carry;
-	struct ListNode* head;
-	len1 = length(l1);
-	len2 = length(l2);
-	if (len1 < len2)
-		swap(&l1, &l2);
-	carry = addTwoNumInt(l1, l2, abs(len1 - len2));
-	if (carry) {
-		if ((head = malloc(sizeof(struct ListNode))) == NULL)
-			return head;
-		head->val = 1;
-		head->next = l1;
-		l1 = head;
-	}
-	return l1;
+public class Solution {
+    public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {
+        int l1Length = 0,
+            l2Length = 0;
+        
+        ListNode tempNode = null,
+                 templ1Head = new ListNode(-1),
+                 templ2Head = new ListNode(-1);
+        
+        templ1Head.next = l1;
+        templ2Head.next = l2;
+        
+        tempNode = l1;
+        while (tempNode != null)
+        {
+            l1Length++;
+            tempNode = tempNode.next;
+        }
+        
+        tempNode = l2;
+        while (tempNode != null)
+        {
+            l2Length++;
+            tempNode = tempNode.next;
+        }
+        
+        while (l1Length > l2Length)
+        {
+            tempNode = templ2Head.next;
+            templ2Head.next = new ListNode(0);
+            templ2Head.next.next = tempNode;
+            l1Length--;
+        }
+        
+        while (l1Length < l2Length)
+        {
+            tempNode = templ1Head.next;
+            templ1Head.next = new ListNode(0);
+            templ1Head.next.next = tempNode;
+            l2Length--;
+        }
+        
+        if (AddSingleNumber(templ1Head.next, templ2Head.next) == 1)
+        {
+            templ1Head.val = 1;
+            return templ1Head;
+        }
+        else
+            return templ1Head.next;
+    }
+    
+    private int AddSingleNumber(ListNode node1, ListNode node2)
+    {
+        int temp = 0;
+        
+        if (node1.next == null && node2.next == null)
+            temp = node1.val + node2.val;
+        else
+            temp = node1.val + node2.val + AddSingleNumber(node1.next, node2.next);
+            
+        if (temp >= 10)
+        {
+            node1.val = temp % 10;
+            return 1;
+        }
+        else
+        {
+            node1.val = temp;
+            return 0;
+        }
+    }
 }
