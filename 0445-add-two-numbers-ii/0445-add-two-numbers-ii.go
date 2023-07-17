@@ -1,49 +1,36 @@
 /**
  * Definition for singly-linked list.
- * public class ListNode {
- *     public var val: Int
- *     public var next: ListNode?
- *     public init() { self.val = 0; self.next = nil; }
- *     public init(_ val: Int) { self.val = val; self.next = nil; }
- *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
  * }
  */
-class Solution {
-    func getReverse(_ node: ListNode?) -> ListNode? {
-        var temp: ListNode? = nil
-        var pre: ListNode? = nil
-        var head = node
-        var current = node
-        
-        while(current != nil) {
-            temp = current?.next
-            current?.next = pre
-            pre = current
-            current = temp
-        }
-        head = pre
-        return head
+func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+    var stack1, stack2 []int
+    for l1 != nil {
+        stack1 = append(stack1, l1.Val)
+        l1 = l1.Next
     }
-    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
-        var revL1 = getReverse(l1)
-        var revL2 = getReverse(l2)
-        var res : ListNode? = nil
-        var carry = 0
-        while(revL1 != nil || revL2 != nil || carry != 0) {
-            var sum = 0
-            if revL1 != nil {
-                sum += revL1?.val ?? 0
-                revL1 = revL1?.next
-            }
-            if revL2 != nil {
-                sum += revL2?.val ?? 0
-                revL2 = revL2?.next
-            }
-            let newNode = ListNode(((carry + sum) % 10))
-            newNode.next = res
-            res = newNode
-            carry = (carry + sum) / 10
-        }
-        return res
+    for l2 != nil {
+        stack2 = append(stack2, l2.Val)
+        l2 = l2.Next
     }
+    var head *ListNode
+    var over int
+    for len(stack1) > 0 || len(stack2) > 0 || over > 0 {
+        sum := over
+        if len(stack1) > 0 {
+            sum += stack1[len(stack1)-1]
+            stack1 = stack1[:len(stack1)-1]
+        }
+        if len(stack2) > 0 {
+            sum += stack2[len(stack2)-1]
+            stack2 = stack2[:len(stack2)-1]
+        }
+        temp := ListNode{sum % 10, nil}
+        over = sum / 10
+        temp.Next = head
+        head = &temp
+    }
+    return head
 }
