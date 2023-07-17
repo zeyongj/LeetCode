@@ -1,83 +1,49 @@
 /**
  * Definition for singly-linked list.
- * public class ListNode {
- *     public int val;
- *     public ListNode next;
- *     public ListNode(int val=0, ListNode next=null) {
- *         this.val = val;
- *         this.next = next;
- *     }
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
  * }
  */
-public class Solution {
-    public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {
-        int l1Length = 0,
-            l2Length = 0;
-        
-        ListNode tempNode = null,
-                 templ1Head = new ListNode(-1),
-                 templ2Head = new ListNode(-1);
-        
-        templ1Head.next = l1;
-        templ2Head.next = l2;
-        
-        tempNode = l1;
-        while (tempNode != null)
-        {
-            l1Length++;
-            tempNode = tempNode.next;
-        }
-        
-        tempNode = l2;
-        while (tempNode != null)
-        {
-            l2Length++;
-            tempNode = tempNode.next;
-        }
-        
-        while (l1Length > l2Length)
-        {
-            tempNode = templ2Head.next;
-            templ2Head.next = new ListNode(0);
-            templ2Head.next.next = tempNode;
-            l1Length--;
-        }
-        
-        while (l1Length < l2Length)
-        {
-            tempNode = templ1Head.next;
-            templ1Head.next = new ListNode(0);
-            templ1Head.next.next = tempNode;
-            l2Length--;
-        }
-        
-        if (AddSingleNumber(templ1Head.next, templ2Head.next) == 1)
-        {
-            templ1Head.val = 1;
-            return templ1Head;
-        }
-        else
-            return templ1Head.next;
+/**
+ * @param {ListNode} l1
+ * @param {ListNode} l2
+ * @return {ListNode}
+ */
+var addTwoNumbers = function(l1, l2) {
+    // make 2 stack
+    let s1 = []
+    let s2 = []
+    while (l1){
+        s1.push(l1.val)
+        l1 = l1.next
+    }
+    while (l2){
+        s2.push(l2.val)
+        l2 = l2.next
     }
     
-    private int AddSingleNumber(ListNode node1, ListNode node2)
-    {
-        int temp = 0;
-        
-        if (node1.next == null && node2.next == null)
-            temp = node1.val + node2.val;
-        else
-            temp = node1.val + node2.val + AddSingleNumber(node1.next, node2.next);
-            
-        if (temp >= 10)
-        {
-            node1.val = temp % 10;
-            return 1;
-        }
-        else
-        {
-            node1.val = temp;
-            return 0;
-        }
+	// similiar to 2. Add Two Numbers
+    let list = new ListNode(0)
+    let sum = 0;
+    
+    while (s1.length !== 0 || s2.length !== 0 || sum > 0){
+        sum = sum + (s1.length === 0? 0: s1.pop())
+        sum = sum + (s2.length === 0? 0: s2.pop())
+        // start to deal with linked list
+		// update current node value
+        list.val = sum % 10
+		// add new head node with carry, head.val could be 1 or 0
+		sum = Math.floor(sum/10);
+        let head = new ListNode(sum)
+		// connect
+        head.next = list
+		// update the head
+        list = head
     }
-}
+    if (list.val === 0){
+        return list.next
+    } else {
+        return list
+    }
+};
