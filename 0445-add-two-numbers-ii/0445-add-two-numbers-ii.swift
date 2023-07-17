@@ -1,28 +1,49 @@
-# Definition for singly-linked list.
-# class ListNode
-#     attr_accessor :val, :next
-#     def initialize(val = 0, _next = nil)
-#         @val = val
-#         @next = _next
-#     end
-# end
-# @param {ListNode} l1
-# @param {ListNode} l2
-# @return {ListNode}
-def add_two_numbers(l1, l2)
-    r = ''
-    s = ''
-    while l1
-        r += l1.val.to_s
-        l1 = l1.next
-    end
-    while l2
-        s += l2.val.to_s
-        l2 = l2.next
-    end
-    r = (r.to_i+s.to_i).to_s.chars.map(&:to_i).map {|x| ListNode.new(x)}.to_a
-    for i in (1..r.length)
-        r[i-1].next = r[i]
-    end
-    r[0]
-end
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public var val: Int
+ *     public var next: ListNode?
+ *     public init() { self.val = 0; self.next = nil; }
+ *     public init(_ val: Int) { self.val = val; self.next = nil; }
+ *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
+ * }
+ */
+class Solution {
+    func getReverse(_ node: ListNode?) -> ListNode? {
+        var temp: ListNode? = nil
+        var pre: ListNode? = nil
+        var head = node
+        var current = node
+        
+        while(current != nil) {
+            temp = current?.next
+            current?.next = pre
+            pre = current
+            current = temp
+        }
+        head = pre
+        return head
+    }
+    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+        var revL1 = getReverse(l1)
+        var revL2 = getReverse(l2)
+        var res : ListNode? = nil
+        var carry = 0
+        while(revL1 != nil || revL2 != nil || carry != 0) {
+            var sum = 0
+            if revL1 != nil {
+                sum += revL1?.val ?? 0
+                revL1 = revL1?.next
+            }
+            if revL2 != nil {
+                sum += revL2?.val ?? 0
+                revL2 = revL2?.next
+            }
+            let newNode = ListNode(((carry + sum) % 10))
+            newNode.next = res
+            res = newNode
+            carry = (carry + sum) / 10
+        }
+        return res
+    }
+}
