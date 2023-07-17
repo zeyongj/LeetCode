@@ -1,52 +1,31 @@
 /**
- * Definition for a singly-linked list.
+ * Definition for singly-linked list.
  * class ListNode {
- *     public $val = 0;
- *     public $next = null;
- *     function __construct($val = 0, $next = null) {
- *         $this->val = $val;
- *         $this->next = $next;
+ *     val: number
+ *     next: ListNode | null
+ *     constructor(val?: number, next?: ListNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.next = (next===undefined ? null : next)
  *     }
  * }
  */
-class Solution {
-    public function linkList($array1)
-    {
-        $array1 = array_values($array1);
-        $count = count($array1); 
-        $node = null;
-        for ($i = $count -1; $i > -1; $i--) {
-            $node = new ListNode($array1[$i], $node);
-        }     
-        
-        return $node;
-    } 
+
+function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+    let a1 = [], a2 = [], current = null, last = null, carry = 0, subSum = 0;
     
-    /**
-     * @param ListNode $l1
-     * @param ListNode $l2
-     * @return ListNode
-     */    
-    function addTwoNumbers($l1, $l2) {
-        $current1 = $l1;
-        $num1 = '';
-        while ($current1->next) {
-            $num1 .= $current1->val;
-            $current1 = $current1->next;
-        }
-        $num1 .= $current1->val;
+    for (let pl1 = l1; pl1 != null; pl1 = pl1.next) a1.push(pl1.val);
+    for (let pl2 = l2; pl2 != null; pl2 = pl2.next) a2.push(pl2.val);
+    
+    for (let i = a1.length - 1, j = a2.length - 1; i >= 0 || j >= 0 || carry; i--, j--) {
+        subSum = carry;
+        if (i >= 0) subSum += a1[i];
+        if (j >= 0) subSum += a2[j];
         
-        $current2 = $l2;
-        $num2 = '';
-        while ($current2->next) {
-            $num2 .= $current2->val;
-            $current2 = $current2->next;
-        }
-        $num2 .= $current2->val;
+        current = new ListNode(subSum % 10);
+        if (last != null) current.next = last;
+        last = current;
         
-        $sum = bcadd($num2, $num1);    
-        $sum = str_split($sum);
-        
-        return $this->linkList($sum);
+        carry = Math.floor(subSum / 10);
     }
-}
+    return last;
+};
