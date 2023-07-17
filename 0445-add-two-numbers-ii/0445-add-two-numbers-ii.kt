@@ -1,32 +1,44 @@
 /**
+ * Example:
+ * var li = ListNode(5)
+ * var v = li.`val`
  * Definition for singly-linked list.
- * class ListNode(_x: Int = 0, _next: ListNode = null) {
- *   var next: ListNode = _next
- *   var x: Int = _x
+ * class ListNode(var `val`: Int) {
+ *     var next: ListNode? = null
  * }
  */
-object Solution {
-  import scala.collection.mutable
-  import scala.math.Integral.Implicits._
-  def addTwoNumbers(l1: ListNode, l2: ListNode): ListNode = {
-    val s1 = new mutable.Stack[Int]()
-    val s2 = new mutable.Stack[Int]()
-    def reverseList(l1: ListNode, s1: mutable.Stack[Int]): mutable.Stack[Int] = l1 match {
-      case null => s1
-      case l1 => { s1.push(l1.x)
-                   reverseList(l1.next, s1)}
+class Solution {
+    fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
+        if (l1 == null && l2 == null) return null
+        if (l1 == null && l2 != null) return l2
+        if (l1 != null && l2 == null) return l1
+        var q1: Stack<Int> = Stack()
+        var q2: Stack<Int> = Stack()
+        var (a, b) = l1 to l2
+        var sum: Int = 0
+        while (a != null) {
+            sum += a.`val`
+            q1.push(a.`val`)
+            a = a.next
+        }
+        while (b != null) {
+            sum += b.`val`
+            q2.push(b.`val`)
+            b = b.next
+        }
+        if (sum == 0) return ListNode(0)
+        var resultTail: ListNode? = null
+        var resultHead: ListNode? = null
+        var carry = 0
+        while (q1.isNotEmpty() || q2.isNotEmpty()) {
+            sum = carry
+            if (q1.isNotEmpty()) sum += q1.pop()
+            if (q2.isNotEmpty()) sum += q2.pop()
+            resultHead = ListNode(sum % 10).apply { next = resultTail }
+            resultTail = resultHead
+            carry = sum / 10
+        }
+        if (carry != 0) resultHead = ListNode(carry).apply { next = resultTail }
+        return resultHead
     }
-    reverseList(l1, s1)
-    reverseList(l2, s2)
-
-    def add(s1: mutable.Stack[Int], s2: mutable.Stack[Int], carry: Int, res: ListNode): ListNode = {
-      if (s1.isEmpty && s2.isEmpty && carry == 0) return res
-      val n1 = if (s1.nonEmpty) s1.pop() else 0
-      val n2 = if (s2.nonEmpty) s2.pop() else 0
-      val (q, r) = (carry + n1 + n2) /% 10
-      if (res == null)  add(s1, s2, q, new ListNode(r))
-      else add(s1, s2, q, new ListNode(r, res))
-    }
-    add(s1, s2, 0, null)
-  }
 }
