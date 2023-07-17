@@ -1,49 +1,28 @@
-/**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
- */
-/**
- * @param {ListNode} l1
- * @param {ListNode} l2
- * @return {ListNode}
- */
-var addTwoNumbers = function(l1, l2) {
-    // make 2 stack
-    let s1 = []
-    let s2 = []
-    while (l1){
-        s1.push(l1.val)
+# Definition for singly-linked list.
+# class ListNode
+#     attr_accessor :val, :next
+#     def initialize(val = 0, _next = nil)
+#         @val = val
+#         @next = _next
+#     end
+# end
+# @param {ListNode} l1
+# @param {ListNode} l2
+# @return {ListNode}
+def add_two_numbers(l1, l2)
+    r = ''
+    s = ''
+    while l1
+        r += l1.val.to_s
         l1 = l1.next
-    }
-    while (l2){
-        s2.push(l2.val)
+    end
+    while l2
+        s += l2.val.to_s
         l2 = l2.next
-    }
-    
-	// similiar to 2. Add Two Numbers
-    let list = new ListNode(0)
-    let sum = 0;
-    
-    while (s1.length !== 0 || s2.length !== 0 || sum > 0){
-        sum = sum + (s1.length === 0? 0: s1.pop())
-        sum = sum + (s2.length === 0? 0: s2.pop())
-        // start to deal with linked list
-		// update current node value
-        list.val = sum % 10
-		// add new head node with carry, head.val could be 1 or 0
-		sum = Math.floor(sum/10);
-        let head = new ListNode(sum)
-		// connect
-        head.next = list
-		// update the head
-        list = head
-    }
-    if (list.val === 0){
-        return list.next
-    } else {
-        return list
-    }
-};
+    end
+    r = (r.to_i+s.to_i).to_s.chars.map(&:to_i).map {|x| ListNode.new(x)}.to_a
+    for i in (1..r.length)
+        r[i-1].next = r[i]
+    end
+    r[0]
+end
