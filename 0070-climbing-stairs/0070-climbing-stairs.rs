@@ -1,7 +1,14 @@
-import kotlin.math.sqrt
-import kotlin.math.pow
-import kotlin.math.round
-
-class Solution {
-    fun climbStairs(n: Int) = sqrt(5.0)?.let { round(((1.0 + it)/2.0).pow(n + 1.0)/it).toInt() }
+impl Solution {
+    pub fn climb_stairs(n: i32) -> i32 {
+        let n = n as usize;
+        let mut dp = vec![1,2];
+        
+        for i in 2..n {
+            dp.push(
+                dp[i - 1] + dp[i - 2]
+            );
+        }
+        
+        dp[n - 1]
+    }
 }
