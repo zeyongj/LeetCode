@@ -1,20 +1,19 @@
-class Solution {
- func climbStairs(_ n: Int) -> Int {
-        var dp = [1,1]
-        if n < 2
-        {
-            return 1
-        }
-        if n == 2
-        {
-            return dp[0] + dp[1]
-        }
-        
-        for i in 2...n
-        {
-            dp.append(dp[i-1] + dp[i-2])
-        }
-        
-        return dp[n]
-    }
+func climbStairs(n int) int {
+
+	if n <= 3 {
+		return n
+	}
+
+	ans := 0
+	end := n - 3
+	prev2 := 2
+	prev1 := 3
+
+	for i := 0; i < end; i++ {
+		ans = prev2 + prev1
+		prev2, prev1 = prev1, ans
+	}
+
+	return ans
+
 }
