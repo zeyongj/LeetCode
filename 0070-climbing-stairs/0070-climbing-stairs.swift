@@ -1,12 +1,20 @@
-# @return {Integer}
-def climb_stairs(n)
-  return 1 if n == 1
-  return 2 if n == 2
-  fb = []
-  fb[1] = 1
-  fb[2] = 2
-  3.upto(n) do |x|
-    fb[x] = fb[x-1] + fb[x-2]
-  end
-  fb.last
-end
+class Solution {
+ func climbStairs(_ n: Int) -> Int {
+        var dp = [1,1]
+        if n < 2
+        {
+            return 1
+        }
+        if n == 2
+        {
+            return dp[0] + dp[1]
+        }
+        
+        for i in 2...n
+        {
+            dp.append(dp[i-1] + dp[i-2])
+        }
+        
+        return dp[n]
+    }
+}
