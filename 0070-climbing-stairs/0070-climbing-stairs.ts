@@ -1,21 +1,11 @@
-class Solution {
-
-    /**
-     * @param Integer $n
-     * @return Integer
-     */
-    function climbStairs($n) {
-        if ($n == 1 || $n== 2){
-            return $n;
-        }
-        $step1 = 1;
-        $step2 = 1;
-        $counter = 0;
-        for ($i = 0; $i < $n - 1; $i++) {
-            $counter = $step1 + $step2;
-            $step1 = $step2;
-            $step2 = $counter;
-        }
-        return $counter;
+function climbStairs(n: number): number {
+    const arr: number[] = [1,1]
+    if(n<2){
+        return 1
     }
-}
+    for(let i=2; i<=n; i++){
+        const len  = arr.length
+        arr.push(arr[len-1]+arr[len-2])
+    }
+    return arr[arr.length-1]
+};
