@@ -1,47 +1,53 @@
-class Solution {
-    func fullJustify(_ words: [String], _ maxWidth: Int) -> [String] {
+var sb strings.Builder
 
-        var lines: [String] = []
+func fullJustify(words []string, maxWidth int) []string {
+	var start, end, runeCount int
+	var result = make([]string, 0, len(words))
 
-        var seenStrings: [String] = []
-        var count = 0
-        for w in words {
+	for start < len(words) {
+		start = end
+		runeCount = 0
+		for end < len(words) && runeCount+end-start+len(words[end]) <= maxWidth {
+			runeCount += len(words[end])
+			end++
+		}
+		if start == end {
+			break
+		}
+		if end == len(words) {
+		// last line left justify
+		str := strings.Join(words[start:end], " ")
+			result = append(result, str+strings.Repeat(" ", maxWidth-len(str)))
+		} else {
+			result = append(result, generateString(words[start:end], runeCount, maxWidth))
+		}
+	}
 
-            let tmpCount = count + w.count + seenStrings.count
+	return result
+}
 
-            if tmpCount > maxWidth {
-                let totalSpaceCount = max(0, maxWidth - count)
+func generateString(words []string, runeCount, maxWidth int) string {
+	sb.Reset()
+	var spaceCount, extraSpaces int
+	if len(words) > 1 {
+		spaceCount = (maxWidth - runeCount) / (len(words) - 1)
+		extraSpaces = (maxWidth - runeCount) % (len(words) - 1)
+	}
 
-                var currentIndex = 0
-                for _ in 0..<totalSpaceCount {
-                    seenStrings[currentIndex].append(" ")
+	for i := 0; i < len(words)-1; i++ {
+		sb.WriteString(words[i])
+		sb.WriteString(strings.Repeat(" ", spaceCount))
+		if extraSpaces > 0 {
+			sb.WriteString(" ")
+			extraSpaces--
+		}
+	}
 
-                    if currentIndex + 1 < (seenStrings.count - 1) {
-                        currentIndex += 1
-                    } else {
-                        currentIndex = 0
-                    }
-                }
+	sb.WriteString(words[len(words)-1])
 
-                lines.append(seenStrings.joined())
+	if sb.Len() < maxWidth {
+		sb.WriteString(strings.Repeat(" ", maxWidth-sb.Len()))
+	}
 
-                seenStrings = [w]
-                count = w.count
-            } else {
-                seenStrings.append(w)
-                count += w.count
-            }
-        }
-
-        if seenStrings.count > 0 {
-            let remainingSpaces = maxWidth - count - (seenStrings.count - 1)
-            let spaces = String(repeating: " ", count: remainingSpaces)
-            seenStrings.append(spaces)
-
-            let line = String(seenStrings.joined(separator: " ").dropLast())
-            lines.append(line)
-        }
-
-        return lines
-    }
+	return sb.String()[:maxWidth]
 }
