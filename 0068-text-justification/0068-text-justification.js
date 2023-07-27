@@ -1,79 +1,38 @@
-public class Solution {
-    public IList<string> FullJustify(string[] words, int maxWidth) {
-        if (words == null || words.Length == 0)
-            return new List<string>();
-        
-        IList<string> res = new List<string>();
-        
-        for (int i = 0; i < words.Length; i++)
-        {
-                StringBuilder cur = new StringBuilder();
-                int j = i,
-                    len = 0;
+/**
+ * @param {string[]} words
+ * @param {number} maxWidth
+ * @return {string[]}
+ */
+var fullJustify = (words, maxWidth) => {
+  const n = words.length;
+  const res = [];
 
-                while (i < words.Length && len + words[i].Length + i - j <= maxWidth)
-                    len += words[i++].Length;
-
-                i--;
-
-                if (j == i)
-                {
-                    int k = maxWidth - words[j].Length;
-
-                    cur.Append(words[j]);
-
-                    while (k-- > 0)
-                        cur.Append(" ");
-                }
-                else if (i == words.Length - 1)
-                {
-                    int k = maxWidth;
-
-                    while (j <= i)
-                    {
-                        cur.Append(words[j] + " ");
-                        k -= words[j].Length + 1;
-                        j++;
-                    }
-                    
-                    cur = new StringBuilder(cur.ToString().Trim());
-                    k++;
-                    
-                    while (k-- > 0)
-                        cur.Append(" ");
-                }
-                else
-                {
-                    int baseCnt = (maxWidth - len) / (i - j),
-                        cnt = (maxWidth - len) % (i - j);
-
-                    if (cnt != 0)
-                        while (cnt-- > 0)
-                        {
-                            int k = 0;
-
-                            cur.Append(words[j++]);
-
-                            while (k++ < baseCnt + 1)
-                                cur.Append(" ");
-                        }
-
-                    while (j < i)
-                    {
-                        int k = 0;
-
-                        cur.Append(words[j++]);
-
-                        while (k++ < baseCnt)
-                            cur.Append(" ");
-                    }
-
-                    cur.Append(words[j]);
-                }
-
-                res.Add(cur.ToString());
-        }
-        
-        return res;
+  for (var i = 0; i < n; i = j) {
+    // Step 1. Use j to find out where to cut the row (i ... j-1)
+    let len = -1;
+    for (var j = i; j < n && len + 1 + words[j].length <= maxWidth; j++) {
+      len += 1 + words[j].length;
     }
-}
+
+    // Step 2. Calculate how many spaces to add for each word
+    let spaces = 1; // avg. spaces reserved for each word
+    let extra = 0; // extra left spaces
+
+    if (j !== i + 1 && j !== n) {
+      spaces = (maxWidth - len) / (j - 1 - i) + 1;
+      extra = (maxWidth - len) % (j - 1 - i);
+    }
+
+    // Step 3. Build the row with spaces + extra space + word
+    let row = words[i];
+    for (let k = i + 1; k < j; k++, extra--) {
+      row += ' '.repeat(spaces + (extra > 0 ? 1 : 0)) + words[k];
+    }
+    row += ' '.repeat(maxWidth - row.length);
+
+    // Step 4. Push the row to final result
+    res.push(row);
+  }
+
+  return res;
+};
