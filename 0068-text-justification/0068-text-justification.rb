@@ -1,38 +1,20 @@
-/**
- * @param {string[]} words
- * @param {number} maxWidth
- * @return {string[]}
- */
-var fullJustify = (words, maxWidth) => {
-  const n = words.length;
-  const res = [];
+# @param {String[]} words
+# @param {Integer} max_width
+# @return {String[]}
+def full_justify(words, max_width)
+  v, line = [], []
+  words.each do |word|
+    if (line+[word]).join(' ').size > max_width
+      v.push(join_line(line, max_width))
+      line = []
+    end
+    line.push(word)
+  end
+  v.push(join_line(line, max_width, true))
+end
 
-  for (var i = 0; i < n; i = j) {
-    // Step 1. Use j to find out where to cut the row (i ... j-1)
-    let len = -1;
-    for (var j = i; j < n && len + 1 + words[j].length <= maxWidth; j++) {
-      len += 1 + words[j].length;
-    }
-
-    // Step 2. Calculate how many spaces to add for each word
-    let spaces = 1; // avg. spaces reserved for each word
-    let extra = 0; // extra left spaces
-
-    if (j !== i + 1 && j !== n) {
-      spaces = (maxWidth - len) / (j - 1 - i) + 1;
-      extra = (maxWidth - len) % (j - 1 - i);
-    }
-
-    // Step 3. Build the row with spaces + extra space + word
-    let row = words[i];
-    for (let k = i + 1; k < j; k++, extra--) {
-      row += ' '.repeat(spaces + (extra > 0 ? 1 : 0)) + words[k];
-    }
-    row += ' '.repeat(maxWidth - row.length);
-
-    // Step 4. Push the row to final result
-    res.push(row);
-  }
-
-  return res;
-};
+def join_line(line, max_width, last = false)
+  return line.join(' ') + ' '*(max_width-line.join(' ').size) if (line.size == 1 or last == true)
+  space, extra = (max_width-line.join.size).divmod(line.size-1)
+  line[0..extra].join(' '*(space+1)) + ' '*space + line[extra+1..-1].join(' '*space)
+end
