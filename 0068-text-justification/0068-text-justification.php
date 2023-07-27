@@ -1,52 +1,78 @@
-impl Solution {
-    pub fn full_justify(mut words: Vec<String>, max_width: i32) -> Vec<String> {
-        let mut lines = vec![];
-        let first_word = words.remove(0);
-        let mut line_buffer = vec![first_word.clone()];
-        let mut line_size = first_word.len();
+class Solution {
 
-        for word in words {
-            if word.len() + 1 + line_size > max_width as usize {
-                if line_buffer.len() == 1 {
-                    let padding = max_width as usize - line_size;
-                    let space_padding = " ".repeat(padding);
-                    let first_word = line_buffer.remove(0);
-                    lines.push(format!("{}{}", first_word, space_padding));
-                    line_buffer = vec![word.clone()];
-                    line_size = word.len();
-                    continue;
-                }
+    /**
+     * @param String[] $words
+     * @param Integer $maxWidth
+     * @return String[]
+     */
+    function fullJustify($words, $maxWidth) {
+        $output = [];
+        
+        $lineWidth = 0;
+        $wordsCount = 0;
+        $begin = 0;
+        $i = 0;
+        
+        while ($i < count($words)) {
+            $word = $words[$i];
 
-                let rest = max_width as usize - line_size;
-                let padding = rest / (line_buffer.len() - 1);
-                let mut leftover_padding = rest % (line_buffer.len() - 1);
-                let even_space = " ".repeat(padding);
-                let first_word = line_buffer.remove(0);
-                let line = line_buffer.into_iter().fold(first_word, |line, word| {
-                    let uneven_space = if leftover_padding > 0 { " " } else { "" };
-                    if leftover_padding > 0 {
-                        leftover_padding -= 1;
-                    }
-
-                    format!("{} {}{}{}", line, even_space, uneven_space, word)
-                });
-                lines.push(line);
-                line_buffer = vec![word.clone()];
-                line_size = word.len();
+            $increase = strlen($word);
+            if ($i > $begin) {
+                $increase++;
+            }
+            
+			// find one line
+            if ($lineWidth + $increase <= $maxWidth) {
+                $lineWidth += $increase;
+                $i++;
+                $wordsCount++;
+                continue;
+            }
+            
+			// one line been found, append it to the output
+            if ($wordsCount == 1) {
+                $output[] = $words[$begin] . str_repeat(' ', $maxWidth - $lineWidth);
             } else {
-                line_size += 1 + word.len();
-                line_buffer.push(word);
+                $gutter = intdiv($maxWidth - $lineWidth, $wordsCount - 1) + 1;
+                $extraGutter = ($maxWidth - $lineWidth) % ($wordsCount - 1);
+        
+                $aligned = '';
+
+                for ($j = $begin; $j < $i; $j++) {
+                    $aligned .= $words[$j];
+                    if ($j != $i - 1) {
+                        if ($extraGutter > 0) {
+                            $aligned .= str_repeat(' ', $gutter + 1);
+                            $extraGutter--;
+                        } else {
+                            $aligned .= str_repeat(' ', $gutter);
+                        }
+                    }
+                }
+    
+                $output[] = $aligned;
+            }
+
+			// find the next line
+            $lineWidth = 0;
+            $wordsCount = 0;
+            $begin = $i;
+        }
+        
+		// append the last line
+        $aligned = '';
+
+        for ($j = $begin; $j < $i; $j++) {
+            $aligned .= $words[$j];
+            if ($j != $i - 1) {
+                $aligned .= ' ';
+            } else {
+                $aligned .= str_repeat(' ', $maxWidth - $lineWidth);
             }
         }
+        
+        $output[] = $aligned;
 
-        if line_buffer.len() > 0 {
-            let padding = max_width as usize - line_size;
-            let space_padding = " ".repeat(padding);
-            let mut line = line_buffer.join(" ");
-            line.push_str(&space_padding);
-            lines.push(line);
-        }
-
-        lines
-    }
+        return $output;
+    }    
 }
