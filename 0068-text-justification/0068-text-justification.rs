@@ -1,66 +1,52 @@
-class Solution {
-    private  val SEPARATOR = " " 
-    
-    fun fullJustify(words: Array<String>, maxWidth: Int): List<String> {
+impl Solution {
+    pub fn full_justify(mut words: Vec<String>, max_width: i32) -> Vec<String> {
+        let mut lines = vec![];
+        let first_word = words.remove(0);
+        let mut line_buffer = vec![first_word.clone()];
+        let mut line_size = first_word.len();
 
-        val result = mutableListOf<String>() // keeps the lines as a sting in a paragraph
-        val currentLineWords = mutableListOf<String>()// keeps track of all the words for the current line
-        var availableSpacePerLine = maxWidth //  keeps track of the available space in the current line
-
-        words.forEach { word ->
-            availableSpacePerLine -= word.length
-            when {
-                (availableSpacePerLine == 0) -> { // the words perfectly fit
-                    currentLineWords.add(word)
-                    result.add(toLineString(availableSpacePerLine, currentLineWords))
-
-                    // Start a new line
-                    currentLineWords.clear()
-                    availableSpacePerLine = maxWidth
+        for word in words {
+            if word.len() + 1 + line_size > max_width as usize {
+                if line_buffer.len() == 1 {
+                    let padding = max_width as usize - line_size;
+                    let space_padding = " ".repeat(padding);
+                    let first_word = line_buffer.remove(0);
+                    lines.push(format!("{}{}", first_word, space_padding));
+                    line_buffer = vec![word.clone()];
+                    line_size = word.len();
+                    continue;
                 }
-                (availableSpacePerLine < 0) -> { // too much words in a line adjust!
-                    availableSpacePerLine += (word.length + 1) //remove the claimed space for current
-                    result.add(toLineString(availableSpacePerLine, currentLineWords))
 
-                    // Start a new line
-                    currentLineWords.clear()
-                    currentLineWords.add(word)
-                    availableSpacePerLine = maxWidth - (word.length + 1)
-                }
-                (availableSpacePerLine > 0) -> { // space is still available in the current line
-                    currentLineWords.add(word)
-                    availableSpacePerLine--
-                }
+                let rest = max_width as usize - line_size;
+                let padding = rest / (line_buffer.len() - 1);
+                let mut leftover_padding = rest % (line_buffer.len() - 1);
+                let even_space = " ".repeat(padding);
+                let first_word = line_buffer.remove(0);
+                let line = line_buffer.into_iter().fold(first_word, |line, word| {
+                    let uneven_space = if leftover_padding > 0 { " " } else { "" };
+                    if leftover_padding > 0 {
+                        leftover_padding -= 1;
+                    }
+
+                    format!("{} {}{}{}", line, even_space, uneven_space, word)
+                });
+                lines.push(line);
+                line_buffer = vec![word.clone()];
+                line_size = word.len();
+            } else {
+                line_size += 1 + word.len();
+                line_buffer.push(word);
             }
         }
 
-        // Process the last line if there is one
-        if (currentLineWords.isNotEmpty()) {
-            result.add(toLineString(availableSpacePerLine + 1, currentLineWords, true))
+        if line_buffer.len() > 0 {
+            let padding = max_width as usize - line_size;
+            let space_padding = " ".repeat(padding);
+            let mut line = line_buffer.join(" ");
+            line.push_str(&space_padding);
+            lines.push(line);
         }
-        return result
-    }
-    
 
-    private fun toLineString(
-        noOfSpaceToBeDistributed: Int,
-        wordsInLine: MutableList<String>,
-        isLastLine: Boolean = false
-    ): String {
-        return if (wordsInLine.size == 1 || isLastLine) { // if there is only one word in a line or if the line is the last one , all the remaining spaces should just go to the end of the sentence
-            wordsInLine.joinToString(SEPARATOR) + SEPARATOR.repeat(noOfSpaceToBeDistributed)
-        } else { // other wise we have to evenly distribute the remaining lines
-            val spaceToBeAddedToAllWords = (Math.floorDiv(
-                noOfSpaceToBeDistributed,
-                wordsInLine.lastIndex
-            )) + 1 // the +1 is because we already take in to consideration a space when calculating noOfSpaceToBeDistributed
-            
-            for (i in 0 until noOfSpaceToBeDistributed % wordsInLine.lastIndex) {
-                wordsInLine[i] += SEPARATOR
-            }
-            wordsInLine.joinToString(SEPARATOR.repeat(spaceToBeAddedToAllWords))
-        }
+        lines
     }
-  
-  
 }
