@@ -1,20 +1,47 @@
-# @param {String[]} words
-# @param {Integer} max_width
-# @return {String[]}
-def full_justify(words, max_width)
-  v, line = [], []
-  words.each do |word|
-    if (line+[word]).join(' ').size > max_width
-      v.push(join_line(line, max_width))
-      line = []
-    end
-    line.push(word)
-  end
-  v.push(join_line(line, max_width, true))
-end
+class Solution {
+    func fullJustify(_ words: [String], _ maxWidth: Int) -> [String] {
 
-def join_line(line, max_width, last = false)
-  return line.join(' ') + ' '*(max_width-line.join(' ').size) if (line.size == 1 or last == true)
-  space, extra = (max_width-line.join.size).divmod(line.size-1)
-  line[0..extra].join(' '*(space+1)) + ' '*space + line[extra+1..-1].join(' '*space)
-end
+        var lines: [String] = []
+
+        var seenStrings: [String] = []
+        var count = 0
+        for w in words {
+
+            let tmpCount = count + w.count + seenStrings.count
+
+            if tmpCount > maxWidth {
+                let totalSpaceCount = max(0, maxWidth - count)
+
+                var currentIndex = 0
+                for _ in 0..<totalSpaceCount {
+                    seenStrings[currentIndex].append(" ")
+
+                    if currentIndex + 1 < (seenStrings.count - 1) {
+                        currentIndex += 1
+                    } else {
+                        currentIndex = 0
+                    }
+                }
+
+                lines.append(seenStrings.joined())
+
+                seenStrings = [w]
+                count = w.count
+            } else {
+                seenStrings.append(w)
+                count += w.count
+            }
+        }
+
+        if seenStrings.count > 0 {
+            let remainingSpaces = maxWidth - count - (seenStrings.count - 1)
+            let spaces = String(repeating: " ", count: remainingSpaces)
+            seenStrings.append(spaces)
+
+            let line = String(seenStrings.joined(separator: " ").dropLast())
+            lines.append(line)
+        }
+
+        return lines
+    }
+}
