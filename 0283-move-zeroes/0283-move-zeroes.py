@@ -12,8 +12,6 @@ class Solution:
             if nums[i] != 0:
                 nums[index] = nums[i]
                 index += 1
-            else:
-                continue
         
         while (index < size):
             nums[index] = 0
