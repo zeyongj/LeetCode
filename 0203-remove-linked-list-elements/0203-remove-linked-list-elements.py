@@ -6,17 +6,17 @@
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
 
-        dummy = ListNode(0,None)
+        dummy = ListNode(0)  # Create a dummy head to simplify edge cases
         dummy.next = head
-        prev = dummy
+        prev, curr = dummy, head
         
-        while (head != None):
-            if (head.val is not val):
-                prev = head
-                head = head.next
+        while (curr != None):
+            if (curr.val != val):
+                prev = curr
+                curr = curr.next
             else:
-                prev.next = head.next
-                head = head.next
+                prev.next = curr.next
+                curr = curr.next
         
         return dummy.next
             
