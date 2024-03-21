@@ -10,7 +10,7 @@ class Solution:
         dummy.next = head
         prev = dummy
         
-        while (head is not None):
+        while (head != None):
             if (head.val != val):
                 prev = head
                 head = head.next
