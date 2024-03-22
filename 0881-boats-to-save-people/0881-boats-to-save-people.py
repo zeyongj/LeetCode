@@ -12,17 +12,17 @@ class Solution:
         right = size - 1
         
         while (left <= right):
-            # if (people[left] + people[right] > limit):
-            #     counter += 1
-            #     right -= 1
-            # else:
-            #     counter += 1
-            #     right -= 1
-            #     left += 1
-            if (people[left] + people[right] <= limit):
+            if (people[left] + people[right] > limit):
+                counter += 1
+                right -= 1
+            else:
+                counter += 1
+                right -= 1
                 left += 1
-            counter += 1
-            right -= 1
+            # if (people[left] + people[right] <= limit):
+            #     left += 1
+            # counter += 1
+            # right -= 1
             
         
         return counter
