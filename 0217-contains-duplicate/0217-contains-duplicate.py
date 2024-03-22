@@ -13,7 +13,7 @@ class Solution:
             else:
                 val = numDict.get(num)
                 val += 1
-                numDict[num] = val
+                numDict.update({num:val})
         
         occurances = numDict.values()
         
