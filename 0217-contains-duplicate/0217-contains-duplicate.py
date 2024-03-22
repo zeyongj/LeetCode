@@ -5,14 +5,27 @@ class Solution:
         if size == 0:
             return False
         
-        mySet = set()
+        numDict = {}
         
         for num in nums:
-            mySet.add(num)
+            if num not in numDict.keys():
+                numDict[num] = 1
+            else:
+                return True
         
-        setLength = len(mySet)
+        return False
         
-        if size == setLength:
-            return False
-        else:
-            return True
+#         mySet = set()
+        
+#         for num in nums:
+#             mySet.add(num)
+        
+#         setLength = len(mySet)
+        
+#         if size == setLength:
+#             return False
+#         else:
+#             return True
+        
+    
+    
