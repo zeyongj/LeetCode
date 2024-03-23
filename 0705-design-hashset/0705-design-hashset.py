@@ -1,4 +1,5 @@
 class MyHashSet:
+    hashset = []
 
     def __init__(self):
         self.hashset = [False] * 1000001
