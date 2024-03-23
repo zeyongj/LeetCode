@@ -13,8 +13,10 @@ class Solution:
             
             if nums[mid] < target:
                 start = mid
-            else:
+            elif nums[mid] > target: 
                 end = mid
+            else:
+                return mid
         
         if nums[start] == target:
             return start
