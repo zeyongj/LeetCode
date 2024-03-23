@@ -24,6 +24,6 @@ class Solution:
         if (nums[left] < target < nums[right]):
             return right
         elif (target < nums[left]):
-            return left
+            return 0
         else:
-            return right+1
+            return size
