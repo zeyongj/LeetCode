@@ -5,13 +5,24 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None
-        curr = head
+        if head == None or head.next == None:
+            return head
         
-        while (curr != None):
-            curr_next = curr.next
-            curr.next = prev
-            prev = curr
-            curr = curr_next
+        res = self.reverseList(head.next)
         
-        return prev
+        head.next.next = head
+        head.next = None
+        
+        return res
+        
+        
+#         prev = None
+#         curr = head
+        
+#         while (curr != None):
+#             curr_next = curr.next
+#             curr.next = prev
+#             prev = curr
+#             curr = curr_next
+        
+#         return prev
