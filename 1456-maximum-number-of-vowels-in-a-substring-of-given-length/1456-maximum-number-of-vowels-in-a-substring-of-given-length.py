@@ -8,22 +8,22 @@ class Solution:
         vowelSet = {"a", "e", "i", "o", "u"}
         
         left = 0
-        right = k
+        right = k - 1
         counter = 0
         
-        for i in range(left,right):
+        for i in range(k):
             if s[i] in vowelSet:
                 counter += 1
         
         res = counter
     
-        while (right < size):
+        while (right + 1< size):
             if s[left] in vowelSet:
                 counter -= 1
             left += 1
-            if s[right] in vowelSet:
-                counter += 1
             right += 1
+            if s[right] in vowelSet:
+                counter += 1 
             res = max(res,counter)
         
         return res
