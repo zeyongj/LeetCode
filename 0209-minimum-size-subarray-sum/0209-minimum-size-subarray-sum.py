@@ -1,16 +1,27 @@
+import math
+
 class Solution:
-    def minSubArrayLen(self, target: int, nums: list[int]) -> int:
-        left, right = 0, 0
-        _sum = 0
-        min_len = float('inf')
+    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        size = len(nums)
         
-        while right < len(nums):
-            _sum += nums[right]
-            
-            while _sum >= target:
-                min_len = min(min_len, right - left + 1)
-                _sum -= nums[left]
-                left += 1
+        if size == 0:
+            return 0
+        
+        left = 0
+        right = 0
+        total = 0
+        
+        result = math.inf
+        
+        while (right < size):
+            total += nums[right]
             right += 1
-            
-        return min_len if min_len != float('inf') else 0
+            while (total >= target):
+                result = min(result, right-left)
+                total -= nums[left]
+                left += 1 # When leaving the loop, total < s, i.e. need next right
+        
+        if result > size:
+            return 0
+        else:
+            return result
