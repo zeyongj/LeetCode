@@ -3,10 +3,12 @@ class Solution:
         res = [[]]
         
         for num in nums:
-            temp = []
-            for set in res:
-                extention = set + [num]
-                temp.append(extention)
-            res.extend(temp)
+            extension = [set + [num] for set in res]
+            res.extend(extension)
+            # temp = []
+            # for set in res:
+            #     extension = set + [num]
+            #     temp.append(extension)
+            # res.extend(temp)
         
         return res
