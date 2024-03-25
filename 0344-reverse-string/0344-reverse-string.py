@@ -8,7 +8,7 @@ class Solution:
         size = len(s)
         
         if size == 0:
-            return []
+            return 
         
         left = 0
         right = size - 1
@@ -17,7 +17,7 @@ class Solution:
         
     def recursion(self, s: List[str], left: int, right: int) -> None:
         if left >= right:
-            return []
+            return 
         
         self.recursion(s, left+1, right-1)
         
