@@ -1,8 +1,26 @@
 class Solution:
+    # Memorization Mechanism
+    def __init__(self):
+        self.memo = {}
+    
     def fib(self, n: int) -> int:
-        if n < 2:
-            return n
+        if n < 2 :
+            self.memo[n] = n
         
-        sum = self.fib(n-1) + self.fib(n-2) # # Use self to refer to the current instance of the class.
+        if n in self.memo.keys():
+            return self.memo[n]
+        else:
+            self.memo[n] = self.fib(n-1) + self.fib(n-2) # # Use self to refer to the current instance of the class.
         
-        return sum
+        return self.memo[n]
+    
+    # Brutal Force:
+#     def fib(self, n: int) -> int:
+#         if n < 2 :
+#             return n
+        
+#         sum = self.fib(n-1) + self.fib(n-2) # # Use self to refer to the current instance of the class.
+        
+#         return sum
+    
+    
