@@ -3,8 +3,7 @@ class Solution:
         dp = [[1]]
         
         for i in range(1, numRows):
-            temp = [1] * (i+1)
-            dp.append(temp)
+            dp.append([1] * (i+1))
         
         for i in range(2, numRows):
             j = 1
@@ -13,7 +12,6 @@ class Solution:
                 j += 1
         
         return dp
-        
         
         
         
