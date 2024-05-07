@@ -9,7 +9,7 @@ class Solution:
         
         return ans
     
-        # HashMap Mathod - Time Complexity: O(n), Space Complexity: O(1)
+        # HashMap Mathod - Time Complexity: O(n), Space Complexity: O(n)
         
 #         mapping = {}
         
