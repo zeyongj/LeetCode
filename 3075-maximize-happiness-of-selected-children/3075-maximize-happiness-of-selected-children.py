@@ -1,6 +1,6 @@
 class Solution:
     def maximumHappinessSum(self, happiness: List[int], k: int) -> int:
-        happiness.sort(reverse=True)
+        happiness.sort(reverse = True)
         i = 0
         res = 0
 
