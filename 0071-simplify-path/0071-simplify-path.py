@@ -12,6 +12,6 @@ class Solution:
                 if size != 0:
                     stack.pop() # Move up one directory
             else:
-                stack.append(component)
+                stack.append(component) # Append is not allowed.
         
         return "/" + "/".join(stack)
