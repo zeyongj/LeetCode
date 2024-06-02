@@ -1,28 +1,22 @@
 class Solution:
-    def countPairs(self, n, edges, queries):
-        d, d2 = Counter(), Counter()
-        for x, y in edges:
-            d[x] += 1
-            d[y] += 1
-            d2[(min(x, y), max(x,y))] += 1
-   
-        d_sorted = sorted(d.values())
-        d_sorted = [0]*(n - len(d_sorted)) + d_sorted
+    def countPairs(self, n: int, edges: List[List[int]], queries: List[int]) -> List[int]:
+        
+        nodes = Counter(chain(*edges))
+        nodes = {i:nodes[i] if i in nodes else 0 for i in range(1, n+1)}
+        edges = Counter(map(lambda x:(min(x), max(x)), edges))
+        
+        n = 2 + 2*max(nodes.values())
+        ans, ctr = [0] * n, Counter(nodes.values())
 
-        out = []
+        for c1, c2 in list(product(ctr, ctr)):
+            if c1 > c2: continue
+            ans[c1+c2] += ctr[c1]*ctr[c2] if c1!=c2 else ctr[c1]*(ctr[c2]-1)//2
 
-        for Q in queries:
-            ans, j = 0, n - 1
-            for i in range(n):
-                while j >= 0 and d_sorted[i] + d_sorted[j] > Q: j -= 1
-                ans += n - j - 1
-            
-            ans -= sum(d[i]*2 > Q for i in range(n))
-            ans //= 2
+        for i, j in edges:
+            sm = nodes[i] + nodes[j]
+            ans[sm] -= 1
+            ans[sm - edges[(i,j)]]+= 1
 
-            for x, y in d2:
-                ans += (d[x] + d[y] - d2[x, y]) > Q
-                ans -= (d[x] + d[y]) > Q
-            out.append(ans)
+        ans = list(accumulate(ans[::-1]))[::-1]
 
-        return out
+        return [ans[min(q+1, n-1)] for q in queries] 
