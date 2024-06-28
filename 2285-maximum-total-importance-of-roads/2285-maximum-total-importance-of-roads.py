@@ -1,17 +1,14 @@
 class Solution:
     def maximumImportance(self, n: int, roads: List[List[int]]) -> int:
-        degree = [0] * n
+        res = 0
+        cost = 1
+        conn = [0] * n
+        for road in roads:
+            conn[road[0]] += 1
+            conn[road[1]] += 1
 
-        for edge in roads:
-            degree[edge[0]] += 1
-            degree[edge[1]] += 1
-
-        degree.sort()
-
-        value = 1
-        total_importance = 0
-        for d in degree:
-            total_importance += value * d
-            value += 1
-
-        return total_importance
+        conn.sort()
+        for con in conn:
+            res += con * cost
+            cost += 1
+        return res
