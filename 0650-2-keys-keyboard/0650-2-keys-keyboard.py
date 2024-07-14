@@ -1,14 +1,20 @@
 class Solution:
     def minSteps(self, n: int) -> int:
-        @lru_cache(None)
-        def dp(ops, curr, saved):
-            if curr == n: 
-                return ops
-            if curr > n: 
-                return inf
-            if curr == saved: 
-                return dp(ops + 1, curr + saved, saved)
-            if saved == 0: 
-                return dp(ops + 1, curr, curr)
-            return min(dp(ops + 1, curr + saved, saved), dp(ops + 1, curr, curr))
-        return dp(0, 1, 0)    
+        cache = {}
+        def helper(screen, clipboard):
+            if (screen, clipboard) in cache: 
+                return cache[(screen, clipboard)]
+            if screen == n: 
+                return 0
+            if screen > n: 
+                return float("Inf")
+            
+            copy_paste = helper(screen + screen, screen) + 2
+            paste = float("Inf")
+            if clipboard:
+                paste = helper(screen + clipboard, clipboard) + 1
+
+            cache[(screen, clipboard)] = min(copy_paste, paste)    
+            return cache[(screen, clipboard)]
+        
+        return helper(1, 0)
