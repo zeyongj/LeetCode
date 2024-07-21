@@ -1,18 +1,16 @@
-from typing import List
-
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        size = len(points)
-        
-        dist = []
-        for i in range(size):
-            distance = points[i][0] * points[i][0] + points[i][1] * points[i][1]
-            dist.append((distance, points[i]))
-        
-        dist.sort()
-        
+        min_heap = []
+
+        for xi, yi in points:
+            dist = pow(xi, 2) + pow(yi, 2)
+            min_heap.append((dist, xi, yi))
+
+        heapq.heapify(min_heap) # heapify -> O(n)
         ans = []
+
         for i in range(k):
-            ans.append(dist[i][1])
-        
+            a, b, c = heapq.heappop(min_heap)
+            ans.append((b, c))
+
         return ans
