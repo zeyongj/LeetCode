@@ -73,6 +73,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Graph
@@ -107,6 +108,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String Matching
 |  |
 | ------- |
@@ -127,6 +129,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
