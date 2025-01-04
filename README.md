@@ -48,6 +48,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0337-house-robber-iii](https://github.com/zeyongj/LeetCode/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -61,6 +62,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -81,6 +83,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Graph
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Math
 |  |
@@ -142,4 +145,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
