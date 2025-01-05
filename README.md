@@ -156,4 +156,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Database
+|  |
+| ------- |
+| [1452-restaurant-growth](https://github.com/zeyongj/LeetCode/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
