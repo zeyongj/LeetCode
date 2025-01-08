@@ -78,6 +78,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2358-number-of-ways-to-split-array](https://github.com/zeyongj/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
@@ -130,6 +131,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 ## Counting
 |  |
 | ------- |
@@ -167,4 +169,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [1155-product-sales-analysis-iii](https://github.com/zeyongj/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/zeyongj/LeetCode/tree/master/1452-restaurant-growth) |
+## Simulation
+|  |
+| ------- |
+| [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 <!---LeetCode Topics End-->
