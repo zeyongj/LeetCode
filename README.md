@@ -123,6 +123,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -196,4 +197,12 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
