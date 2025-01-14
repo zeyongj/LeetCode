@@ -31,6 +31,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/zeyongj/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/zeyongj/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/zeyongj/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -94,6 +95,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Math
 |  |
 | ------- |
+| [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Geometry
@@ -212,4 +214,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
