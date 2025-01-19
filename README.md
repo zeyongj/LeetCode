@@ -138,6 +138,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -249,4 +250,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
