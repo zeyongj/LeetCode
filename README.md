@@ -79,6 +79,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Array
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
@@ -130,6 +131,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
@@ -293,6 +295,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Matrix
 |  |
@@ -306,4 +309,12 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
