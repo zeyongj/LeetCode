@@ -164,6 +164,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
+| [0742-to-lower-case](https://github.com/zeyongj/LeetCode/tree/master/0742-to-lower-case) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1524-string-matching-in-an-array) |
