@@ -112,6 +112,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zeyongj/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -190,6 +191,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -252,6 +254,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/zeyongj/LeetCode/tree/master/2145-grid-game) |
