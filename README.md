@@ -138,6 +138,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -158,10 +159,12 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zeyongj/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
@@ -171,12 +174,14 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
 | ------- |
