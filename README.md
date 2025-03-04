@@ -39,6 +39,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/zeyongj/LeetCode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2562-count-ways-to-build-good-strings](https://github.com/zeyongj/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -131,6 +132,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -324,6 +326,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/zeyongj/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/zeyongj/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
