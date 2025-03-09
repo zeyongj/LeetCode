@@ -167,6 +167,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Graph
@@ -431,6 +432,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zeyongj/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Matrix
 |  |
