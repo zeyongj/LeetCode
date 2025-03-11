@@ -180,6 +180,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
@@ -228,6 +229,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0742-to-lower-case](https://github.com/zeyongj/LeetCode/tree/master/0742-to-lower-case) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
