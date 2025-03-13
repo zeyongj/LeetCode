@@ -255,6 +255,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3019-furthest-point-from-origin](https://github.com/zeyongj/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -304,6 +305,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3019-furthest-point-from-origin](https://github.com/zeyongj/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
