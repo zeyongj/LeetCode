@@ -370,6 +370,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/zeyongj/LeetCode/tree/master/0190-reverse-bits) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -505,6 +506,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/zeyongj/LeetCode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Interactive
 |  |
