@@ -252,6 +252,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0742-to-lower-case](https://github.com/zeyongj/LeetCode/tree/master/0742-to-lower-case) |
+| [0763-special-binary-string](https://github.com/zeyongj/LeetCode/tree/master/0763-special-binary-string) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -546,4 +547,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/zeyongj/LeetCode/tree/master/0763-special-binary-string) |
 <!---LeetCode Topics End-->
