@@ -48,6 +48,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
 ## Tree
 |  |
 | ------- |
@@ -185,6 +186,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
 ## Graph
 |  |
 | ------- |
