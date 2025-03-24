@@ -160,6 +160,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2478-longest-nice-subarray](https://github.com/zeyongj/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/zeyongj/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/zeyongj/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -229,6 +230,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -455,6 +457,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/zeyongj/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/zeyongj/LeetCode/tree/master/2509-minimize-xor) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 ## Game Theory
 |  |
 | ------- |
