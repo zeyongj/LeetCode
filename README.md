@@ -181,6 +181,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
