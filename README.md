@@ -58,6 +58,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -74,6 +75,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -89,6 +91,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
