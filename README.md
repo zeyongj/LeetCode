@@ -138,6 +138,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zeyongj/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zeyongj/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -424,6 +425,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
@@ -457,6 +459,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
