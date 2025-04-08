@@ -310,6 +310,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/zeyongj/LeetCode/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
