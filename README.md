@@ -254,6 +254,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeyongj/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zeyongj/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -296,6 +297,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
+| [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
