@@ -80,6 +80,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -109,6 +110,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -228,6 +230,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/zeyongj/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -629,6 +632,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/zeyongj/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
