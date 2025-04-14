@@ -10,6 +10,5 @@ class Solution:
                         # Check all three conditions
                         if abs(arr[j] - arr[k]) <= b and abs(arr[i] - arr[k]) <= c:
                             good_triplets += 1
-                            # \U0001f94b Rock Lee: "Another success from persistence!" \U0001f973
         
         return good_triplets
