@@ -176,6 +176,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/zeyongj/LeetCode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyongj/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
