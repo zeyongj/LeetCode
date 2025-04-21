@@ -128,6 +128,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0303-range-sum-query-immutable](https://github.com/zeyongj/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/zeyongj/LeetCode/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -448,6 +449,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/zeyongj/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -661,6 +663,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/zeyongj/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
