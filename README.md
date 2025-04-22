@@ -49,6 +49,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/zeyongj/LeetCode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/zeyongj/LeetCode/tree/master/2397-count-number-of-ways-to-place-houses) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/zeyongj/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -266,6 +267,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2402-maximum-xor-after-operations](https://github.com/zeyongj/LeetCode/tree/master/2402-maximum-xor-after-operations) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/zeyongj/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -485,6 +487,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -695,6 +698,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
