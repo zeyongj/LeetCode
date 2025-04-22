@@ -125,6 +125,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
@@ -287,6 +288,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/zeyongj/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -552,6 +554,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
