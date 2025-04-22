@@ -1,16 +1,18 @@
 class Solution:
-    def permuteUnique(self, nums):
-        def backtrack(start, end):
-            if start == end:
-                result.append(nums[:])
-            for i in range(start, end):
-                if nums[i] in nums[start:i]:  # skip duplicates
-                    continue
-                nums[start], nums[i] = nums[i], nums[start]
-                backtrack(start + 1, end)
-                nums[start], nums[i] = nums[i], nums[start]  # undo the swap
-
-        nums.sort()
-        result = []
-        backtrack(0, len(nums))
-        return result
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        
+        permutations = []
+        counter = Counter(nums)
+        def findAllPermutations(res):
+            if len(res) == len(nums):
+                permutations.append(res)
+                return 
+            
+            for key in counter:
+                if counter[key]:
+                    counter[key]-=1 # decrement visited key
+                    findAllPermutations(res + [key])    
+                    counter[key]+=1 # restore the state of visited key to find the next path
+                
+        findAllPermutations([])
+        return permutations
