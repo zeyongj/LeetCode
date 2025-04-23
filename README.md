@@ -227,6 +227,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -468,6 +469,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -650,6 +652,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Queue
 |  |
 | ------- |
