@@ -169,6 +169,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zeyongj/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/zeyongj/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
