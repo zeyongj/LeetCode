@@ -1,16 +1,12 @@
-class Solution:
-    def countSubarrays(self, nums: List[int], k: int) -> int:
-        start = 0
-        sum_ = 0
+class Solution(object):
+    def countSubarrays(self, nums, k):
         count = 0
-        
-        for end in range(len(nums)):
-            sum_ += nums[end]
-            
-            while sum_ * (end - start + 1) >= k:
-                sum_ -= nums[start]
-                start += 1
-            
-            count += (end - start + 1)
-        
+        sum = 0
+        left = 0
+        for right in range(len(nums)):
+            sum += nums[right]
+            while sum * (right - left + 1) >= k:
+                sum -= nums[left]
+                left += 1
+            count += (right - left + 1)
         return count
