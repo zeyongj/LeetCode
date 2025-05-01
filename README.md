@@ -183,6 +183,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2144-maximum-difference-between-increasing-elements](https://github.com/zeyongj/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/zeyongj/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/zeyongj/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -307,6 +308,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -498,6 +500,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/zeyongj/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -608,6 +611,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/zeyongj/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -682,6 +686,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bucket Sort
 |  |
@@ -759,4 +764,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
