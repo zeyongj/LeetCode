@@ -284,6 +284,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/zeyongj/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeyongj/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zeyongj/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -520,6 +521,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Union Find
