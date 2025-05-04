@@ -153,6 +153,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/zeyongj/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/zeyongj/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1287-distance-between-bus-stops](https://github.com/zeyongj/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
@@ -421,6 +422,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/zeyongj/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -458,6 +460,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/zeyongj/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/zeyongj/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
