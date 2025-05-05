@@ -1,22 +1,13 @@
-class Solution:
+import random
 
-    def __init__(self, nums: List[int]):
-        cache = defaultdict(list)
-        scheduler = defaultdict(int)
+class Solution(object):
+    def __init__(self, nums):
+        self.d = {}
+        for i, v in enumerate(nums):
+            self.d.setdefault(v, []).append(i)
 
-        for i, num in enumerate(nums):
-            cache[num].append(i)
-
-        self.cache = cache
-        self.scheduler = scheduler        
-
-    def pick(self, target: int) -> int:
-        idx = self.scheduler[target]
-        self.scheduler[target] = (self.scheduler[target] + 1) % len(self.cache[target])
-        
-        return self.cache[target][idx]
-        
-
+    def pick(self, target):
+        return random.choice(self.d[target])
 
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(nums)
