@@ -1,5 +1,9 @@
 class Solution(object):
     def minTimeToReach(self, moveTime):
+        """
+        :type moveTime: List[List[int]]
+        :rtype: int
+        """
         n = len(moveTime)
         m = len(moveTime[0])
         dp = [[float('inf')] * m for _ in range(n)]
@@ -20,4 +24,4 @@ class Solution(object):
                 if 0 <= nextRow < n and 0 <= nextCol < m and dp[nextRow][nextCol] == float('inf'):
                     nextTime = max(moveTime[nextRow][nextCol], currTime) + 1
                     heapq.heappush(minh, (nextTime, nextRow, nextCol))
-        return -1
+        return -1        
