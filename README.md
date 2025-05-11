@@ -575,6 +575,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0197-rising-temperature](https://github.com/zeyongj/LeetCode/tree/master/0197-rising-temperature) |
 | [1155-product-sales-analysis-iii](https://github.com/zeyongj/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/zeyongj/LeetCode/tree/master/1452-restaurant-growth) |
+| [3782-find-valid-emails](https://github.com/zeyongj/LeetCode/tree/master/3782-find-valid-emails) |
 ## Simulation
 |  |
 | ------- |
