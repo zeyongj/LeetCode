@@ -159,6 +159,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1287-distance-between-bus-stops](https://github.com/zeyongj/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1293-three-consecutive-odds](https://github.com/zeyongj/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/zeyongj/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/zeyongj/LeetCode/tree/master/1364-tuple-with-same-product) |
