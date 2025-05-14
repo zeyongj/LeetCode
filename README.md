@@ -57,6 +57,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zeyongj/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
 ## Tree
@@ -316,6 +317,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zeyongj/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Geometry
 |  |
@@ -427,6 +429,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zeyongj/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
@@ -482,6 +485,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/zeyongj/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
@@ -504,6 +508,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Memoization
 |  |
 | ------- |
