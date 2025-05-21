@@ -143,6 +143,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0216-combination-sum-iii](https://github.com/zeyongj/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -460,6 +461,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
@@ -750,6 +752,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
