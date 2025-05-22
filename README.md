@@ -200,6 +200,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/zeyongj/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -313,6 +314,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeyongj/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1965-sum-of-digits-in-base-k](https://github.com/zeyongj/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/zeyongj/LeetCode/tree/master/2050-count-good-numbers) |
@@ -522,6 +524,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/zeyongj/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyongj/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -584,6 +587,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
