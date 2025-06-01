@@ -447,6 +447,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/zeyongj/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zeyongj/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -723,6 +724,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
