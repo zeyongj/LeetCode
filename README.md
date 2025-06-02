@@ -155,6 +155,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/zeyongj/LeetCode/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/zeyongj/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0303-range-sum-query-immutable](https://github.com/zeyongj/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -721,6 +722,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/zeyongj/LeetCode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/zeyongj/LeetCode/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
