@@ -232,6 +232,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/zeyongj/LeetCode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyongj/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/zeyongj/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -467,6 +468,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -489,6 +491,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
