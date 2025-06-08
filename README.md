@@ -445,6 +445,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0482-license-key-formatting](https://github.com/zeyongj/LeetCode/tree/master/0482-license-key-formatting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0639-decode-ways-ii](https://github.com/zeyongj/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0742-to-lower-case](https://github.com/zeyongj/LeetCode/tree/master/0742-to-lower-case) |
 | [0763-special-binary-string](https://github.com/zeyongj/LeetCode/tree/master/0763-special-binary-string) |
@@ -510,6 +511,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
+| [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -713,6 +715,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
@@ -864,6 +867,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/zeyongj/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0838-design-linked-list](https://github.com/zeyongj/LeetCode/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
