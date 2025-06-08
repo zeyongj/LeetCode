@@ -1,21 +1,20 @@
-class Solution:
-    def lexicalOrder(self, n: int) -> List[int]:
-        result = []
+class Solution(object):
+    def lexicalOrder(self, n):
+        """
+        :type n: int
+        :rtype: List[int]
+        """
+        output = []
+        curr = 1
+
+        for _ in range(n):
+            output.append(curr)
+            if curr*10 <= n:
+                curr *= 10
+            else:
+                while curr%10 == 9 or curr+1 > n:
+                    curr //= 10
+                curr += 1
         
-        # Iterate over numbers 1 to 9
-        for i in range(1, 10):
-            self.dfs(i, n, result)
+        return output
         
-        return result
-    
-    # Helper DFS function
-    def dfs(self, curr: int, n: int, result: List[int]):
-        if curr > n:
-            return  # Stop recursion if current number is greater than n
-        result.append(curr)  # Add current number to result
-        
-        # Try appending digits 0-9 to the current number
-        for i in range(10):
-            if curr * 10 + i > n:
-                return  # Stop if the next number exceeds n
-            self.dfs(curr * 10 + i, n, result)  # Recursive DFS
