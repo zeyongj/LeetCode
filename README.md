@@ -264,6 +264,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2792-neighboring-bitwise-xor](https://github.com/zeyongj/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -393,6 +394,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2554-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -702,6 +704,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/zeyongj/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Trie
 |  |
@@ -796,6 +799,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zeyongj/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -841,6 +845,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
