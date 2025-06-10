@@ -81,6 +81,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -106,6 +107,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -125,6 +127,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
