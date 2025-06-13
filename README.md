@@ -271,6 +271,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
@@ -654,6 +655,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyongj/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
@@ -791,6 +793,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
