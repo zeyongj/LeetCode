@@ -40,6 +40,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/zeyongj/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/zeyongj/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
@@ -182,6 +183,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -686,6 +688,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/zeyongj/LeetCode/tree/master/0190-reverse-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/zeyongj/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
