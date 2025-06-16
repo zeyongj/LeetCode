@@ -233,6 +233,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/zeyongj/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/zeyongj/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/zeyongj/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -555,6 +556,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/zeyongj/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -600,6 +602,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyongj/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
