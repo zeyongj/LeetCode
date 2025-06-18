@@ -295,6 +295,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/zeyongj/LeetCode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -420,6 +421,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -818,6 +820,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
