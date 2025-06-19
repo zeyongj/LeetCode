@@ -726,6 +726,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0619-biggest-single-number](https://github.com/zeyongj/LeetCode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/zeyongj/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/zeyongj/LeetCode/tree/master/1452-restaurant-growth) |
+| [2087-confirmation-rate](https://github.com/zeyongj/LeetCode/tree/master/2087-confirmation-rate) |
 | [3782-find-valid-emails](https://github.com/zeyongj/LeetCode/tree/master/3782-find-valid-emails) |
 | [3891-find-category-recommendation-pairs](https://github.com/zeyongj/LeetCode/tree/master/3891-find-category-recommendation-pairs) |
 ## Simulation
