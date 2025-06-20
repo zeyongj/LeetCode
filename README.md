@@ -493,6 +493,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1534-minimum-number-of-frogs-croaking](https://github.com/zeyongj/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/zeyongj/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -789,6 +790,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -804,6 +806,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/zeyongj/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
