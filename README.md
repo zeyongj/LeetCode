@@ -55,6 +55,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/zeyongj/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/zeyongj/LeetCode/tree/master/2295-minimum-time-to-finish-the-race) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/zeyongj/LeetCode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -521,6 +522,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -649,6 +651,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Prefix Sum
 |  |
@@ -841,6 +844,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/zeyongj/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/zeyongj/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/zeyongj/LeetCode/tree/master/2509-minimize-xor) |
