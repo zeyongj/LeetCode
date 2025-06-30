@@ -178,6 +178,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0416-partition-equal-subset-sum](https://github.com/zeyongj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0667-beautiful-arrangement-ii](https://github.com/zeyongj/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -414,6 +415,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/zeyongj/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
@@ -573,6 +575,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
 | [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -633,6 +636,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -922,6 +926,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zeyongj/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
