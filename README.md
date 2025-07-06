@@ -233,6 +233,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/zeyongj/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/zeyongj/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -534,6 +535,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/zeyongj/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/zeyongj/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
