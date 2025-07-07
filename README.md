@@ -225,6 +225,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zeyongj/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zeyongj/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -439,6 +440,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/zeyongj/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyongj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -888,6 +890,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/zeyongj/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
@@ -931,6 +934,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
