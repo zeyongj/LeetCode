@@ -532,6 +532,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/zeyongj/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/zeyongj/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -877,6 +878,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0321-create-maximum-number](https://github.com/zeyongj/LeetCode/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/zeyongj/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
