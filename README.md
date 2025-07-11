@@ -289,6 +289,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/zeyongj/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/zeyongj/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/zeyongj/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -458,6 +459,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/zeyongj/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2554-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -648,6 +650,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2434-design-a-number-container-system](https://github.com/zeyongj/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-number-of-distinct-averages](https://github.com/zeyongj/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -837,6 +840,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/zeyongj/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
@@ -961,6 +965,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/zeyongj/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
