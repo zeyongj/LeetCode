@@ -306,6 +306,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/zeyongj/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyongj/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -777,6 +778,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyongj/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -1010,6 +1012,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/zeyongj/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
