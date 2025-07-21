@@ -562,6 +562,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/zeyongj/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
