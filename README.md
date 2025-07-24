@@ -844,6 +844,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2478-longest-nice-subarray](https://github.com/zeyongj/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/zeyongj/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/zeyongj/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2659-number-of-even-and-odd-bits](https://github.com/zeyongj/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/zeyongj/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
