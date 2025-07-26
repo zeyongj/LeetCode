@@ -376,6 +376,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/zeyongj/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/zeyongj/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Graph
@@ -525,6 +526,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/zeyongj/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/zeyongj/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -784,6 +786,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3643-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/zeyongj/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -1184,6 +1187,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Merge Sort
 |  |
