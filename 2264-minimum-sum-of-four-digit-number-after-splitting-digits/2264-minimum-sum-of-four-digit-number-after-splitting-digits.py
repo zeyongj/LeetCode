@@ -1,4 +1,15 @@
 class Solution:
     def minimumSum(self, num: int) -> int:
-        digits = sorted(str(num))
-        return int(digits[0] + digits[2]) + int(digits[1] + digits[3])
+        num = sorted(str(num),reverse=True)
+        n = len(num)    
+        res = 0
+        even_iteration = False
+        position = 0
+        for i in range(n):
+            res += int(num[i])*(10**position)
+            if even_iteration:
+                position += 1
+                even_iteration = False
+            else:
+                even_iteration = True
+        return res
