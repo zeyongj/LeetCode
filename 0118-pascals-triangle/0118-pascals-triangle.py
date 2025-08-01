@@ -1,17 +1,6 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        dp = [[1]]
-        
+        a = [[1]]
         for i in range(1, numRows):
-            dp.append([1] * (i+1))
-        
-        for i in range(2, numRows):
-            j = 1
-            while (j < i):
-                dp[i][j] = dp[i-1][j-1] + dp[i-1][j]
-                j += 1
-        
-        return dp
-        
-        
-        
+            a += [list(map(lambda x, y: x+y, a[-1] + [0], [0] + a[-1]))]
+        return a[:numRows]
