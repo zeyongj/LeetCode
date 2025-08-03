@@ -89,6 +89,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0404-sum-of-left-leaves](https://github.com/zeyongj/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -119,6 +120,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0404-sum-of-left-leaves](https://github.com/zeyongj/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -148,6 +150,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0404-sum-of-left-leaves](https://github.com/zeyongj/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyongj/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -665,6 +668,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
 | [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
