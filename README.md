@@ -333,6 +333,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2634-minimum-common-value](https://github.com/zeyongj/LeetCode/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/zeyongj/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyongj/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
@@ -567,6 +568,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2551-apply-operations-to-an-array](https://github.com/zeyongj/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/zeyongj/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2634-minimum-common-value](https://github.com/zeyongj/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/zeyongj/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
@@ -713,6 +715,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-number-of-distinct-averages](https://github.com/zeyongj/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2634-minimum-common-value](https://github.com/zeyongj/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -831,6 +834,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/zeyongj/LeetCode/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyongj/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
