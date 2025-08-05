@@ -235,6 +235,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1287-distance-between-bus-stops](https://github.com/zeyongj/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/zeyongj/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -484,6 +485,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
+| [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/zeyongj/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
@@ -1103,6 +1105,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
