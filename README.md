@@ -413,6 +413,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zeyongj/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
@@ -525,6 +526,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/zeyongj/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Enumeration
 |  |
 | ------- |
@@ -842,6 +844,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Number Theory
 |  |
@@ -868,6 +871,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
