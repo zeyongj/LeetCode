@@ -41,6 +41,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0639-decode-ways-ii](https://github.com/zeyongj/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/zeyongj/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -427,6 +428,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/zeyongj/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1057-numbers-with-repeated-digits](https://github.com/zeyongj/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
 | [1276-closest-divisors](https://github.com/zeyongj/LeetCode/tree/master/1276-closest-divisors) |
@@ -1279,4 +1281,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
