@@ -424,6 +424,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/zeyongj/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/zeyongj/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -885,6 +886,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/zeyongj/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/zeyongj/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/zeyongj/LeetCode/tree/master/0338-counting-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1223,6 +1225,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/zeyongj/LeetCode/tree/master/0231-power-of-two) |
 | [0763-special-binary-string](https://github.com/zeyongj/LeetCode/tree/master/0763-special-binary-string) |
 | [2050-count-good-numbers](https://github.com/zeyongj/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeyongj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
