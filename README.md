@@ -346,6 +346,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
+| [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2792-neighboring-bitwise-xor](https://github.com/zeyongj/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -518,6 +519,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
+| [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1034,6 +1036,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/zeyongj/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
