@@ -392,6 +392,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3651-transformed-array](https://github.com/zeyongj/LeetCode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/zeyongj/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/zeyongj/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -476,12 +477,14 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zeyongj/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/zeyongj/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/zeyongj/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Geometry
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -534,6 +537,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/zeyongj/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Enumeration
 |  |
@@ -1243,6 +1247,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
 |  |
@@ -1250,6 +1255,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
+| [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/zeyongj/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
