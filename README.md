@@ -69,6 +69,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/zeyongj/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/zeyongj/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
