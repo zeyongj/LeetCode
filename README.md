@@ -231,6 +231,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zeyongj/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -506,6 +507,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/zeyongj/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -708,6 +710,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
+| [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zeyongj/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -1032,6 +1035,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zeyongj/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
