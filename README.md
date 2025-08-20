@@ -351,6 +351,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/zeyongj/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -536,6 +537,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2561-number-of-distinct-averages](https://github.com/zeyongj/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/zeyongj/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
@@ -749,6 +751,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/zeyongj/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/zeyongj/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zeyongj/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1064,6 +1067,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/zeyongj/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/zeyongj/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
