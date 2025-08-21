@@ -467,6 +467,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2202-sum-of-k-mirror-numbers](https://github.com/zeyongj/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/zeyongj/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2402-maximum-xor-after-operations](https://github.com/zeyongj/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -966,6 +967,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/zeyongj/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/zeyongj/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
