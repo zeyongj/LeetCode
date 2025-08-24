@@ -243,6 +243,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zeyongj/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/zeyongj/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -595,6 +596,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0793-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyongj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -633,6 +635,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1012-equal-rational-numbers](https://github.com/zeyongj/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/zeyongj/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/zeyongj/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
@@ -700,6 +703,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -991,6 +995,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/zeyongj/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/zeyongj/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
