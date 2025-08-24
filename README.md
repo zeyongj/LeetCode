@@ -450,6 +450,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/zeyongj/LeetCode/tree/master/0867-new-21-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1012-equal-rational-numbers](https://github.com/zeyongj/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1057-numbers-with-repeated-digits](https://github.com/zeyongj/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
 | [1276-closest-divisors](https://github.com/zeyongj/LeetCode/tree/master/1276-closest-divisors) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zeyongj/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -627,6 +628,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1012-equal-rational-numbers](https://github.com/zeyongj/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/zeyongj/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/zeyongj/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
