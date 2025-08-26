@@ -138,6 +138,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -187,6 +188,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zeyongj/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -429,6 +431,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zeyongj/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1738-maximal-network-rank](https://github.com/zeyongj/LeetCode/tree/master/1738-maximal-network-rank) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/zeyongj/LeetCode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1916-find-center-of-star-graph](https://github.com/zeyongj/LeetCode/tree/master/1916-find-center-of-star-graph) |
@@ -917,6 +920,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/zeyongj/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
