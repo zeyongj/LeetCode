@@ -112,6 +112,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zeyongj/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zeyongj/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
@@ -148,6 +149,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zeyongj/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zeyongj/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
@@ -172,6 +174,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -573,6 +576,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/zeyongj/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
