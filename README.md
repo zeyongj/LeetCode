@@ -207,6 +207,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zeyongj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -730,6 +731,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zeyongj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode/tree/master/0217-contains-duplicate) |
@@ -1036,6 +1038,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zeyongj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/zeyongj/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
@@ -1195,6 +1198,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zeyongj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
