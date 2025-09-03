@@ -1,11 +1,14 @@
 class Solution:
-    def numberOfPairs(self, points: List[List[int]]) -> int:
-        res = 0
-        points.sort(key=lambda p: (p[0], -p[1]))
-        for i, (x1, y1) in enumerate(points):
-            y = -inf
-            for (x2, y2) in points[i + 1:]:
-                if y1 >= y2 > y:
-                    res += 1
-                    y = y2
-        return res     
+    def numberOfPairs(self, P: List[List[int]]) -> int:
+        P.sort(key=lambda p:(-p[0], p[1]))
+        ans, n=0, len(P)
+        for i in range(n-1):
+            y, yi=1<<31, P[i][1]
+            for j in range(i+1, n):
+                yj=P[j][1]
+                if y>yj>=yi:
+                    ans+=1
+                    y=yj
+                    if yi==yj: break
+        return ans
+        
