@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/tree-node/">608. Tree Node</a></h2><h3>Medium</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Tree</code></p>
+<h2><a href="https://leetcode.com/problems/tree-node">608. Tree Node</a></h2><h3>Medium</h3><hr><p>Table: <code>Tree</code></p>
 
-<pre>+-------------+------+
+<pre>
++-------------+------+
 | Column Name | Type |
 +-------------+------+
 | id          | int  |
@@ -16,9 +17,9 @@ The given structure is always a valid tree.
 <p>Each node in the tree can be one of three types:</p>
 
 <ul>
-	<li><strong>"Leaf"</strong>: if the node is a leaf node.</li>
-	<li><strong>"Root"</strong>: if the node is the root of the tree.</li>
-	<li><strong>"Inner"</strong>: If the node is neither a leaf node nor a root node.</li>
+	<li><strong>&quot;Leaf&quot;</strong>: if the node is a leaf node.</li>
+	<li><strong>&quot;Root&quot;</strong>: if the node is the root of the tree.</li>
+	<li><strong>&quot;Inner&quot;</strong>: If the node is neither a leaf node nor a root node.</li>
 </ul>
 
 <p>Write a solution to report the type of each node in the tree.</p>
@@ -29,8 +30,9 @@ The given structure is always a valid tree.
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/10/22/tree1.jpg" style="width: 304px; height: 224px;">
-<pre><strong>Input:</strong> 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/10/22/tree1.jpg" style="width: 304px; height: 224px;" />
+<pre>
+<strong>Input:</strong> 
 Tree table:
 +----+------+
 | id | p_id |
@@ -58,8 +60,9 @@ Nodes 3, 4, and 5 are leaf nodes because they have parent nodes and they do not 
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/10/22/tree2.jpg" style="width: 64px; height: 65px;">
-<pre><strong>Input:</strong> 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/10/22/tree2.jpg" style="width: 64px; height: 65px;" />
+<pre>
+<strong>Input:</strong> 
 Tree table:
 +----+------+
 | id | p_id |
@@ -74,4 +77,6 @@ Tree table:
 +----+-------+
 <strong>Explanation:</strong> If there is only one node on the tree, you only need to output its root attributes.
 </pre>
-</div>
+
+<p>&nbsp;</p>
+<p><strong>Note:</strong> This question is the same as <a href="https://leetcode.com/problems/binary-tree-nodes/description/" target="_blank"> 3054: Binary Tree Nodes.</a></p>
