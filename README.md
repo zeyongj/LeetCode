@@ -40,6 +40,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/zeyongj/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0740-delete-and-earn](https://github.com/zeyongj/LeetCode/tree/master/0740-delete-and-earn) |
 | [0806-domino-and-tromino-tiling](https://github.com/zeyongj/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/zeyongj/LeetCode/tree/master/0867-new-21-game) |
@@ -235,6 +236,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0667-beautiful-arrangement-ii](https://github.com/zeyongj/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/zeyongj/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0740-delete-and-earn](https://github.com/zeyongj/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
@@ -746,6 +748,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0740-delete-and-earn](https://github.com/zeyongj/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
