@@ -1,3 +1,3 @@
 class Solution:
     def sumZero(self, n: int) -> List[int]:
-        return [i * 2 - n + 1 for i in range(n)]
+        return list(range(-(n>>1), 0))+list(range((n&1)==0, (n>>1)+1))
