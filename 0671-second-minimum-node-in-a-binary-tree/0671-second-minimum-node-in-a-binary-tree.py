@@ -4,24 +4,19 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution(object):
     def findSecondMinimumValue(self, root):
-        array=[]
-        def traverse(node):
+        def dfs(node):
             if not node:
-                return 
-            array.append(node.val)
-            traverse(node.left)
-            traverse(node.right)
+                return -1
+            if node.val > root.val:
+                return node.val
+            left = dfs(node.left)
+            right = dfs(node.right)
+            if left == -1:
+                return right
+            if right == -1:
+                return left
+            return min(left, right)
 
-        traverse(root)
-        array.sort()
-        first_min=array[0]
-        for i in range(1,len(array)):
-            if array[i]>first_min:
-                return array[i]
-        return -1
-
-
-        
+        return dfs(root)
