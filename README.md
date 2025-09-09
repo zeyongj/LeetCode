@@ -208,6 +208,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/zeyongj/LeetCode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/zeyongj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -541,6 +542,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/zeyongj/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
@@ -623,6 +625,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/zeyongj/LeetCode/tree/master/0016-3sum-closest) |
 | [0321-create-maximum-number](https://github.com/zeyongj/LeetCode/tree/master/0321-create-maximum-number) |
 | [0457-circular-array-loop](https://github.com/zeyongj/LeetCode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
