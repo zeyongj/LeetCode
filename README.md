@@ -587,6 +587,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
+| [2887-sort-vowels-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -723,6 +724,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/zeyongj/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2887-sort-vowels-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/zeyongj/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
