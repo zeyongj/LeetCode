@@ -686,6 +686,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/zeyongj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/zeyongj/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -787,6 +788,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/zeyongj/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/zeyongj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1294-range-frequency-queries](https://github.com/zeyongj/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/zeyongj/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
