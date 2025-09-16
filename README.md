@@ -359,6 +359,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-range-product-queries-of-powers](https://github.com/zeyongj/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/zeyongj/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/zeyongj/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -510,6 +511,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2402-maximum-xor-after-operations](https://github.com/zeyongj/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/zeyongj/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
@@ -818,6 +820,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2479-meeting-rooms-iii](https://github.com/zeyongj/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/zeyongj/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/zeyongj/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/zeyongj/LeetCode/tree/master/2634-minimum-common-value) |
@@ -869,6 +872,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyongj/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/zeyongj/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/zeyongj/LeetCode/tree/master/3019-furthest-point-from-origin) |
