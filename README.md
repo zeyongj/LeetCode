@@ -409,6 +409,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/zeyongj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/zeyongj/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -848,6 +849,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/zeyongj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
@@ -893,6 +895,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/zeyongj/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/zeyongj/LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/zeyongj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
