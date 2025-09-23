@@ -244,6 +244,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0740-delete-and-earn](https://github.com/zeyongj/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1342,6 +1343,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
@@ -1440,6 +1442,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Segment Tree
 |  |
 | ------- |
+| [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1294-range-frequency-queries](https://github.com/zeyongj/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1489,4 +1492,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/zeyongj/LeetCode/tree/master/0867-new-21-game) |
+## Line Sweep
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 <!---LeetCode Topics End-->
