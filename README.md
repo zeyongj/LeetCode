@@ -486,6 +486,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/zeyongj/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/zeyongj/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/zeyongj/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -685,6 +686,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0038-count-and-say](https://github.com/zeyongj/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/zeyongj/LeetCode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/zeyongj/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/zeyongj/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/zeyongj/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -789,6 +791,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0073-set-matrix-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyongj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/zeyongj/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/zeyongj/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
