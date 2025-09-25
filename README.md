@@ -110,6 +110,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/zeyongj/LeetCode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -148,6 +149,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -176,6 +178,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -333,6 +336,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/zeyongj/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyongj/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
