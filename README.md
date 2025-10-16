@@ -347,6 +347,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/zeyongj/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -602,6 +603,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/zeyongj/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/zeyongj/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1199,6 +1201,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/zeyongj/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/zeyongj/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
