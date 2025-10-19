@@ -150,6 +150,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/zeyongj/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -203,6 +204,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zeyongj/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/zeyongj/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -650,6 +652,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/zeyongj/LeetCode/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/zeyongj/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyongj/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -739,6 +742,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/zeyongj/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1751-slowest-key](https://github.com/zeyongj/LeetCode/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/zeyongj/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
