@@ -539,6 +539,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/zeyongj/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/zeyongj/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
@@ -664,6 +665,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyongj/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/zeyongj/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
@@ -868,6 +870,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/zeyongj/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -936,6 +939,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyongj/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1187,6 +1191,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyongj/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zeyongj/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
