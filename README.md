@@ -448,6 +448,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeyongj/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -573,6 +574,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3279-alice-and-bob-playing-flower-game](https://github.com/zeyongj/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/zeyongj/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeyongj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -999,6 +1001,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/zeyongj/LeetCode/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3618-find-the-original-typed-string-ii](https://github.com/zeyongj/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1153,6 +1156,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/zeyongj/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeyongj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/zeyongj/LeetCode/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1477,6 +1481,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3201-distribute-candies-among-children-ii](https://github.com/zeyongj/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zeyongj/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/zeyongj/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
