@@ -350,6 +350,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2145-grid-game](https://github.com/zeyongj/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/zeyongj/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/zeyongj/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyongj/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -878,6 +879,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2169-simple-bank-system](https://github.com/zeyongj/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/zeyongj/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1143,6 +1145,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/zeyongj/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/zeyongj/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1446,6 +1449,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/zeyongj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/zeyongj/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
+| [2169-simple-bank-system](https://github.com/zeyongj/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/zeyongj/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/zeyongj/LeetCode/tree/master/3678-design-task-manager) |
