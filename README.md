@@ -544,6 +544,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1965-sum-of-digits-in-base-k](https://github.com/zeyongj/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/zeyongj/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/zeyongj/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -772,6 +773,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zeyongj/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/zeyongj/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/zeyongj/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
