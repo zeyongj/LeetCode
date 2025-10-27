@@ -1,16 +1,6 @@
 class Solution:
-    def numberOfRounds(self, loginTime: str, logoutTime: str) -> int:
-        def to_minutes(t):
-            h, m = map(int, t.split(":"))
-            return h * 60 + m
-
-        start = to_minutes(loginTime)
-        end = to_minutes(logoutTime)
-
-        if end < start:
-            end += 24 * 60
-
-        start_round = (start + 14) // 15
-        end_round = end // 15
-
-        return max(0, end_round - start_round)        
+    def numberOfRounds(self, startTime: str, finishTime: str) -> int:
+        ts = 60 * int(startTime[:2]) + int(startTime[-2:])
+        tf = 60 * int(finishTime[:2]) + int(finishTime[-2:])
+        if 0 <= tf - ts < 15: return 0 # edge case 
+        return tf//15 - (ts+14)//15 + (ts>tf)*96
