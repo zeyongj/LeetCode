@@ -359,6 +359,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/zeyongj/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -549,6 +550,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/zeyongj/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/zeyongj/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -782,6 +784,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/zeyongj/LeetCode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1397,6 +1400,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/zeyongj/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
