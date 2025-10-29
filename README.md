@@ -93,6 +93,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zeyongj/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/zeyongj/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
 ## Tree
 |  |
@@ -477,6 +478,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3651-transformed-array](https://github.com/zeyongj/LeetCode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/zeyongj/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/zeyongj/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
@@ -1417,6 +1419,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zeyongj/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/zeyongj/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3748-sort-matrix-by-diagonals](https://github.com/zeyongj/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/zeyongj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Queue
