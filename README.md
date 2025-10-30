@@ -332,6 +332,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/zeyongj/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyongj/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -881,6 +882,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1500-count-largest-group](https://github.com/zeyongj/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/zeyongj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -953,6 +955,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/zeyongj/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
@@ -1265,6 +1268,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1818-maximum-score-from-removing-substrings](https://github.com/zeyongj/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/zeyongj/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyongj/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
