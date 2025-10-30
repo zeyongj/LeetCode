@@ -60,6 +60,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyongj/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zeyongj/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -313,6 +314,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyongj/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyongj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/zeyongj/LeetCode/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1234,6 +1236,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/zeyongj/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1261,6 +1264,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/zeyongj/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
@@ -1358,6 +1362,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1985-maximum-subarray-min-product](https://github.com/zeyongj/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
