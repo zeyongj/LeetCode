@@ -1,5 +1,5 @@
-class Solution(object):
-    def robotWithString(self, s):
+class Solution:
+    def robotWithString(self, s: str) -> str:
         from collections import Counter
 
         freq = Counter(s)
@@ -22,4 +22,4 @@ class Solution(object):
         while st:
             res.append(st.pop())
 
-        return ''.join(res)
+        return ''.join(res)        
