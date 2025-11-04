@@ -749,6 +749,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0166-fraction-to-recurring-decimal](https://github.com/zeyongj/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/zeyongj/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0299-bulls-and-cows](https://github.com/zeyongj/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/zeyongj/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0482-license-key-formatting](https://github.com/zeyongj/LeetCode/tree/master/0482-license-key-formatting) |
@@ -864,6 +865,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0142-linked-list-cycle-ii](https://github.com/zeyongj/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/zeyongj/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode/tree/master/0217-contains-duplicate) |
+| [0299-bulls-and-cows](https://github.com/zeyongj/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
@@ -957,6 +959,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/zeyongj/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
