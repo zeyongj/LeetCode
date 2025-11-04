@@ -474,6 +474,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -947,6 +948,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1370,6 +1372,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/zeyongj/LeetCode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zeyongj/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -1409,6 +1412,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/zeyongj/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
