@@ -169,6 +169,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zeyongj/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zeyongj/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,6 +224,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zeyongj/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zeyongj/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Array
 |  |
 | ------- |
@@ -506,6 +508,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3797-design-spreadsheet](https://github.com/zeyongj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/zeyongj/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -526,6 +529,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zeyongj/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
@@ -962,6 +966,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/zeyongj/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/zeyongj/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -1119,6 +1124,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
@@ -1383,6 +1389,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zeyongj/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/zeyongj/LeetCode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1491,6 +1498,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3678-design-task-manager](https://github.com/zeyongj/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/zeyongj/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
