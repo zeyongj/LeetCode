@@ -525,6 +525,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/zeyongj/LeetCode/tree/master/3189-find-champion-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/zeyongj/LeetCode/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
