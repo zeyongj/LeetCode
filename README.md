@@ -512,6 +512,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3797-design-spreadsheet](https://github.com/zeyongj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/zeyongj/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -974,6 +975,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/zeyongj/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/zeyongj/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/zeyongj/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
@@ -1290,6 +1292,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -1352,6 +1355,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Game Theory
 |  |
@@ -1414,6 +1418,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
