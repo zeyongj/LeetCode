@@ -37,6 +37,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0338-counting-bits](https://github.com/zeyongj/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/zeyongj/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/zeyongj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/zeyongj/LeetCode/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/zeyongj/LeetCode/tree/master/0639-decode-ways-ii) |
@@ -256,6 +257,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/zeyongj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0457-circular-array-loop](https://github.com/zeyongj/LeetCode/tree/master/0457-circular-array-loop) |
+| [0474-ones-and-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -770,6 +772,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0299-bulls-and-cows](https://github.com/zeyongj/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/zeyongj/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
+| [0474-ones-and-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/zeyongj/LeetCode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/zeyongj/LeetCode/tree/master/0488-zuma-game) |
 | [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
