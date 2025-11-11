@@ -62,6 +62,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zeyongj/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zeyongj/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -705,6 +706,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/zeyongj/LeetCode/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/zeyongj/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -800,6 +802,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyongj/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeyongj/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zeyongj/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/zeyongj/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1751-slowest-key](https://github.com/zeyongj/LeetCode/tree/master/1751-slowest-key) |
@@ -913,6 +916,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1500-count-largest-group](https://github.com/zeyongj/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
