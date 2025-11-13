@@ -859,6 +859,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3396-valid-word](https://github.com/zeyongj/LeetCode/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/zeyongj/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3617-find-the-original-typed-string-i](https://github.com/zeyongj/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1025,6 +1026,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1363,6 +1365,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
