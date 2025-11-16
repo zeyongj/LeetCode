@@ -358,6 +358,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2023-design-movie-rental-system](https://github.com/zeyongj/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/zeyongj/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -828,6 +829,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/zeyongj/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/zeyongj/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -937,6 +939,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/zeyongj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/zeyongj/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/zeyongj/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1256,6 +1259,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -1269,6 +1273,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyongj/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/zeyongj/LeetCode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
