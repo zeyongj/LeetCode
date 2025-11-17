@@ -263,6 +263,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0636-exclusive-time-of-functions](https://github.com/zeyongj/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0667-beautiful-arrangement-ii](https://github.com/zeyongj/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/zeyongj/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -1306,6 +1307,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0488-zuma-game](https://github.com/zeyongj/LeetCode/tree/master/0488-zuma-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0636-exclusive-time-of-functions](https://github.com/zeyongj/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/zeyongj/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
