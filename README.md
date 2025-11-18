@@ -269,6 +269,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0667-beautiful-arrangement-ii](https://github.com/zeyongj/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/zeyongj/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/zeyongj/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0740-delete-and-earn](https://github.com/zeyongj/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
