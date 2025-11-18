@@ -124,6 +124,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -165,6 +166,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -413,6 +415,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-range-product-queries-of-powers](https://github.com/zeyongj/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/zeyongj/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/zeyongj/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/zeyongj/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -602,6 +605,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2556-convert-the-temperature](https://github.com/zeyongj/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/zeyongj/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -731,6 +735,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2528-number-of-valid-clock-times](https://github.com/zeyongj/LeetCode/tree/master/2528-number-of-valid-clock-times) |
+| [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/zeyongj/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
