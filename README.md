@@ -480,6 +480,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -629,6 +630,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3279-alice-and-bob-playing-flower-game](https://github.com/zeyongj/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/zeyongj/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -990,6 +992,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -1045,6 +1048,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
