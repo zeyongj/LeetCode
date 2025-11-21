@@ -626,6 +626,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zeyongj/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/zeyongj/LeetCode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/zeyongj/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -875,6 +876,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3019-furthest-point-from-origin](https://github.com/zeyongj/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -992,6 +994,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeyongj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1099,6 +1102,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/zeyongj/LeetCode/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -1166,6 +1170,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/zeyongj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
