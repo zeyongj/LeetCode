@@ -483,6 +483,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/zeyongj/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -1153,6 +1154,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/zeyongj/LeetCode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/zeyongj/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
