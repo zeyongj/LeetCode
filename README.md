@@ -55,6 +55,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1057-numbers-with-repeated-digits](https://github.com/zeyongj/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
 | [1063-best-sightseeing-pair](https://github.com/zeyongj/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/zeyongj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/zeyongj/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -300,6 +301,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/zeyongj/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1287-distance-between-bus-stops](https://github.com/zeyongj/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/zeyongj/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -676,6 +678,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/zeyongj/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
@@ -1362,6 +1365,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zeyongj/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
