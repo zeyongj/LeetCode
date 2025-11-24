@@ -93,6 +93,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/zeyongj/LeetCode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/zeyongj/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -500,6 +501,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/zeyongj/LeetCode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -1113,6 +1115,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/zeyongj/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1510,6 +1513,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1565,6 +1569,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2408-number-of-people-aware-of-a-secret](https://github.com/zeyongj/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/zeyongj/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1699,6 +1704,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Reservoir Sampling
 |  |
 | ------- |
