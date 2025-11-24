@@ -289,6 +289,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zeyongj/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/zeyongj/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/zeyongj/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zeyongj/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1210,6 +1211,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0338-counting-bits](https://github.com/zeyongj/LeetCode/tree/master/0338-counting-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/zeyongj/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
