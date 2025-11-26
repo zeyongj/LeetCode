@@ -80,6 +80,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2397-count-number-of-ways-to-place-houses](https://github.com/zeyongj/LeetCode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/zeyongj/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/zeyongj/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/zeyongj/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -415,6 +416,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2402-maximum-xor-after-operations](https://github.com/zeyongj/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/zeyongj/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1551,6 +1553,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zeyongj/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/zeyongj/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/zeyongj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/zeyongj/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
