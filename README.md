@@ -614,6 +614,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/zeyongj/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeyongj/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/zeyongj/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/zeyongj/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -870,6 +871,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/zeyongj/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/zeyongj/LeetCode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1511,6 +1513,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1755-defuse-the-bomb](https://github.com/zeyongj/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/zeyongj/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/zeyongj/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/zeyongj/LeetCode/tree/master/2478-longest-nice-subarray) |
