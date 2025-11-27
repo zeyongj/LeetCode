@@ -490,6 +490,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/zeyongj/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -1015,6 +1016,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeyongj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/zeyongj/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -1121,6 +1123,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/zeyongj/LeetCode/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/zeyongj/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
