@@ -130,6 +130,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/zeyongj/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/zeyongj/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -172,6 +173,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/zeyongj/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/zeyongj/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/zeyongj/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
