@@ -365,6 +365,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
+| [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyongj/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/zeyongj/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/zeyongj/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -1287,6 +1288,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/zeyongj/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/zeyongj/LeetCode/tree/master/2169-simple-bank-system) |
@@ -1567,6 +1569,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2145-grid-game](https://github.com/zeyongj/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
