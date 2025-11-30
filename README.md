@@ -588,6 +588,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/zeyongj/LeetCode/tree/master/0867-new-21-game) |
+| [0878-nth-magical-number](https://github.com/zeyongj/LeetCode/tree/master/0878-nth-magical-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1012-equal-rational-numbers](https://github.com/zeyongj/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1152,6 +1153,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeyongj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/zeyongj/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0878-nth-magical-number](https://github.com/zeyongj/LeetCode/tree/master/0878-nth-magical-number) |
 | [1294-range-frequency-queries](https://github.com/zeyongj/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/zeyongj/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
