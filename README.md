@@ -91,6 +91,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode/tree/master/3441-minimum-cost-good-caption) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -903,6 +904,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3396-valid-word](https://github.com/zeyongj/LeetCode/tree/master/3396-valid-word) |
+| [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode/tree/master/3441-minimum-cost-good-caption) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
