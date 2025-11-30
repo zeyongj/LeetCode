@@ -1,23 +1,21 @@
 class Solution:
     def minSubarray(self, nums: List[int], p: int) -> int:
-        totalSum = sum(nums)
-        rem = totalSum % p
-
-        if rem == 0:
+        total = sum(nums)
+        target = total % p
+        if target == 0:
             return 0
 
-        prefixMod = {0: -1}
-        prefixSum = 0
-        minLength = len(nums)
+        mp = {0: -1}
+        prefix = 0
+        res = len(nums)
 
-        for i, num in enumerate(nums):
-            prefixSum += num
-            currentMod = prefixSum % p
-            targetMod = (currentMod - rem + p) % p
+        for i, x in enumerate(nums):
+            prefix = (prefix + x) % p
+            need = (prefix - target + p) % p
 
-            if targetMod in prefixMod:
-                minLength = min(minLength, i - prefixMod[targetMod])
+            if need in mp:
+                res = min(res, i - mp[need])
 
-            prefixMod[currentMod] = i
+            mp[prefix] = i
 
-        return minLength if minLength < len(nums) else -1
+        return -1 if res == len(nums) else res
