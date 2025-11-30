@@ -338,6 +338,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/zeyongj/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyongj/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyongj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -970,6 +971,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1500-count-largest-group](https://github.com/zeyongj/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -1105,6 +1107,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/zeyongj/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
