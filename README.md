@@ -94,6 +94,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode/tree/master/3441-minimum-cost-good-caption) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3490-count-beautiful-numbers](https://github.com/zeyongj/LeetCode/tree/master/3490-count-beautiful-numbers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/zeyongj/LeetCode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
