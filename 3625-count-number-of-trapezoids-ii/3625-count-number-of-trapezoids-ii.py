@@ -1,9 +1,18 @@
-from math import gcd
-from collections import defaultdict
-from typing import List
+try:
+    from math import gcd
+except ImportError:
+    
+    from fractions import gcd
 
-class Solution:
-    def countTrapezoids(self, points: List[List[int]]) -> int:
+from collections import defaultdict
+
+class Solution(object):
+    def countTrapezoids(self, points):
+        """
+        :type points: List[List[int]]
+        :rtype: int
+        """
+
         t = defaultdict(lambda: defaultdict(int))
         v = defaultdict(lambda: defaultdict(int))
 
@@ -32,17 +41,14 @@ class Solution:
                 t[key1][des] += 1
                 v[key2][des] += 1
 
-        return self.count(t) - self.count(v) // 2
+        return self._count(t) - self._count(v) // 2
 
-    def count(self, mp):
+    def _count(self, mp):
         ans = 0
-
         for inner in mp.values():
             total = sum(inner.values())
-            remaining = total
-
+            rem = total
             for val in inner.values():
-                remaining -= val
-                ans += val * remaining
-
+                rem -= val
+                ans += val * rem
         return ans
