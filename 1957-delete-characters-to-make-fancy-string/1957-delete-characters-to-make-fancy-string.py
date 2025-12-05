@@ -1,13 +1,18 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        ans = s[0]
-        cnt = 1
+        result = s[0]
+        last = s[0]
+        count = 1
+
         for i in range(1, len(s)):
-            if s[i] == ans[-1]:
-                cnt += 1
-                if cnt < 3:
-                    ans += s[i]
-            else:
-                cnt = 1
-                ans += s[i]
-        return ans
+            if s[i] != last:
+                last = s[i]
+                count = 0
+
+            count += 1
+            if count > 2:
+                continue
+
+            result += s[i]
+
+        return result
