@@ -613,6 +613,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1446-angle-between-hands-of-a-clock](https://github.com/zeyongj/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/zeyongj/LeetCode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/zeyongj/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/zeyongj/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/zeyongj/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
