@@ -530,6 +530,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3583-count-special-triplets](https://github.com/zeyongj/LeetCode/tree/master/3583-count-special-triplets) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1067,6 +1068,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3583-count-special-triplets](https://github.com/zeyongj/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1125,6 +1127,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3583-count-special-triplets](https://github.com/zeyongj/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zeyongj/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
