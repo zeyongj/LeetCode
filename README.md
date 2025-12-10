@@ -482,6 +482,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -1298,6 +1299,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/zeyongj/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/zeyongj/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1484,6 +1486,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
