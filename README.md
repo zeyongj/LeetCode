@@ -527,6 +527,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
+| [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/zeyongj/LeetCode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/zeyongj/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -774,6 +775,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/zeyongj/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -1069,6 +1071,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
+| [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3583-count-special-triplets](https://github.com/zeyongj/LeetCode/tree/master/3583-count-special-triplets) |
