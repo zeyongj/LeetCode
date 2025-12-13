@@ -70,6 +70,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyongj/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zeyongj/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/zeyongj/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/zeyongj/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1149,6 +1150,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/zeyongj/LeetCode/tree/master/0488-zuma-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/zeyongj/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/zeyongj/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zeyongj/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
