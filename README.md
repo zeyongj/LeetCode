@@ -693,6 +693,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyongj/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zeyongj/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/zeyongj/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -963,6 +964,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zeyongj/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
