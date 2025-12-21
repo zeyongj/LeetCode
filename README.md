@@ -627,6 +627,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0368-largest-divisible-subset](https://github.com/zeyongj/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0593-valid-square](https://github.com/zeyongj/LeetCode/tree/master/0593-valid-square) |
 | [0667-beautiful-arrangement-ii](https://github.com/zeyongj/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/zeyongj/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -729,6 +730,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/zeyongj/LeetCode/tree/master/0593-valid-square) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/zeyongj/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
