@@ -310,6 +310,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
@@ -899,6 +900,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0851-goat-latin](https://github.com/zeyongj/LeetCode/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1012-equal-rational-numbers](https://github.com/zeyongj/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/zeyongj/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -1491,6 +1493,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zeyongj/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
