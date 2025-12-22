@@ -657,6 +657,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/zeyongj/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeyongj/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1903-largest-odd-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/zeyongj/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1965-sum-of-digits-in-base-k](https://github.com/zeyongj/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -931,6 +932,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1818-maximum-score-from-removing-substrings](https://github.com/zeyongj/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/zeyongj/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1903-largest-odd-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zeyongj/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/zeyongj/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -1513,6 +1515,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1824-maximum-number-of-eaten-apples](https://github.com/zeyongj/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1903-largest-odd-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyongj/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/zeyongj/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
