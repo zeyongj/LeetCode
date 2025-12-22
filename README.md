@@ -303,6 +303,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0740-delete-and-earn](https://github.com/zeyongj/LeetCode/tree/master/0740-delete-and-earn) |
 | [0759-set-intersection-size-at-least-two](https://github.com/zeyongj/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
@@ -859,6 +860,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
@@ -1330,6 +1332,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0318-maximum-product-of-word-lengths](https://github.com/zeyongj/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/zeyongj/LeetCode/tree/master/0338-counting-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/zeyongj/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1381,6 +1384,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -1668,6 +1672,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zeyongj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
