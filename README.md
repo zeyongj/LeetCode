@@ -834,6 +834,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2174-next-greater-numerically-balanced-number](https://github.com/zeyongj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/zeyongj/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/zeyongj/LeetCode/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/zeyongj/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2528-number-of-valid-clock-times](https://github.com/zeyongj/LeetCode/tree/master/2528-number-of-valid-clock-times) |
 | [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
@@ -953,6 +954,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2211-count-collisions-on-a-road](https://github.com/zeyongj/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/zeyongj/LeetCode/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
