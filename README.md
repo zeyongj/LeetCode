@@ -511,6 +511,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/zeyongj/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -809,6 +810,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1568,6 +1570,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyongj/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/zeyongj/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
