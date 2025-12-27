@@ -291,6 +291,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/zeyongj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zeyongj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0456-132-pattern](https://github.com/zeyongj/LeetCode/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/zeyongj/LeetCode/tree/master/0457-circular-array-loop) |
 | [0474-ones-and-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
@@ -1271,6 +1272,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeyongj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/zeyongj/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/zeyongj/LeetCode/tree/master/0456-132-pattern) |
 | [0878-nth-magical-number](https://github.com/zeyongj/LeetCode/tree/master/0878-nth-magical-number) |
 | [1294-range-frequency-queries](https://github.com/zeyongj/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/zeyongj/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1492,6 +1494,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0145-binary-tree-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0321-create-maximum-number](https://github.com/zeyongj/LeetCode/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/zeyongj/LeetCode/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/zeyongj/LeetCode/tree/master/0488-zuma-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/zeyongj/LeetCode/tree/master/0636-exclusive-time-of-functions) |
@@ -1643,6 +1646,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/zeyongj/LeetCode/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/zeyongj/LeetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zeyongj/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1748,6 +1752,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/zeyongj/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0456-132-pattern](https://github.com/zeyongj/LeetCode/tree/master/0456-132-pattern) |
 | [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
