@@ -513,6 +513,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -815,6 +816,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2887-sort-vowels-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1131,6 +1133,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
