@@ -309,6 +309,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0759-set-intersection-size-at-least-two](https://github.com/zeyongj/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
+| [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
@@ -649,6 +650,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0679-24-game](https://github.com/zeyongj/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/zeyongj/LeetCode/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/zeyongj/LeetCode/tree/master/0867-new-21-game) |
 | [0878-nth-magical-number](https://github.com/zeyongj/LeetCode/tree/master/0878-nth-magical-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1066,6 +1068,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1720,6 +1723,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0417-pacific-atlantic-water-flow](https://github.com/zeyongj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
+| [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
