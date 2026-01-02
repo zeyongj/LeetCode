@@ -336,6 +336,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1063-best-sightseeing-pair](https://github.com/zeyongj/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1080-camelcase-matching](https://github.com/zeyongj/LeetCode/tree/master/1080-camelcase-matching) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/zeyongj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/zeyongj/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1137-height-checker](https://github.com/zeyongj/LeetCode/tree/master/1137-height-checker) |
 | [1148-adding-two-negabinary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zeyongj/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -661,6 +662,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1012-equal-rational-numbers](https://github.com/zeyongj/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1057-numbers-with-repeated-digits](https://github.com/zeyongj/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/zeyongj/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1148-adding-two-negabinary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1276-closest-divisors](https://github.com/zeyongj/LeetCode/tree/master/1276-closest-divisors) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeyongj/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
