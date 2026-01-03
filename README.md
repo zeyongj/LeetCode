@@ -521,6 +521,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2791-find-the-losers-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/zeyongj/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
@@ -725,6 +726,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/zeyongj/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/zeyongj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zeyongj/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
@@ -832,6 +834,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [2887-sort-vowels-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1362,6 +1365,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2610-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/zeyongj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -1555,6 +1559,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1614,6 +1619,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/zeyongj/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/zeyongj/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -1697,6 +1703,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1985-maximum-subarray-min-product](https://github.com/zeyongj/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 | [2549-next-greater-element-iv](https://github.com/zeyongj/LeetCode/tree/master/2549-next-greater-element-iv) |
+| [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
