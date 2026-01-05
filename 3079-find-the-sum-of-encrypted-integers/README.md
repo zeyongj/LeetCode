@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-sum-of-encrypted-integers/">3079. Find the Sum of Encrypted Integers</a></h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>nums</code> containing <strong>positive</strong> integers. We define a function <code>encrypt</code> such that <code>encrypt(x)</code> replaces <strong>every</strong> digit in <code>x</code> with the <strong>largest</strong> digit in <code>x</code>. For example, <code>encrypt(523) = 555</code> and <code>encrypt(213) = 333</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-sum-of-encrypted-integers">3367. Find the Sum of Encrypted Integers</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> containing <strong>positive</strong> integers. We define a function <code>encrypt</code> such that <code>encrypt(x)</code> replaces <strong>every</strong> digit in <code>x</code> with the <strong>largest</strong> digit in <code>x</code>. For example, <code>encrypt(523) = 555</code> and <code>encrypt(213) = 333</code>.</p>
 
 <p>Return <em>the <strong>sum </strong>of encrypted elements</em>.</p>
 
@@ -30,4 +30,3 @@
 	<li><code>1 &lt;= nums.length &lt;= 50</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
-</div>
