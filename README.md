@@ -539,6 +539,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/zeyongj/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/zeyongj/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3187-peaks-in-array](https://github.com/zeyongj/LeetCode/tree/master/3187-peaks-in-array) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1913,6 +1914,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/zeyongj/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zeyongj/LeetCode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
+| [3187-peaks-in-array](https://github.com/zeyongj/LeetCode/tree/master/3187-peaks-in-array) |
 | [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/zeyongj/LeetCode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
@@ -1924,6 +1926,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zeyongj/LeetCode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
+| [3187-peaks-in-array](https://github.com/zeyongj/LeetCode/tree/master/3187-peaks-in-array) |
 | [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
