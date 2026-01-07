@@ -145,6 +145,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/zeyongj/LeetCode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
@@ -195,6 +196,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/zeyongj/LeetCode/tree/master/2531-create-components-with-same-value) |
@@ -454,6 +456,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/zeyongj/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyongj/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -647,6 +650,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/zeyongj/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2092-find-all-people-with-secret](https://github.com/zeyongj/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zeyongj/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/zeyongj/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/zeyongj/LeetCode/tree/master/3189-find-champion-ii) |
@@ -1013,6 +1017,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/zeyongj/LeetCode/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeyongj/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2262-total-appeal-of-a-string](https://github.com/zeyongj/LeetCode/tree/master/2262-total-appeal-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zeyongj/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -1861,6 +1866,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/zeyongj/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
