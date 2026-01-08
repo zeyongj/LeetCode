@@ -623,6 +623,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3737-paint-house-iv](https://github.com/zeyongj/LeetCode/tree/master/3737-paint-house-iv) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1208,6 +1209,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/zeyongj/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/zeyongj/LeetCode/tree/master/3678-design-task-manager) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zeyongj/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/zeyongj/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1321,6 +1323,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3643-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/zeyongj/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/zeyongj/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
