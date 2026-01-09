@@ -135,6 +135,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeyongj/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -181,6 +182,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0757-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeyongj/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -230,6 +232,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeyongj/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/zeyongj/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -256,6 +259,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0662-maximum-width-of-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0757-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/zeyongj/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeyongj/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/zeyongj/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1112,6 +1116,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeyongj/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/zeyongj/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
