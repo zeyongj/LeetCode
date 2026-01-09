@@ -1035,6 +1035,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zeyongj/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/zeyongj/LeetCode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2399-check-distances-between-same-letters](https://github.com/zeyongj/LeetCode/tree/master/2399-check-distances-between-same-letters) |
@@ -1497,6 +1498,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeyongj/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeyongj/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/zeyongj/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/zeyongj/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zeyongj/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1585,6 +1587,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1985-maximum-subarray-min-product](https://github.com/zeyongj/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 | [2211-count-collisions-on-a-road](https://github.com/zeyongj/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zeyongj/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/zeyongj/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/zeyongj/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1867,6 +1870,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2023-design-movie-rental-system](https://github.com/zeyongj/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2169-simple-bank-system](https://github.com/zeyongj/LeetCode/tree/master/2169-simple-bank-system) |
+| [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/zeyongj/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/zeyongj/LeetCode/tree/master/3678-design-task-manager) |
@@ -1920,6 +1924,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0445-add-two-numbers-ii](https://github.com/zeyongj/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0838-design-linked-list](https://github.com/zeyongj/LeetCode/tree/master/0838-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zeyongj/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/zeyongj/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Quickselect
 |  |
@@ -2017,4 +2022,8 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0880-rectangle-area-ii](https://github.com/zeyongj/LeetCode/tree/master/0880-rectangle-area-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
