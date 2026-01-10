@@ -591,6 +591,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeyongj/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zeyongj/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -876,6 +877,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/zeyongj/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -1720,6 +1722,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/zeyongj/LeetCode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
