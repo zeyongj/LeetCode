@@ -774,6 +774,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3433-count-mentions-per-user](https://github.com/zeyongj/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/zeyongj/LeetCode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/zeyongj/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
