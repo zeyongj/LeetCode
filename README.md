@@ -373,6 +373,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1242-matrix-block-sum](https://github.com/zeyongj/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1287-distance-between-bus-stops](https://github.com/zeyongj/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/zeyongj/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -705,6 +706,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1057-numbers-with-repeated-digits](https://github.com/zeyongj/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/zeyongj/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1148-adding-two-negabinary-numbers](https://github.com/zeyongj/LeetCode/tree/master/1148-adding-two-negabinary-numbers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-closest-divisors](https://github.com/zeyongj/LeetCode/tree/master/1276-closest-divisors) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeyongj/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zeyongj/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -801,6 +803,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/zeyongj/LeetCode/tree/master/0593-valid-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/zeyongj/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
