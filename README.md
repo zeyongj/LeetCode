@@ -127,6 +127,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0096-unique-binary-search-trees](https://github.com/zeyongj/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -168,6 +169,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/zeyongj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -225,6 +227,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0096-unique-binary-search-trees](https://github.com/zeyongj/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
