@@ -597,6 +597,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3432-count-partitions-with-even-sum-difference](https://github.com/zeyongj/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/zeyongj/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3453-separate-squares-i](https://github.com/zeyongj/LeetCode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeyongj/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1391,6 +1392,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/zeyongj/LeetCode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/zeyongj/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3453-separate-squares-i](https://github.com/zeyongj/LeetCode/tree/master/3453-separate-squares-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
