@@ -53,6 +53,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/zeyongj/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/zeyongj/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/zeyongj/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/zeyongj/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -994,6 +995,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0793-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0851-goat-latin](https://github.com/zeyongj/LeetCode/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/zeyongj/LeetCode/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/zeyongj/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/zeyongj/LeetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/zeyongj/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
