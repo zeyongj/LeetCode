@@ -1030,6 +1030,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1818-maximum-score-from-removing-substrings](https://github.com/zeyongj/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/zeyongj/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zeyongj/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1163,6 +1164,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1711-count-good-meals](https://github.com/zeyongj/LeetCode/tree/master/1711-count-good-meals) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1264,6 +1266,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/zeyongj/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/zeyongj/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
