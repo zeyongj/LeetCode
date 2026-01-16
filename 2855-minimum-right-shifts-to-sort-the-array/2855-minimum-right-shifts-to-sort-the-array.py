@@ -1,19 +1,12 @@
-class Solution(object):
-    def minimumRightShifts(self, nums):
-        drop = 999
+class Solution:
+    def minimumRightShifts(self, nums: List[int]) -> int:
+        
+        n = len(nums)
+    
+        for i in range(1, n):
+            if nums[i] < nums[i-1]:
 
-        for i in range(len(nums)-1):
-            if nums[i] > nums[i+1]:
-                if drop < 999:
-                    return -1
-                drop = i
+                    nums = nums[i:]+nums[:i]
+                    return n-i if nums == sorted(nums) else -1
 
-        if drop == 999:
-            return 0
-
-        if nums[-1] > nums[0]:
-            if drop < 999:
-                return -1
-            drop = i
-
-        return len(nums) - drop - 1
+        return 0
