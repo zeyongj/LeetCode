@@ -564,6 +564,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/zeyongj/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zeyongj/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -771,6 +772,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zeyongj/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zeyongj/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/zeyongj/LeetCode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -814,6 +816,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0593-valid-square](https://github.com/zeyongj/LeetCode/tree/master/0593-valid-square) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/zeyongj/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyongj/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/zeyongj/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
