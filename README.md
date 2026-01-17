@@ -895,6 +895,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyongj/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/zeyongj/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3430-count-days-without-meetings](https://github.com/zeyongj/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/zeyongj/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -1088,6 +1089,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/zeyongj/LeetCode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/zeyongj/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3396-valid-word](https://github.com/zeyongj/LeetCode/tree/master/3396-valid-word) |
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode/tree/master/3441-minimum-cost-good-caption) |
@@ -1226,6 +1228,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeyongj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/zeyongj/LeetCode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/zeyongj/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/zeyongj/LeetCode/tree/master/3388-right-triangles) |
