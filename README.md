@@ -436,6 +436,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/zeyongj/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/zeyongj/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/zeyongj/LeetCode/tree/master/1895-largest-magic-square) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/zeyongj/LeetCode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1331,6 +1332,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/zeyongj/LeetCode/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/zeyongj/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/zeyongj/LeetCode/tree/master/1985-maximum-subarray-min-product) |
@@ -1840,6 +1842,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/zeyongj/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/zeyongj/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/zeyongj/LeetCode/tree/master/1895-largest-magic-square) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/zeyongj/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/zeyongj/LeetCode/tree/master/1975-maximum-matrix-sum) |
