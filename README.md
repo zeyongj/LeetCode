@@ -383,6 +383,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1293-three-consecutive-odds](https://github.com/zeyongj/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1294-range-frequency-queries](https://github.com/zeyongj/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/zeyongj/LeetCode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/zeyongj/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -846,6 +847,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1200-minimum-absolute-difference](https://github.com/zeyongj/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/zeyongj/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/zeyongj/LeetCode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/zeyongj/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1470-tweet-counts-per-frequency](https://github.com/zeyongj/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
