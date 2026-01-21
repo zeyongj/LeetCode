@@ -430,6 +430,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zeyongj/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/zeyongj/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyongj/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -738,6 +739,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1636-number-of-substrings-with-only-1s](https://github.com/zeyongj/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/zeyongj/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeyongj/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/zeyongj/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -1537,6 +1539,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/zeyongj/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1883,6 +1886,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/zeyongj/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/zeyongj/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1992,6 +1996,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [0231-power-of-two](https://github.com/zeyongj/LeetCode/tree/master/0231-power-of-two) |
 | [0763-special-binary-string](https://github.com/zeyongj/LeetCode/tree/master/0763-special-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/zeyongj/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeyongj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/zeyongj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
