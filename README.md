@@ -594,6 +594,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/zeyongj/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/zeyongj/LeetCode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1509,6 +1510,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zeyongj/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/zeyongj/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/zeyongj/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/zeyongj/LeetCode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
