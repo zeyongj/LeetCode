@@ -328,6 +328,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0456-132-pattern](https://github.com/zeyongj/LeetCode/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/zeyongj/LeetCode/tree/master/0457-circular-array-loop) |
 | [0474-ones-and-zeroes](https://github.com/zeyongj/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0491-non-decreasing-subsequences](https://github.com/zeyongj/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/zeyongj/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1149,6 +1150,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0383-ransom-note](https://github.com/zeyongj/LeetCode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/zeyongj/LeetCode/tree/master/0398-random-pick-index) |
 | [0457-circular-array-loop](https://github.com/zeyongj/LeetCode/tree/master/0457-circular-array-loop) |
+| [0491-non-decreasing-subsequences](https://github.com/zeyongj/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/zeyongj/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeyongj/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/zeyongj/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -1479,6 +1481,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0231-power-of-two](https://github.com/zeyongj/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/zeyongj/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/zeyongj/LeetCode/tree/master/0338-counting-bits) |
+| [0491-non-decreasing-subsequences](https://github.com/zeyongj/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0757-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
@@ -1606,6 +1609,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0037-sudoku-solver](https://github.com/zeyongj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/zeyongj/LeetCode/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/zeyongj/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/zeyongj/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/zeyongj/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/zeyongj/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/zeyongj/LeetCode/tree/master/0756-pyramid-transition-matrix) |
