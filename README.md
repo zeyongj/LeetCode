@@ -623,6 +623,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/zeyongj/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1253,6 +1254,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyongj/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1576,6 +1578,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3433-count-mentions-per-user](https://github.com/zeyongj/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeyongj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/zeyongj/LeetCode/tree/master/3651-transformed-array) |
@@ -1785,6 +1788,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zeyongj/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1923,6 +1927,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/zeyongj/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/zeyongj/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/zeyongj/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1999,6 +2004,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/zeyongj/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -2103,4 +2109,5 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [2296-design-a-text-editor](https://github.com/zeyongj/LeetCode/tree/master/2296-design-a-text-editor) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
