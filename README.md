@@ -91,6 +91,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2295-minimum-time-to-finish-the-race](https://github.com/zeyongj/LeetCode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/zeyongj/LeetCode/tree/master/2397-count-number-of-ways-to-place-houses) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/zeyongj/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -766,6 +767,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2288-count-operations-to-obtain-zero](https://github.com/zeyongj/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/zeyongj/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/zeyongj/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2402-maximum-xor-after-operations](https://github.com/zeyongj/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1983,6 +1985,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/zeyongj/LeetCode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/zeyongj/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
