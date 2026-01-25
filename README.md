@@ -453,6 +453,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1970-last-day-where-you-can-still-cross](https://github.com/zeyongj/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/zeyongj/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/zeyongj/LeetCode/tree/master/1983-maximum-population-year) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeyongj/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-maximum-subarray-min-product](https://github.com/zeyongj/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/zeyongj/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/zeyongj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -871,6 +872,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyongj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zeyongj/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeyongj/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/zeyongj/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/zeyongj/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/zeyongj/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1826,6 +1828,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyongj/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/zeyongj/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/zeyongj/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeyongj/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zeyongj/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
