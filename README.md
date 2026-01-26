@@ -667,6 +667,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/zeyongj/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/zeyongj/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/zeyongj/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/zeyongj/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -930,6 +931,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/zeyongj/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3689-maximum-area-rectangle-with-point-constraints-ii](https://github.com/zeyongj/LeetCode/tree/master/3689-maximum-area-rectangle-with-point-constraints-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/zeyongj/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/zeyongj/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3881-minimize-maximum-component-cost](https://github.com/zeyongj/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Enumeration
 |  |
