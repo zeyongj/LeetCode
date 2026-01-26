@@ -637,6 +637,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3583-count-special-triplets](https://github.com/zeyongj/LeetCode/tree/master/3583-count-special-triplets) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/zeyongj/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -813,6 +814,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/zeyongj/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeyongj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/zeyongj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/zeyongj/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1464,6 +1466,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3115-maximum-prime-difference](https://github.com/zeyongj/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
@@ -1845,6 +1848,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zeyongj/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zeyongj/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/zeyongj/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1914,6 +1918,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2618-maximize-the-minimum-powered-city](https://github.com/zeyongj/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2072,6 +2077,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/zeyongj/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Reservoir Sampling
 |  |
 | ------- |
