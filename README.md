@@ -116,6 +116,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/zeyongj/LeetCode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/zeyongj/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/zeyongj/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/zeyongj/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyongj/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1122,6 +1123,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/zeyongj/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3606-coupon-code-validator](https://github.com/zeyongj/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/zeyongj/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3617-find-the-original-typed-string-i](https://github.com/zeyongj/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1742,6 +1744,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/zeyongj/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
