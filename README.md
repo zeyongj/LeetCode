@@ -564,6 +564,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/zeyongj/LeetCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/zeyongj/LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -1244,6 +1245,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/zeyongj/LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyongj/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -1380,6 +1382,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2625-increment-submatrices-by-one](https://github.com/zeyongj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/zeyongj/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/zeyongj/LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/zeyongj/LeetCode/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
@@ -1852,6 +1855,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2626-count-the-number-of-good-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/zeyongj/LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
