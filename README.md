@@ -482,6 +482,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyongj/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1221,6 +1222,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2186-count-vowel-substrings-of-a-string](https://github.com/zeyongj/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/zeyongj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zeyongj/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zeyongj/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-total-appeal-of-a-string](https://github.com/zeyongj/LeetCode/tree/master/2262-total-appeal-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeyongj/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
