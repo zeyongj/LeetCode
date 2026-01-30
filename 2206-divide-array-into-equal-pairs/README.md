@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/divide-array-into-equal-pairs/">2206. Divide Array Into Equal Pairs</a></h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>nums</code> consisting of <code>2 * n</code> integers.</p>
+<h2><a href="https://leetcode.com/problems/divide-array-into-equal-pairs">2308. Divide Array Into Equal Pairs</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting of <code>2 * n</code> integers.</p>
 
 <p>You need to divide <code>nums</code> into <code>n</code> pairs such that:</p>
 
@@ -12,7 +12,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,2,3,2,2,2]
+<pre>
+<strong>Input:</strong> nums = [3,2,3,2,2,2]
 <strong>Output:</strong> true
 <strong>Explanation:</strong> 
 There are 6 elements in nums, so they should be divided into 6 / 2 = 3 pairs.
@@ -21,7 +22,8 @@ If nums is divided into the pairs (2, 2), (3, 3), and (2, 2), it will satisfy al
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3,4]
+<pre>
+<strong>Input:</strong> nums = [1,2,3,4]
 <strong>Output:</strong> false
 <strong>Explanation:</strong> 
 There is no way to divide nums into 4 / 2 = 2 pairs such that the pairs satisfy every condition.
@@ -35,4 +37,3 @@ There is no way to divide nums into 4 / 2 = 2 pairs such that the pairs satisfy 
 	<li><code>1 &lt;= n &lt;= 500</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 500</code></li>
 </ul>
-</div>
