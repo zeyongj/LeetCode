@@ -681,6 +681,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/zeyongj/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/zeyongj/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/zeyongj/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/zeyongj/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyongj/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyongj/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1301,6 +1302,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zeyongj/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/zeyongj/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/zeyongj/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/zeyongj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1356,6 +1358,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zeyongj/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zeyongj/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/zeyongj/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/zeyongj/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 ## Memoization
 |  |
 | ------- |
@@ -1774,6 +1777,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3647-zero-array-transformation-iii](https://github.com/zeyongj/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/zeyongj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zeyongj/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/zeyongj/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyongj/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/zeyongj/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
