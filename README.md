@@ -583,6 +583,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/zeyongj/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/zeyongj/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/zeyongj/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1274,6 +1275,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2956-find-common-elements-between-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/zeyongj/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/zeyongj/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
@@ -1832,6 +1834,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2681-put-marbles-in-bags](https://github.com/zeyongj/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/zeyongj/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/2728-sum-in-a-matrix) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/zeyongj/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/zeyongj/LeetCode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zeyongj/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/zeyongj/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -1884,6 +1887,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2673-maximize-win-from-two-segments](https://github.com/zeyongj/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/zeyongj/LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/zeyongj/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
