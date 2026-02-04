@@ -1,19 +1,25 @@
 class Solution:
-    def _binarySearchSolution(self, stores: int, products: List[int]) -> int:
-        products.sort(reverse=True)
-        left, right = 1, products[0]
-        while left <= right:
-            mid = (left + right) // 2
-            extra = stores - len(products)
-            for p in products:
-                extra -= math.ceil(p / mid) - 1
-                if extra < 0: break
-            if extra < 0:
-                left = mid + 1
+    def solve(self, n, quantities, item):
+        if item == 0:
+            return False
+        store = 0
+        for product in quantities:
+            store += (product - 1) // item + 1
+            if store > n:
+                return False
+        return True
+
+    def minimizedMaximum(self, n, quantities):
+        low = 1
+        high = max(quantities)
+        ans = -1
+
+        while low <= high:
+            mid = (low + high) // 2
+            if self.solve(n, quantities, mid):
+                ans = mid
+                high = mid - 1
             else:
-                right = mid - 1
-                res = mid
-        return res
-    
-    def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
-        return max(quantities) if n == len(quantities) else self._binarySearchSolution(n, quantities)
+                low = mid + 1
+
+        return ans
