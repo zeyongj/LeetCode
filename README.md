@@ -470,6 +470,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2023-design-movie-rental-system](https://github.com/zeyongj/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/zeyongj/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/zeyongj/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/zeyongj/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2104-operations-on-tree](https://github.com/zeyongj/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/zeyongj/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -1457,6 +1458,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1970-last-day-where-you-can-still-cross](https://github.com/zeyongj/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/zeyongj/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/zeyongj/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/zeyongj/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/zeyongj/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/zeyongj/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1749,6 +1751,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1903-largest-odd-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyongj/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/zeyongj/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/zeyongj/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/zeyongj/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/zeyongj/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
