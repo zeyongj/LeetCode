@@ -1143,6 +1143,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyongj/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/zeyongj/LeetCode/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3340-check-balanced-string](https://github.com/zeyongj/LeetCode/tree/master/3340-check-balanced-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/zeyongj/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/zeyongj/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/zeyongj/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
