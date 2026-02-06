@@ -602,6 +602,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/zeyongj/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/zeyongj/LeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3187-peaks-in-array](https://github.com/zeyongj/LeetCode/tree/master/3187-peaks-in-array) |
+| [3208-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/zeyongj/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1901,6 +1902,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/zeyongj/LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/zeyongj/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3208-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/zeyongj/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zeyongj/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/zeyongj/LeetCode/tree/master/3483-alternating-groups-ii) |
