@@ -354,6 +354,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0744-find-smallest-letter-greater-than-target](https://github.com/zeyongj/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/zeyongj/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/zeyongj/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/zeyongj/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -1736,6 +1737,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0768-partition-labels](https://github.com/zeyongj/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/zeyongj/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/zeyongj/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/zeyongj/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0991-array-of-doubled-pairs](https://github.com/zeyongj/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/zeyongj/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -1931,6 +1933,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zeyongj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/zeyongj/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/zeyongj/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/zeyongj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/zeyongj/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
