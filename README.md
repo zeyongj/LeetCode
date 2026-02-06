@@ -432,6 +432,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/zeyongj/LeetCode/tree/master/1656-count-good-triplets) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zeyongj/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-count-good-meals](https://github.com/zeyongj/LeetCode/tree/master/1711-count-good-meals) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/zeyongj/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -773,6 +774,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/zeyongj/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/zeyongj/LeetCode/tree/master/1617-stone-game-iv) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/zeyongj/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/zeyongj/LeetCode/tree/master/1788-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/zeyongj/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1403,6 +1405,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/zeyongj/LeetCode/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/zeyongj/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
