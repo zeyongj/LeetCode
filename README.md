@@ -574,6 +574,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2787-movement-of-robots](https://github.com/zeyongj/LeetCode/tree/master/2787-movement-of-robots) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/zeyongj/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/zeyongj/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2839-maximum-sum-queries](https://github.com/zeyongj/LeetCode/tree/master/2839-maximum-sum-queries) |
