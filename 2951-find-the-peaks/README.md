@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-peaks/">2951. Find the Peaks</a></h2><h3>Easy</h3><hr><div><p>You are given a <strong>0-indexed</strong> array <code>mountain</code>. Your task is to find all the <strong>peaks</strong> in the <code>mountain</code> array.</p>
+<h2><a href="https://leetcode.com/problems/find-the-peaks">3221. Find the Peaks</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>mountain</code>. Your task is to find all the <strong>peaks</strong> in the <code>mountain</code> array.</p>
 
 <p>Return <em>an array that consists of </em>indices<!-- notionvc: c9879de8-88bd-43b0-8224-40c4bee71cd6 --><em> of <strong>peaks</strong> in the given array in <strong>any order</strong>.</em></p>
 
@@ -12,7 +12,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> mountain = [2,4,4]
+<pre>
+<strong>Input:</strong> mountain = [2,4,4]
 <strong>Output:</strong> []
 <strong>Explanation:</strong> mountain[0] and mountain[2] can not be a peak because they are first and last elements of the array.
 mountain[1] also can not be a peak because it is not strictly greater than mountain[2].
@@ -21,7 +22,8 @@ So the answer is [].
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> mountain = [1,4,3,8,5]
+<pre>
+<strong>Input:</strong> mountain = [1,4,3,8,5]
 <strong>Output:</strong> [1,3]
 <strong>Explanation:</strong> mountain[0] and mountain[4] can not be a peak because they are first and last elements of the array.
 mountain[2] also can not be a peak because it is not strictly greater than mountain[3] and mountain[1].
@@ -36,4 +38,3 @@ So the answer is [1,3].
 	<li><code>3 &lt;= mountain.length &lt;= 100</code></li>
 	<li><code>1 &lt;= mountain[i] &lt;= 100</code></li>
 </ul>
-</div>
