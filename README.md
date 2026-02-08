@@ -588,6 +588,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2892-check-if-array-is-good](https://github.com/zeyongj/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/zeyongj/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2951-find-the-peaks](https://github.com/zeyongj/LeetCode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/zeyongj/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/zeyongj/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/zeyongj/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -991,6 +992,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2810-collecting-chocolates](https://github.com/zeyongj/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/zeyongj/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2889-number-of-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2889-number-of-black-blocks) |
+| [2951-find-the-peaks](https://github.com/zeyongj/LeetCode/tree/master/2951-find-the-peaks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/zeyongj/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/zeyongj/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
