@@ -156,6 +156,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/zeyongj/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
+| [1382-balance-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/zeyongj/LeetCode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
@@ -205,6 +206,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1377-frog-position-after-t-seconds](https://github.com/zeyongj/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
+| [1382-balance-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/zeyongj/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/zeyongj/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -257,6 +259,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyongj/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/zeyongj/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/zeyongj/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -1755,6 +1758,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zeyongj/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyongj/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/zeyongj/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -2062,6 +2066,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0215-kth-largest-element-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zeyongj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/zeyongj/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zeyongj/LeetCode/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -2175,6 +2180,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/zeyongj/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/zeyongj/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |
