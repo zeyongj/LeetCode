@@ -804,6 +804,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/zeyongj/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/zeyongj/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2402-maximum-xor-after-operations](https://github.com/zeyongj/LeetCode/tree/master/2402-maximum-xor-after-operations) |
+| [2409-count-days-spent-together](https://github.com/zeyongj/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zeyongj/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyongj/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeyongj/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1131,6 +1132,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2346-largest-3-same-digit-number-in-string](https://github.com/zeyongj/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/zeyongj/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2399-check-distances-between-same-letters](https://github.com/zeyongj/LeetCode/tree/master/2399-check-distances-between-same-letters) |
+| [2409-count-days-spent-together](https://github.com/zeyongj/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/zeyongj/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zeyongj/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
