@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/trips-and-users/">262. Trips and Users</a></h2><h3>Hard</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Trips</code></p>
+<h2><a href="https://leetcode.com/problems/trips-and-users">262. Trips and Users</a></h2><h3>Hard</h3><hr><p>Table: <code>Trips</code></p>
 
-<pre>+-------------+----------+
+<pre>
++-------------+----------+
 | Column Name | Type     |
 +-------------+----------+
 | id          | int      |
@@ -8,43 +9,45 @@
 | driver_id   | int      |
 | city_id     | int      |
 | status      | enum     |
-| request_at  | date     |     
+| request_at  | varchar  |     
 +-------------+----------+
-id is the primary key for this table.
+id is the primary key (column with unique values) for this table.
 The table holds all taxi trips. Each trip has a unique id, while client_id and driver_id are foreign keys to the users_id at the Users table.
-Status is an ENUM type of ('completed', 'cancelled_by_driver', 'cancelled_by_client').
+Status is an ENUM (category) type of (&#39;completed&#39;, &#39;cancelled_by_driver&#39;, &#39;cancelled_by_client&#39;).
 </pre>
 
-<p>&nbsp;</p>
+<p> </p>
 
 <p>Table: <code>Users</code></p>
 
-<pre>+-------------+----------+
+<pre>
++-------------+----------+
 | Column Name | Type     |
 +-------------+----------+
 | users_id    | int      |
 | banned      | enum     |
 | role        | enum     |
 +-------------+----------+
-users_id is the primary key for this table.
-The table holds all users. Each user has a unique users_id, and role is an ENUM type of ('client', 'driver', 'partner').
-banned is an ENUM type of ('Yes', 'No').
+users_id is the primary key (column with unique values) for this table.
+The table holds all users. Each user has a unique users_id, and role is an ENUM type of (&#39;client&#39;, &#39;driver&#39;, &#39;partner&#39;).
+banned is an ENUM (category) type of (&#39;Yes&#39;, &#39;No&#39;).
 </pre>
 
-<p>&nbsp;</p>
+<p> </p>
 
 <p>The <strong>cancellation rate</strong> is computed by dividing the number of canceled (by client or driver) requests with unbanned users by the total number of requests with unbanned users on that day.</p>
 
-<p>Write a SQL query to find the <strong>cancellation rate</strong> of requests with unbanned users (<strong>both client and driver must not be banned</strong>) each day between <code>"2013-10-01"</code> and <code>"2013-10-03"</code>. Round <code>Cancellation Rate</code> to <strong>two decimal</strong> points.</p>
+<p>Write a solution to find the <strong>cancellation rate</strong> of requests with unbanned users (<strong>both client and driver must not be banned</strong>) each day between <code>&quot;2013-10-01&quot;</code> and <code>&quot;2013-10-03&quot;</code> with <strong>at least</strong> one trip. Round <code>Cancellation Rate</code> to <strong>two decimal</strong> points.</p>
 
 <p>Return the result table in <strong>any order</strong>.</p>
 
-<p>The query result format is in the following example.</p>
+<p>The result format is in the following example.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Trips table:
 +----+-----------+-----------+---------+---------------------+------------+
 | id | client_id | driver_id | city_id | status              | request_at |
@@ -98,4 +101,3 @@ On 2013-10-03:
   - Hence there are 2 unbanned request in total, 1 of which were canceled.
   - The Cancellation Rate is (1 / 2) = 0.50
 </pre>
-</div>
