@@ -1093,6 +1093,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1302-delete-characters-to-make-fancy-string](https://github.com/zeyongj/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyongj/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/zeyongj/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1585,6 +1586,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/zeyongj/LeetCode/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/zeyongj/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/zeyongj/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zeyongj/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/zeyongj/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -1642,6 +1644,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [0898-transpose-matrix](https://github.com/zeyongj/LeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/zeyongj/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/zeyongj/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/zeyongj/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zeyongj/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
