@@ -659,6 +659,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/zeyongj/LeetCode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeyongj/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/zeyongj/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3519-find-the-number-of-winning-players](https://github.com/zeyongj/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3531-count-covered-buildings](https://github.com/zeyongj/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/zeyongj/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -852,6 +853,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [3433-count-mentions-per-user](https://github.com/zeyongj/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/zeyongj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zeyongj/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zeyongj/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/zeyongj/LeetCode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/zeyongj/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zeyongj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
