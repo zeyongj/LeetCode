@@ -81,6 +81,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/zeyongj/LeetCode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/zeyongj/LeetCode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyongj/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/zeyongj/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/zeyongj/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/zeyongj/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1123,6 +1124,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyongj/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/zeyongj/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/zeyongj/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/zeyongj/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/zeyongj/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/zeyongj/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
