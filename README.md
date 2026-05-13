@@ -441,6 +441,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1628-count-submatrices-with-all-ones](https://github.com/zeyongj/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zeyongj/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/zeyongj/LeetCode/tree/master/1656-count-good-triplets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zeyongj/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-count-good-meals](https://github.com/zeyongj/LeetCode/tree/master/1711-count-good-meals) |
@@ -1262,6 +1263,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1500-count-largest-group](https://github.com/zeyongj/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1711-count-good-meals](https://github.com/zeyongj/LeetCode/tree/master/1711-count-good-meals) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/zeyongj/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyongj/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1437,6 +1439,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1477-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/zeyongj/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeyongj/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/zeyongj/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyongj/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
