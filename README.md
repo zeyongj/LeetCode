@@ -603,6 +603,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/zeyongj/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/zeyongj/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/zeyongj/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/zeyongj/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -831,6 +832,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/zeyongj/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2998-count-symmetric-integers](https://github.com/zeyongj/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/zeyongj/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -1548,6 +1550,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2635-check-if-point-is-reachable](https://github.com/zeyongj/LeetCode/tree/master/2635-check-if-point-is-reachable) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/zeyongj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/zeyongj/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/zeyongj/LeetCode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3115-maximum-prime-difference](https://github.com/zeyongj/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3208-count-beautiful-substrings-ii](https://github.com/zeyongj/LeetCode/tree/master/3208-count-beautiful-substrings-ii) |
@@ -1831,6 +1834,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2818-apply-operations-to-maximize-score](https://github.com/zeyongj/LeetCode/tree/master/2818-apply-operations-to-maximize-score) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zeyongj/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/zeyongj/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/zeyongj/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/zeyongj/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zeyongj/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/zeyongj/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
