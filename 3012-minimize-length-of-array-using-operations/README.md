@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-length-of-array-using-operations/">3012. Minimize Length of Array Using Operations</a></h2><h3>Medium</h3><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> containing <strong>positive</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/minimize-length-of-array-using-operations">3244. Minimize Length of Array Using Operations</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> containing <strong>positive</strong> integers.</p>
 
 <p>Your task is to <strong>minimize</strong> the length of <code>nums</code> by performing the following operations <strong>any</strong> number of times (including zero):</p>
 
@@ -13,7 +13,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,4,3,1]
+<pre>
+<strong>Input:</strong> nums = [1,4,3,1]
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> One way to minimize the length of the array is as follows:
 Operation 1: Select indices 2 and 1, insert nums[2] % nums[1] at the end and it becomes [1,4,3,1,3], then delete elements at indices 2 and 1.
@@ -27,7 +28,8 @@ It can be shown that 1 is the minimum achievable length. </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [5,5,5,10,5]
+<pre>
+<strong>Input:</strong> nums = [5,5,5,10,5]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> One way to minimize the length of the array is as follows:
 Operation 1: Select indices 0 and 3, insert nums[0] % nums[3] at the end and it becomes [5,5,5,10,5,5], then delete elements at indices 0 and 3.
@@ -41,7 +43,8 @@ It can be shown that 2 is the minimum achievable length. </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [2,3,4]
+<pre>
+<strong>Input:</strong> nums = [2,3,4]
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> One way to minimize the length of the array is as follows: 
 Operation 1: Select indices 1 and 2, insert nums[1] % nums[2] at the end and it becomes [2,3,4,3], then delete elements at indices 1 and 2.
@@ -58,4 +61,3 @@ It can be shown that 1 is the minimum achievable length.</pre>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
