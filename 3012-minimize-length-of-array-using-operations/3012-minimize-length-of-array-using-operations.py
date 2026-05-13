@@ -1,4 +1,8 @@
-import math
 class Solution:
     def minimumArrayLength(self, nums: List[int]) -> int:
-        return max(math.ceil(nums.count(reduce(math.gcd, nums)) / 2), 1)
+        
+        gcd_ = gcd(*nums)
+        
+        ans = (nums.count(gcd_)+1)//2
+        
+        return ans if ans else 1
