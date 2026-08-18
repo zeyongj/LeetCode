@@ -531,6 +531,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2342-minimum-average-difference](https://github.com/zeyongj/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zeyongj/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/zeyongj/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/zeyongj/LeetCode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/zeyongj/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2399-check-distances-between-same-letters](https://github.com/zeyongj/LeetCode/tree/master/2399-check-distances-between-same-letters) |
@@ -1453,6 +1454,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [2249-count-the-hidden-sequences](https://github.com/zeyongj/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2342-minimum-average-difference](https://github.com/zeyongj/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/zeyongj/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/zeyongj/LeetCode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/zeyongj/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/zeyongj/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -2053,6 +2055,7 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 | [1794-minimize-deviation-in-array](https://github.com/zeyongj/LeetCode/tree/master/1794-minimize-deviation-in-array) |
 | [2023-design-movie-rental-system](https://github.com/zeyongj/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyongj/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/zeyongj/LeetCode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zeyongj/LeetCode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2429-design-a-food-rating-system](https://github.com/zeyongj/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/zeyongj/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -2262,4 +2265,5 @@ This work is licensed under [Apache License, Version 2.0](https://www.apache.org
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/zeyongj/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/zeyongj/LeetCode/tree/master/2382-maximum-segment-sum-after-removals) |
 <!---LeetCode Topics End-->
